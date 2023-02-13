@@ -1,0 +1,283 @@
+filename,st_name,speaker,age,gender,text,arg0,arg1,metaphor_score
+WY2022.txt,Wyoming,Gordon_Mark,65,0,My top priority is a market adjustment for state employees.,top,priority,.75014651
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Things were right in the world and our job would become easier.,job,become,.60439605
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Despite tremendous challenges, Wyoming is strong and getting stronger.",tremendous,challenge,.68074435
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Let Wyoming power the country!,power,country,.51385152
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"However, to export energy, we must have reliable, secure sources of transmission.",export,energy,.59800106
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"That is amazing stuff, and when I report this to my colleagues they ask how we did it.",do,it,.46025267
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Together we have emerged stronger, more engaged, and better equipped to tackle new challenges and seize fresh opportunities.",tackle,challenge,.69601828
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming is proud of its citizen legislators -- and the way we select them.,select,they,.49832875
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Our towns and counties can.,town,can,.39757827
+WY2022.txt,Wyoming,Gordon_Mark,65,0,The drive had to be completed before the day could become too hot.,day,become,.61565471
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Chairman Dresser is working on a documentary that will highlight this important issue to a wider audience.,highlight,issue,.47077245
+WY2022.txt,Wyoming,Gordon_Mark,65,0,And we look forward to doing even more in the years to come.,do,more,.47821423
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"WIP is all about more people who do, and more people who can.",more,people,.41102111
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Jason, will you stand so that we might recognize you and the industrial spirit of Wyoming.",you,stand,.48903406
+WY2022.txt,Wyoming,Gordon_Mark,65,0,You two are absolutely amazing and your students know it.,student,know,.37447357
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Across this state, we are stepping up our efforts to remember our Veterans.",remember,veterans,.54145813
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Across this state, we are stepping up our efforts to remember our Veterans.",step,effort,.57543105
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"You know, the world has become a decidedly scarier place with China and Russia rattling sabers.",rattle,saber,.34669381
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I ask you to consider using American Rescue Plan dollars to do more in our fight against suicide.,ask,you,.49025932
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Water in Wyoming is sacred, and we need the ability to stand our ground when it comes to protecting it.",stand,ground,.48304695
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"WIP is all about more people who do, and more people who can.",more,people,.41102111
+WY2022.txt,Wyoming,Gordon_Mark,65,0,One company took Yogi' s ad vice.,take,vice,.47566879
+WY2022.txt,Wyoming,Gordon_Mark,65,0,The old adage of peace through strength remains true.,old,adage,.46923718
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Revenue from lodging is now saving the general fund money and creating opportunities for new investments in outdoor recreation.,new,investment,.56874746
+WY2022.txt,Wyoming,Gordon_Mark,65,0,She reminded me of a story about Bobby Lane who works at the Honor Farm.,she,remind,.39301136
+WY2022.txt,Wyoming,Gordon_Mark,65,0,General Porter calls our Guard the sword and the shield of Wyoming and they have earned it.,they,earn,.5443294
+WY2022.txt,Wyoming,Gordon_Mark,65,0,lt made all the struggle of the earlier darkness worth it.,early,darkness,.49990582
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Jason, will you stand so that we might recognize you and the industrial spirit of Wyoming.",recognize,you,.53234988
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming is leading the research on ways to keep our legacy industries viable and take up new ones as well.,wyoming,lead,.51298422
+WY2022.txt,Wyoming,Gordon_Mark,65,0,God bless America and God bless Wyoming.,bless,wyoming,.66576362
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Over the past couple of years, Wyoming has faced down many challenges.",face,challenge,.70118701
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"We have to keep this momentum going, and that is what the Wyoming Innovation Partnership or WIP is all about.",momentum,go,.65977949
+WY2022.txt,Wyoming,Gordon_Mark,65,0,That is why our nation's nuclear arsenal remains essential.,nuclear,arsenal,.5379051
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Therefore, my focus must remain on the long-term fiscal viability of Wyoming and our ability to fight back.",long,term,.67602867
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We cannot ignore these sobering facts.,sobering,fact,.58103365
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming's Constitution obliges me to present a balanced budget.,constitution,oblige,.35539207
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Remember, our state's healthcare system is only as effective as the people who work in it.",who,work,.49188817
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"And we will, by fighting ridiculous regulation, promoting sensible development, and embracing new opportunities.",fight,regulation,.67024738
+WY2022.txt,Wyoming,Gordon_Mark,65,0,The pandemic has revealed that the demands on Wyoming's healthcare system and the accompanying costs require a focused approach.,demand,require,.46360627
+WY2022.txt,Wyoming,Gordon_Mark,65,0,The pandemic has revealed that the demands on Wyoming's healthcare system and the accompanying costs require a focused approach.,require,approach,.44466764
+WY2022.txt,Wyoming,Gordon_Mark,65,0,One continued bright spot for Wyoming is our tourism industry.,bright,spot,.08036913
+WY2022.txt,Wyoming,Gordon_Mark,65,0,The old adage of peace through strength remains true.,adage,remain,.62680161
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We must seize these opportunities.,seize,opportunity,.5277549
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Just the other day, Jennie was at the Fremont County Farm and Ranch Days.",other,day,.53058916
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"So, I ask you, does anyone in this room think there is an iota of common sense in that policy?",anyone,think,.37827289
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Our focus on economic diversification has broken this Catch 22.,focus,break,.74262011
+WY2022.txt,Wyoming,Gordon_Mark,65,0,God bless America and God bless Wyoming.,god,bless,.65857083
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Far too many have suffered PTSD and other war-related injuries.,suffer,ptsd,.28430554
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Right now, the world needs more cowboys.",world,need,.58914459
+WY2022.txt,Wyoming,Gordon_Mark,65,0,And so it is with our state these past few years.,few,year,.45464182
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Together we have emerged stronger, more engaged, and better equipped to tackle new challenges and seize fresh opportunities.",fresh,opportunity,.83861482
+WY2022.txt,Wyoming,Gordon_Mark,65,0,There are more than thanks needed as we appreciate those who have fought for our freedom.,appreciate,those,.42626533
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We rightfully invest a lot in the education and development of our kids.,invest,lot,.5784688
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Thanks to your families that are here or at home supporting you.,support,you,.43860424
+WY2022.txt,Wyoming,Gordon_Mark,65,0,That meant most of the drive happened before sunrise.,most,happen,.45464519
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Last year you passed and I signed into law a strong voter ID law.,strong,law,.79748321
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Over the past couple of years, Wyoming has faced down many challenges.",past,couple,.59987789
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"I want to take this opportunity to recognize Anne Ochs, an educator for more than 3 0 years.",take,opportunity,.38905886
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Instead it has caused inflation to soar.,inflation,soar,.68628317
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Neighboring states can and do hire our folks away.,state,hire,.48097956
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We have not seen the end to the assault on our state' s core industries perpetrated by this Administration.,see,end,.4751491
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"So, Bobby raises food, but more importantly he raises self-esteem.",bobby,raise,.49722925
+WY2022.txt,Wyoming,Gordon_Mark,65,0,That meant most of the drive happened before sunrise.,that,mean,.45433381
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We cannot ignore these sobering facts.,ignore,fact,.57189143
+WY2022.txt,Wyoming,Gordon_Mark,65,0,They ask for best wishes and prayers and are thankful to live in Wyoming.,good,wish,.53597063
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"As ranchers, Jennie and I know how critical water is to our lives.",critical,water,.42599723
+WY2022.txt,Wyoming,Gordon_Mark,65,0,There are two other individuals I would like to recognize.,other,individual,.44671482
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Our focus on economic diversification has broken this Catch 22.,economic,diversification,.60878974
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Jason, will you stand so that we might recognize you and the industrial spirit of Wyoming.",industrial,spirit,.57711703
+WY2022.txt,Wyoming,Gordon_Mark,65,0,General Porter calls our Guard the sword and the shield of Wyoming and they have earned it.,call,guard,.36903355
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"And we will, by fighting ridiculous regulation, promoting sensible development, and embracing new opportunities.",new,opportunity,.54493779
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Neighboring states can and do hire our folks away.,hire,folk,.4688285
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Y ou have shown how Wyoming takes care of our own.,take,care,.37283799
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Water in Wyoming is sacred, and we need the ability to stand our ground when it comes to protecting it.",need,ability,.50031513
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Dan, would you stand so that we may recognize you.",you,stand,.48903406
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We can feel that momentum as businesses rebound and unemployment falls away to the lowest level since 2008.,feel,momentum,.69997793
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Water in Wyoming is sacred, and we need the ability to stand our ground when it comes to protecting it.",protect,it,.44674581
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Members of the 66th Legislature, thank you for your service to the State.",thank,you,.44988889
+WY2022.txt,Wyoming,Gordon_Mark,65,0,You two are absolutely amazing and your students know it.,know,it,.45236909
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Mr. Biden, tear up your energy policy!",tear,policy,.76371664
+WY2022.txt,Wyoming,Gordon_Mark,65,0,This is just another example of what state employees do - they go above and beyond.,employee,do,.39439303
+WY2022.txt,Wyoming,Gordon_Mark,65,0,That's why I established the Health Task Force as a way for stakeholders to improve accessibility and affordability.,improve,accessibility,.68999171
+WY2022.txt,Wyoming,Gordon_Mark,65,0,They both have a history in this body and continued to serve Wyoming long after they made their impressions here.,serve,wyoming,.50639951
+WY2022.txt,Wyoming,Gordon_Mark,65,0,That's why I established the Health Task Force as a way for stakeholders to improve accessibility and affordability.,establish,force,.56566298
+WY2022.txt,Wyoming,Gordon_Mark,65,0,General Porter calls our Guard the sword and the shield of Wyoming and they have earned it.,porter,call,.48319829
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"You know, the world has become a decidedly scarier place with China and Russia rattling sabers.",scarier,place,.53036594
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Would you stand and be recognized.,you,stand,.48903406
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I have also proposed several other actions to deal with inflation.,several,action,.52381301
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"So, Bobby raises food, but more importantly he raises self-esteem.",he,raise,.45847127
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Revenue from lodging is now saving the general fund money and creating opportunities for new investments in outdoor recreation.,create,opportunity,.58717579
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"You know, the world has become a decidedly scarier place with China and Russia rattling sabers.",you,know,.47417736
+WY2022.txt,Wyoming,Gordon_Mark,65,0,There are lessons in that collection that every American needs to know.,american,need,.51690811
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"So, I ask you, does anyone in this room think there is an iota of common sense in that policy?",common,sense,.59077132
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Dan built this museum in Dubois and laid it out in a very educational way.,build,museum,.51267076
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming has always welcomed members of our Armed Forces as family.,welcome,member,.42623657
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"I want to recognize our neighbors and fellow Wyoming citizens, the Eastern Shoshone and Northern Arapaho tribes.",fellow,citizen,.52301443
+WY2022.txt,Wyoming,Gordon_Mark,65,0,More people continue to come here to visit and enjoy what we love about this state.,love,what,.53630424
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"However, to export energy, we must have reliable, secure sources of transmission.",secure,source,.57339561
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Chairman Dresser is working on a documentary that will highlight this important issue to a wider audience.,that,highlight,.52999896
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"The actions of the Biden Administration regarding public lands and energy, are deeply flawed and clearly miss the mark.",miss,mark,.45016181
+WY2022.txt,Wyoming,Gordon_Mark,65,0,lt made all the struggle of the earlier darkness worth it.,worth,it,.53151727
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I could smell the pine and hear the meadowlark.,smell,pine,.27455491
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We have not seen the end to the assault on our state' s core industries perpetrated by this Administration.,see,industry,.5378468
+WY2022.txt,Wyoming,Gordon_Mark,65,0,These actions won't reduce global warming or benefit consumers.,global,warming,.42085099
+WY2022.txt,Wyoming,Gordon_Mark,65,0,These men and women are essential to our national security.,national,security,.44350994
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I have also proposed several other actions to deal with inflation.,other,action,.54339558
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I regard this as critical to the functioning of our state enterprise.,regard,this,.5008502
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"This investment will bring returns many times over for Wyoming, our ranches, our businesses, and our way of life.",investment,bring,.65553218
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I have also proposed several other actions to deal with inflation.,propose,action,.38182986
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Revenue from lodging is now saving the general fund money and creating opportunities for new investments in outdoor recreation.,save,money,.54826361
+WY2022.txt,Wyoming,Gordon_Mark,65,0,General Porter calls our Guard the sword and the shield of Wyoming and they have earned it.,earn,it,.58054256
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Y ou have shown how Wyoming takes care of our own.,wyoming,take,.46724406
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Give us the tools and the chance to make this nation energy independent again.,energy,independent,.58942568
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Dan built this museum in Dubois and laid it out in a very educational way.,dan,build,.539262
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Thank you, Dan for putting Dubois on the list of must-visit places in Wyoming.",put,dubois,.49183112
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I ask you to consider using American Rescue Plan dollars to do more in our fight against suicide.,use,dollar,.46823442
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"All of these entities will be important in identifying opportunities and local needs, building curriculum, and importantly measuring performance.",local,need,.52725732
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Revenue from lodging is now saving the general fund money and creating opportunities for new investments in outdoor recreation.,general,fund,.4157545
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We can be proud that Wyoming will remain a critical component of our nuclear triad.,wyoming,remain,.32262191
+WY2022.txt,Wyoming,Gordon_Mark,65,0,lt tells a story about America's involvement in the world.,tell,story,.536026
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"President Dockstader, Speaker Barlow, members ofthe 66th Legislature, thank you for your welcome this morning.",thank,you,.44988889
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Anne, thank you for your courage and your leadership in this truly remarkable time.",remarkable,time,.60268182
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming's Constitution obliges me to present a balanced budget.,balanced,budget,.81510967
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming's Constitution obliges me to present a balanced budget.,present,budget,.46176043
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"There are a Jot of things that come to mind when the term ""cowboy"" comes up.",term,come,.57750112
+WY2022.txt,Wyoming,Gordon_Mark,65,0,90 percent of Wyoming state employees are earning less than their peers were - five years ago.,earn,less,.5896731
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"If you are not at the table in this new time, then you are on the menu.",new,time,.47385806
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We can feel that momentum as businesses rebound and unemployment falls away to the lowest level since 2008.,low,level,.48986202
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Revenue from lodging is now saving the general fund money and creating opportunities for new investments in outdoor recreation.,outdoor,recreation,.2595866
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"And we will, by fighting ridiculous regulation, promoting sensible development, and embracing new opportunities.",promote,development,.64589554
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We can feel that momentum as businesses rebound and unemployment falls away to the lowest level since 2008.,business,rebound,.74637282
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"We respect folks who get things done, not the critics and naysayers.",respect,folk,.51870716
+WY2022.txt,Wyoming,Gordon_Mark,65,0,And 30 percent of our workforce need a second job to make ends meet.,second,job,.61018109
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"And appropriately, it is a frugal one.",frugal,one,.50821459
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Suicide sadly remains an all too frequent event, especially for our veterans.",frequent,event,.55871081
+WY2022.txt,Wyoming,Gordon_Mark,65,0,That's why I established the Health Task Force as a way for stakeholders to improve accessibility and affordability.,stakeholder,improve,.58702993
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Chairman Dresser is working on a documentary that will highlight this important issue to a wider audience.,wide,audience,.77101064
+WY2022.txt,Wyoming,Gordon_Mark,65,0,But data show what we all know -- they are leaving.,datum,show,.39890337
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"That is amazing stuff, and when I report this to my colleagues they ask how we did it.",amazing,stuff,.44875956
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Will, we salute you and all healthcare workers.",salute,you,.48741499
+WY2022.txt,Wyoming,Gordon_Mark,65,0,You all know her passion has been to end food insecurity in Wyoming.,you,know,.47417736
+WY2022.txt,Wyoming,Gordon_Mark,65,0,They both have a history in this body and continued to serve Wyoming long after they made their impressions here.,make,impression,.56586605
+WY2022.txt,Wyoming,Gordon_Mark,65,0,This is just another example of what state employees do - they go above and beyond.,do,what,.49853066
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Together we have emerged stronger, more engaged, and better equipped to tackle new challenges and seize fresh opportunities.",new,challenge,.59019119
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"We respect folks who get things done, not the critics and naysayers.",thing,do,.43177223
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Chairman Dresser is working on a documentary that will highlight this important issue to a wider audience.,dresser,work,.47985598
+WY2022.txt,Wyoming,Gordon_Mark,65,0,They ask for best wishes and prayers and are thankful to live in Wyoming.,they,ask,.45437902
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We are engaged across the sector to promote our industry.,promote,industry,.62709254
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming has always welcomed members of our Armed Forces as family.,wyoming,welcome,.6179927
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Y ou have shown how Wyoming takes care of our own.,ou,show,.52304518
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"This investment will bring returns many times over for Wyoming, our ranches, our businesses, and our way of life.",bring,return,.63117969
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"lt crippled energy businesses, and it changed Wyoming.",crippled,business,.54935008
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We love our wildlife and we love our open space.,love,wildlife,.53717089
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Far too many have suffered PTSD and other war-related injuries.,other,injury,.51297182
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Last year you passed and I signed into law a strong voter ID law.,last,year,.50250727
+WY2022.txt,Wyoming,Gordon_Mark,65,0,But I believe we are beginning to see the first rays of our sunrise.,see,ray,.35535663
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We love our wildlife and we love our open space.,love,space,.72266024
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"lt was a hard pull, and at times it seemed like it was never going to end.",hard,pull,.332932
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"We are investing in new ways of looking at career, technical and higher education.",technical,career,.54270738
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Together we have emerged stronger, more engaged, and better equipped to tackle new challenges and seize fresh opportunities.",seize,opportunity,.5277549
+WY2022.txt,Wyoming,Gordon_Mark,65,0,And 30 percent of our workforce need a second job to make ends meet.,end,meet,.66172177
+WY2022.txt,Wyoming,Gordon_Mark,65,0,There are more than thanks needed as we appreciate those who have fought for our freedom.,who,fight,.34622562
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"That is amazing stuff, and when I report this to my colleagues they ask how we did it.",they,ask,.45437902
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We can be proud that Wyoming will remain a critical component of our nuclear triad.,nuclear,triad,.57270032
+WY2022.txt,Wyoming,Gordon_Mark,65,0,He was so successful he donated the excess produce to Jennie's Grow a Little Extra program.,excess,produce,.56110394
+WY2022.txt,Wyoming,Gordon_Mark,65,0,One of our state's top priorities must be our education system.,top,priority,.75014651
+WY2022.txt,Wyoming,Gordon_Mark,65,0,My budget also staffs and opens the new Veterans' Skilled Nursing Facility in Buffalo.,budget,staff,.47255886
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"The actions of the Biden Administration regarding public lands and energy, are deeply flawed and clearly miss the mark.",public,land,.40242442
+WY2022.txt,Wyoming,Gordon_Mark,65,0,lt made all the struggle of the earlier darkness worth it.,lt,make,.54890466
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Over the past couple of years, Wyoming has faced down many challenges.",wyoming,face,.44671285
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We can be proud that Wyoming will remain a critical component of our nuclear triad.,critical,component,.58513623
+WY2022.txt,Wyoming,Gordon_Mark,65,0,There are lessons in that collection that every American needs to know.,know,that,.49029002
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"And we will, by fighting ridiculous regulation, promoting sensible development, and embracing new opportunities.",ridiculous,regulation,.60535109
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Therefore, my focus must remain on the long-term fiscal viability of Wyoming and our ability to fight back.",fiscal,viability,.36643642
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Y ou have shown how Wyoming takes care of our own.,y,show,.41447306
+WY2022.txt,Wyoming,Gordon_Mark,65,0,These actions won't reduce global warming or benefit consumers.,action,reduce,.59900844
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming is leading the research on ways to keep our legacy industries viable and take up new ones as well.,keep,industry,.60175508
+WY2022.txt,Wyoming,Gordon_Mark,65,0,More people continue to come here to visit and enjoy what we love about this state.,more,people,.41102111
+WY2022.txt,Wyoming,Gordon_Mark,65,0,They both have a history in this body and continued to serve Wyoming long after they made their impressions here.,they,make,.54934293
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Dan built this museum in Dubois and laid it out in a very educational way.,educational,way,.6208297
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Let's give them a band.,give,band,.52311903
+WY2022.txt,Wyoming,Gordon_Mark,65,0,These actions won't reduce global warming or benefit consumers.,reduce,warming,.77182078
+WY2022.txt,Wyoming,Gordon_Mark,65,0,This is just another example of what state employees do - they go above and beyond.,they,go,.5209071
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"So, Bobby raises food, but more importantly he raises self-esteem.",raise,food,.55168968
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"We are investing in new ways of looking at career, technical and higher education.",new,way,.50375193
+WY2022.txt,Wyoming,Gordon_Mark,65,0,The Wyoming EMS system will be a top priority for me and the Task Force in 2022.,top,priority,.75014651
+WY2022.txt,Wyoming,Gordon_Mark,65,0,You all know her passion has been to end food insecurity in Wyoming.,end,insecurity,.69506592
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"WIP is all about more people who do, and more people who can.",who,do,.43181345
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Last year you passed and I signed into law a strong voter ID law.,you,pass,.52722144
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"I want to take this opportunity to recognize Anne Ochs, an educator for more than 3 0 years.",recognize,ochs,.54402763
+WY2022.txt,Wyoming,Gordon_Mark,65,0,My budget also staffs and opens the new Veterans' Skilled Nursing Facility in Buffalo.,open,facility,.2858974
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"All of these entities will be important in identifying opportunities and local needs, building curriculum, and importantly measuring performance.",build,curriculum,.27553138
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"There are a Jot of things that come to mind when the term ""cowboy"" comes up.",that,come,.54646689
+WY2022.txt,Wyoming,Gordon_Mark,65,0,That is why I have proposed placing an additional $400 million in savings.,place,million,.46067727
+WY2022.txt,Wyoming,Gordon_Mark,65,0,And so it is with our state these past few years.,past,year,.52166069
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"You know, the world has become a decidedly scarier place with China and Russia rattling sabers.",world,become,.64165479
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming is leading the research on ways to keep our legacy industries viable and take up new ones as well.,lead,research,.59223002
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We can feel that momentum as businesses rebound and unemployment falls away to the lowest level since 2008.,unemployment,fall,.78583646
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"And we will, by fighting ridiculous regulation, promoting sensible development, and embracing new opportunities.",sensible,development,.66494066
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming is committed to remaining an energy exporter.,remain,exporter,.37430027
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"lt was a hard pull, and at times it seemed like it was never going to end.",it,seem,.5169462
+WY2022.txt,Wyoming,Gordon_Mark,65,0,You have helped us to remember who we are and how we got here.,you,help,.54228961
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I could smell the pine and hear the meadowlark.,hear,meadowlark,.44496283
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Over the past couple of years, Wyoming's people kept working.",people,keep,.38572174
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"And that's what we should do, because we need an all-of-the-above energy strategy.",need,strategy,.48818871
+WY2022.txt,Wyoming,Gordon_Mark,65,0,But I believe we are beginning to see the first rays of our sunrise.,first,ray,.36021242
+WY2022.txt,Wyoming,Gordon_Mark,65,0,But data show what we all know -- they are leaving.,they,leave,.55880523
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"This patriotism is found in one ofthe most amazing museums anywhere in the world, the National Museum of Military Vehicles.",amazing,museum,.68581557
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Dan built this museum in Dubois and laid it out in a very educational way.,lay,it,.45891115
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"I want to recognize our neighbors and fellow Wyoming citizens, the Eastern Shoshone and Northern Arapaho tribes.",recognize,neighbor,.51249337
+WY2022.txt,Wyoming,Gordon_Mark,65,0,And 30 percent of our workforce need a second job to make ends meet.,need,job,.40961868
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"So, I ask you, does anyone in this room think there is an iota of common sense in that policy?",ask,you,.49025932
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Give us the tools and the chance to make this nation energy independent again.,nation,energy,.54605156
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Bobby knows how to grow hay.,bobby,know,.44692439
+WY2022.txt,Wyoming,Gordon_Mark,65,0,The pandemic has revealed that the demands on Wyoming's healthcare system and the accompanying costs require a focused approach.,focused,approach,.60523427
+WY2022.txt,Wyoming,Gordon_Mark,65,0,He was so successful he donated the excess produce to Jennie's Grow a Little Extra program.,donate,produce,.56019121
+WY2022.txt,Wyoming,Gordon_Mark,65,0,But data show what we all know -- they are leaving.,know,what,.49770096
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"To me it is not a big hat, angora chaps, or tough talk.",big,hat,.39751965
+WY2022.txt,Wyoming,Gordon_Mark,65,0,But even these have come in the teeth of the highest inflation rate we've seen in 40 years.,these,come,.49277529
+WY2022.txt,Wyoming,Gordon_Mark,65,0,The pandemic has revealed that the demands on Wyoming's healthcare system and the accompanying costs require a focused approach.,pandemic,reveal,.4664247
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Anne, thank you for your courage and your leadership in this truly remarkable time.",thank,you,.44988889
+WY2022.txt,Wyoming,Gordon_Mark,65,0,But even these have come in the teeth of the highest inflation rate we've seen in 40 years.,high,rate,.63413584
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We are proud to lead with you and Chairman St. Clair in stopping this devastating inhumanity.,stop,inhumanity,.64204758
+WY2022.txt,Wyoming,Gordon_Mark,65,0,lt made all the struggle of the earlier darkness worth it.,make,struggle,.68724614
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"lt crippled energy businesses, and it changed Wyoming.",change,wyoming,.54176307
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Instead, they hit Wyoming squarely in our breadbasket.",hit,wyoming,.46427247
+WY2022.txt,Wyoming,Gordon_Mark,65,0,She reminded me of a story about Bobby Lane who works at the Honor Farm.,who,work,.49188817
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Last year you passed and I signed into law a strong voter ID law.,sign,law,.54753679
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"As ranchers, Jennie and I know how critical water is to our lives.",jennie,know,.44104043
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I ask you to consider using American Rescue Plan dollars to do more in our fight against suicide.,do,more,.47821423
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming is actually bursting with opportunity across all of our sectors.,wyoming,burst,.41191649
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We love our wildlife and we love our open space.,open,space,.40727898
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Chairman Dresser is working on a documentary that will highlight this important issue to a wider audience.,important,issue,.38125724
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"However, to export energy, we must have reliable, secure sources of transmission.",reliable,source,.4655329
+WY2022.txt,Wyoming,Gordon_Mark,65,0,We are proud to lead with you and Chairman St. Clair in stopping this devastating inhumanity.,devastating,inhumanity,.7045325
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Right now, the world needs more cowboys.",need,cowboy,.4226642
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"WIP is all about more people who do, and more people who can.",who,can,.35858834
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Give us the tools and the chance to make this nation energy independent again.,give,tool,.46688414
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Far too many have suffered PTSD and other war-related injuries.,many,suffer,.51036924
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Over the past couple of years, Wyoming has faced down many challenges.",many,challenge,.60924751
+WY2022.txt,Wyoming,Gordon_Mark,65,0,These actions won't reduce global warming or benefit consumers.,reduce,consumer,.59677929
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"We respect folks who get things done, not the critics and naysayers.",who,get,.41521919
+WY2022.txt,Wyoming,Gordon_Mark,65,0,He was so successful he donated the excess produce to Jennie's Grow a Little Extra program.,he,donate,.47798896
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Y ears ago, Wyoming was a leader in identifying transmission corridors.",identify,corridor,.44718832
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"That is amazing stuff, and when I report this to my colleagues they ask how we did it.",report,this,.57111526
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Right now, the world needs more cowboys.",more,cowboy,.41141981
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"All of these entities will be important in identifying opportunities and local needs, building curriculum, and importantly measuring performance.",identify,opportunity,.4979755
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"And we will, by fighting ridiculous regulation, promoting sensible development, and embracing new opportunities.",embrace,opportunity,.5693047
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"All of these entities will be important in identifying opportunities and local needs, building curriculum, and importantly measuring performance.",measure,performance,.64089268
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"And that's what we should do, because we need an all-of-the-above energy strategy.",do,what,.49853066
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"lt was a hard pull, and at times it seemed like it was never going to end.",it,go,.52277577
+WY2022.txt,Wyoming,Gordon_Mark,65,0,And 30 percent of our workforce need a second job to make ends meet.,percent,need,.58697104
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Mr. Biden, tear up your energy policy!",biden,tear,.56099463
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Thank you, Dan for putting Dubois on the list of must-visit places in Wyoming.",thank,you,.44988889
+WY2022.txt,Wyoming,Gordon_Mark,65,0,90 percent of Wyoming state employees are earning less than their peers were - five years ago.,percent,earn,.58069026
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Revenue from lodging is now saving the general fund money and creating opportunities for new investments in outdoor recreation.,revenue,save,.63869721
+WY2022.txt,Wyoming,Gordon_Mark,65,0,More people continue to come here to visit and enjoy what we love about this state.,people,continue,.47212568
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Dan, would you stand so that we may recognize you.",recognize,you,.53234988
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Let me close by finishing the story of our cattle drive.,finish,story,.59384966
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Therefore, my focus must remain on the long-term fiscal viability of Wyoming and our ability to fight back.",focus,remain,.62044907
+WY2022.txt,Wyoming,Gordon_Mark,65,0,God bless America and God bless Wyoming.,bless,america,.66064066
+WY2022.txt,Wyoming,Gordon_Mark,65,0,lt tells a story about America's involvement in the world.,lt,tell,.42340371
+WY2022.txt,Wyoming,Gordon_Mark,65,0,And that's why I remind the world that we always stand for our national anthem in Wyoming.,national,anthem,.47732177
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"This investment will bring returns many times over for Wyoming, our ranches, our businesses, and our way of life.",many,time,.54251564
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming is leading the research on ways to keep our legacy industries viable and take up new ones as well.,take,one,.48442602
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Wyoming is leading the research on ways to keep our legacy industries viable and take up new ones as well.,new,one,.4211022
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Instead, they hit Wyoming squarely in our breadbasket.",they,hit,.43160763
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Suicide sadly remains an all too frequent event, especially for our veterans.",suicide,remain,.69598919
+WY2022.txt,Wyoming,Gordon_Mark,65,0,One company took Yogi' s ad vice.,company,take,.46325451
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Bobby knows how to grow hay.,grow,hay,.40532094
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"So, Bobby raises food, but more importantly he raises self-esteem.",raise,esteem,.50980395
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"In a little over a month, we will be recognizing the 50th anniversary of the Vietnam War.",recognize,anniversary,.70021296
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"To me it is not a big hat, angora chaps, or tough talk.",tough,talk,.63890243
+WY2022.txt,Wyoming,Gordon_Mark,65,0,That is why our nation's nuclear arsenal remains essential.,arsenal,remain,.44404921
+WY2022.txt,Wyoming,Gordon_Mark,65,0,They are by hiring our staff away.,hire,staff,.29760078
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Instead it has caused inflation to soar.,it,cause,.43765435
+WY2022.txt,Wyoming,Gordon_Mark,65,0,And that's why I remind the world that we always stand for our national anthem in Wyoming.,remind,world,.64993894
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Water in Wyoming is sacred, and we need the ability to stand our ground when it comes to protecting it.",it,come,.49384934
+WY2022.txt,Wyoming,Gordon_Mark,65,0,I believe there is an undeniable momentum in Wyoming these days.,undeniable,momentum,.79041123
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"Over the past couple of years, Wyoming's people kept working.",past,couple,.59987789
+WY2022.txt,Wyoming,Gordon_Mark,65,0,Our focus on economic diversification has broken this Catch 22.,break,catch,.46901506
+WY2022.txt,Wyoming,Gordon_Mark,65,0,"lt crippled energy businesses, and it changed Wyoming.",it,change,.47293699

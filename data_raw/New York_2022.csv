@@ -1,0 +1,252 @@
+filename,st_name,speaker,age,gender,text,arg0,arg1,metaphor_score
+NY2022.txt,New York,Hochul_Kathy,64,1,We know that women are always held to a higher standard.,high,standard,.57034886
+NY2022.txt,New York,Hochul_Kathy,64,1,The farmers who supply restaurant kitchens – and our own – need a lifeline as well.,supply,kitchen,.26643935
+NY2022.txt,New York,Hochul_Kathy,64,1,"And in pursuit of this, millions found their way here, to us.",million,find,.53822684
+NY2022.txt,New York,Hochul_Kathy,64,1,"And thank you to Pastor Soloman Dees and to Allie Navarette, for representing the Girl Scouts so well.",thank,you,.44988889
+NY2022.txt,New York,Hochul_Kathy,64,1,They need it now and they’re going to get it.,they,go,.5209071
+NY2022.txt,New York,Hochul_Kathy,64,1,We’ve endured so much hardship over these past two years.,past,year,.52166069
+NY2022.txt,New York,Hochul_Kathy,64,1,"Connecting neighborhoods, connecting people to jobs and connecting people to their families.",connect,people,.38175246
+NY2022.txt,New York,Hochul_Kathy,64,1,"We need to focus on addressing the root causes of homelessness unmet mental health needs: poverty, addiction, and housing insecurity.",mental,need,.5128178
+NY2022.txt,New York,Hochul_Kathy,64,1,"To be sure, I have a deep reverence for our State’s remarkable past.",deep,reverence,.87268537
+NY2022.txt,New York,Hochul_Kathy,64,1,"And in response, we never fail to defy the odds and rise to new heights.",new,height,.53512812
+NY2022.txt,New York,Hochul_Kathy,64,1,"My fellow New Yorkers, members of the legislature, the time has come for a new American Dream.",time,come,.56568104
+NY2022.txt,New York,Hochul_Kathy,64,1,"We need to focus on addressing the root causes of homelessness unmet mental health needs: poverty, addiction, and housing insecurity.",address,cause,.59575504
+NY2022.txt,New York,Hochul_Kathy,64,1,"We need to reconnect neighborhoods that were severed by asphalt highways, disproportionately impacting communities of color.",impact,community,.51746267
+NY2022.txt,New York,Hochul_Kathy,64,1,This will also begin to address the workforce shortage so many farms struggle with.,farm,struggle,.65322202
+NY2022.txt,New York,Hochul_Kathy,64,1,Time in a tire repair shop after hitting a pothole adds more stress than anyone needs.,anyone,need,.35723278
+NY2022.txt,New York,Hochul_Kathy,64,1,to once again allow the sale of to-go drinks – a critical revenue stream during the lean times last year.,lean,time,.6275903
+NY2022.txt,New York,Hochul_Kathy,64,1,This crisis has created an opportunity to redefine ourselves – and we must embrace it.,crisis,create,.73215348
+NY2022.txt,New York,Hochul_Kathy,64,1,There’s one more critical piece of our plan to rebuild our infrastructure — making it more resilient against climate change.,it,resilient,.51804239
+NY2022.txt,New York,Hochul_Kathy,64,1,"So today, I am outlining a vision to make SUNY the BEST statewide public higher education system in the nation.",high,system,.45122012
+NY2022.txt,New York,Hochul_Kathy,64,1,"To help offset these costs, we will provide a tax credit for COVID-related purchases, like outdoor heaters and seating.",outdoor,heater,.23738174
+NY2022.txt,New York,Hochul_Kathy,64,1,We need to continually pass the baton to new leaders with different perspectives and fresh ideas.,pass,baton,.59501368
+NY2022.txt,New York,Hochul_Kathy,64,1,"More than giving people jobs, he gave people hope.",give,hope,.55024058
+NY2022.txt,New York,Hochul_Kathy,64,1,I will introduce legislation to replace that commission with a new ethics enforcement watchdog.,replace,commission,.65211886
+NY2022.txt,New York,Hochul_Kathy,64,1,New Yorkers demand the best and that’s exactly what they’re going to get.,demand,good,.49258178
+NY2022.txt,New York,Hochul_Kathy,64,1,It’s getting harder and harder for people to believe in their elected officials at all levels of government.,people,believe,.37756085
+NY2022.txt,New York,Hochul_Kathy,64,1,"For government to work, those of us in power cannot continue to cling to it.",government,work,.43033794
+NY2022.txt,New York,Hochul_Kathy,64,1,"A better, fairer, more inclusive version that I call The New York Dream.",well,version,.53600872
+NY2022.txt,New York,Hochul_Kathy,64,1,We are submitting a proposal to the legislature to enact two term limits for Statewide officials.,submit,proposal,.31804597
+NY2022.txt,New York,Hochul_Kathy,64,1,"Substandard infrastructure can mean long commutes, lost time from family, even missing a child’s bedtime.",substandard,infrastructure,.59493238
+NY2022.txt,New York,Hochul_Kathy,64,1,This crisis has created an opportunity to redefine ourselves – and we must embrace it.,redefine,ourselves,.56976658
+NY2022.txt,New York,Hochul_Kathy,64,1,"Grandma found a job at Bell Aerospace, making parts for our planes during World War II.",find,job,.49987146
+NY2022.txt,New York,Hochul_Kathy,64,1,"To help offset these costs, we will provide a tax credit for COVID-related purchases, like outdoor heaters and seating.",offset,cost,.57042825
+NY2022.txt,New York,Hochul_Kathy,64,1,"Now, this isn’t a return to the dark days of the 70s, ’80s and ’90s.",dark,day,.28942114
+NY2022.txt,New York,Hochul_Kathy,64,1,"It would ignore our history and go against everything that makes New York, New York.",that,make,.55786943
+NY2022.txt,New York,Hochul_Kathy,64,1,"At the same time, we know that street homelessness only accounts for a small fraction of the homeless population.",homelessness,account,.44990137
+NY2022.txt,New York,Hochul_Kathy,64,1,"Across the country, trust in government is reaching all-time lows.",trust,reach,.64868081
+NY2022.txt,New York,Hochul_Kathy,64,1,I came to make a difference.,make,difference,.61465788
+NY2022.txt,New York,Hochul_Kathy,64,1,Accomplishing everything I’ve proposed hinges on one thing a government people trust.,people,trust,.32038006
+NY2022.txt,New York,Hochul_Kathy,64,1,Infrastructure can mean different things to different people.,different,thing,.4496986
+NY2022.txt,New York,Hochul_Kathy,64,1,"It would ignore our history and go against everything that makes New York, New York.",it,ignore,.56762749
+NY2022.txt,New York,Hochul_Kathy,64,1,The farmers who supply restaurant kitchens – and our own – need a lifeline as well.,need,lifeline,.42977566
+NY2022.txt,New York,Hochul_Kathy,64,1,This will also begin to address the workforce shortage so many farms struggle with.,many,farm,.39086047
+NY2022.txt,New York,Hochul_Kathy,64,1,So many small businesses were pushed to the brink.,many,business,.51280588
+NY2022.txt,New York,Hochul_Kathy,64,1,"Substandard infrastructure can mean long commutes, lost time from family, even missing a child’s bedtime.",infrastructure,mean,.62120777
+NY2022.txt,New York,Hochul_Kathy,64,1,"More than giving people jobs, he gave people hope.",give,job,.48637378
+NY2022.txt,New York,Hochul_Kathy,64,1,"And for businesses to succeed, they need a well-trained and educated workforce.",need,workforce,.45855239
+NY2022.txt,New York,Hochul_Kathy,64,1,"At every one of the thousands of workplaces I’ve visited, the universal complaint is not having enough trained workers.",enough,worker,.42193624
+NY2022.txt,New York,Hochul_Kathy,64,1,"Families, small business owners, farmers – they all need our help.",small,owner,.50226271
+NY2022.txt,New York,Hochul_Kathy,64,1,It was a cruel reminder that too much time has already been lost in the fight against climate change.,much,time,.54591441
+NY2022.txt,New York,Hochul_Kathy,64,1,Two simple words: American Dream.,simple,word,.40362081
+NY2022.txt,New York,Hochul_Kathy,64,1,The farmers who supply restaurant kitchens – and our own – need a lifeline as well.,who,supply,.45593002
+NY2022.txt,New York,Hochul_Kathy,64,1,"Here in New York, our answer is to demonstrate what good and honest governance looks like.",governance,look,.5814184
+NY2022.txt,New York,Hochul_Kathy,64,1,New Yorkers need the help of everyone in this room to pass an ambitious agenda.,yorkers,need,.47279552
+NY2022.txt,New York,Hochul_Kathy,64,1,"So today, I am outlining a vision to make SUNY the BEST statewide public higher education system in the nation.",outline,vision,.52723724
+NY2022.txt,New York,Hochul_Kathy,64,1,New Yorkers need the help of everyone in this room to pass an ambitious agenda.,ambitious,agenda,.58070052
+NY2022.txt,New York,Hochul_Kathy,64,1,New Yorkers demand the best and that’s exactly what they’re going to get.,they,go,.5209071
+NY2022.txt,New York,Hochul_Kathy,64,1,"As we bolster our bone-tired healthcare workforce, we know they aren’t the only heroes of the pandemic.",only,hero,.53175402
+NY2022.txt,New York,Hochul_Kathy,64,1,"Families, small business owners, farmers – they all need our help.",they,need,.4557862
+NY2022.txt,New York,Hochul_Kathy,64,1,"And we will make the largest investment in healthcare in State history, $10 billion dollars.",make,investment,.61067212
+NY2022.txt,New York,Hochul_Kathy,64,1,We’re also going to restore the Tuition Assistance Program for incarcerated people—ending a 30-year ban.,incarcerated,people,.31040424
+NY2022.txt,New York,Hochul_Kathy,64,1,"That exhaustion combined with pre-existing staffing shortages, has resulted in a crisis.",exhaustion,result,.55983591
+NY2022.txt,New York,Hochul_Kathy,64,1,Accomplishing everything I’ve proposed hinges on one thing a government people trust.,accomplish,everything,.56542659
+NY2022.txt,New York,Hochul_Kathy,64,1,"Substandard infrastructure can mean long commutes, lost time from family, even missing a child’s bedtime.",mean,commute,.45795718
+NY2022.txt,New York,Hochul_Kathy,64,1,That means controlling this virus and not letting it control us.,it,control,.45660776
+NY2022.txt,New York,Hochul_Kathy,64,1,New Yorkers demand the best and that’s exactly what they’re going to get.,yorkers,demand,.41660735
+NY2022.txt,New York,Hochul_Kathy,64,1,"Where the unsurpassed beauty of Niagara Falls, .",unsurpassed,beauty,.57641172
+NY2022.txt,New York,Hochul_Kathy,64,1,"To me, it’s exciting because it’s all about creating connections.",create,connection,.58770478
+NY2022.txt,New York,Hochul_Kathy,64,1,"We cannot let this moment slip by, and we won’t.",moment,slip,.56415015
+NY2022.txt,New York,Hochul_Kathy,64,1,It feels like déjà vu.,it,feel,.55720043
+NY2022.txt,New York,Hochul_Kathy,64,1,"Families, small business owners, farmers – they all need our help.",need,help,.46966839
+NY2022.txt,New York,Hochul_Kathy,64,1,And we can no longer ignore the plight of NYCHA residents living in sometimes deplorable conditions.,deplorable,condition,.5288927
+NY2022.txt,New York,Hochul_Kathy,64,1,to once again allow the sale of to-go drinks – a critical revenue stream during the lean times last year.,allow,sale,.48544061
+NY2022.txt,New York,Hochul_Kathy,64,1,That means controlling this virus and not letting it control us.,that,mean,.45433381
+NY2022.txt,New York,Hochul_Kathy,64,1,"At the same time, we know that street homelessness only accounts for a small fraction of the homeless population.",same,time,.42668441
+NY2022.txt,New York,Hochul_Kathy,64,1,We’ll also fix outdated land use laws that hold back housing supply.,use,law,.50608569
+NY2022.txt,New York,Hochul_Kathy,64,1,This will also begin to address the workforce shortage so many farms struggle with.,this,begin,.59288239
+NY2022.txt,New York,Hochul_Kathy,64,1,We are submitting a proposal to the legislature to enact two term limits for Statewide officials.,enact,limit,.5116092
+NY2022.txt,New York,Hochul_Kathy,64,1,Infrastructure can mean different things to different people.,infrastructure,mean,.62120777
+NY2022.txt,New York,Hochul_Kathy,64,1,But that’s not the only part of the system that’s not working.,only,part,.46460697
+NY2022.txt,New York,Hochul_Kathy,64,1,"A better, fairer, more inclusive version that I call The New York Dream.",call,that,.50977236
+NY2022.txt,New York,Hochul_Kathy,64,1,They need it now and they’re going to get it.,get,it,.51094991
+NY2022.txt,New York,Hochul_Kathy,64,1,"For government to work, those of us in power cannot continue to cling to it.",those,continue,.56837142
+NY2022.txt,New York,Hochul_Kathy,64,1,"We are going to incentivize success, by tying a portion of workforce funding to high job placement rates.",tie,portion,.53225821
+NY2022.txt,New York,Hochul_Kathy,64,1,"And in response, we never fail to defy the odds and rise to new heights.",defy,odd,.52873015
+NY2022.txt,New York,Hochul_Kathy,64,1,This investment will boost innovation and economic growth—especially in our most remote communities.,remote,community,.37457719
+NY2022.txt,New York,Hochul_Kathy,64,1,We need to continually pass the baton to new leaders with different perspectives and fresh ideas.,new,leader,.46252215
+NY2022.txt,New York,Hochul_Kathy,64,1,"We attract the best, the brightest and the boldest.",attract,good,.53388703
+NY2022.txt,New York,Hochul_Kathy,64,1,We will triple the resources for both our gun-tracing efforts as well as for successful community-based programs.,successful,program,.4365488
+NY2022.txt,New York,Hochul_Kathy,64,1,"Substandard infrastructure can mean long commutes, lost time from family, even missing a child’s bedtime.",long,commute,.71162152
+NY2022.txt,New York,Hochul_Kathy,64,1,"It changes lives, across generations.",it,change,.47293699
+NY2022.txt,New York,Hochul_Kathy,64,1,"My fellow New Yorkers, members of the legislature, the time has come for a new American Dream.",yorkers,come,.54992837
+NY2022.txt,New York,Hochul_Kathy,64,1,"Finance, retail, healthcare, technology, fashion, entertainment, just to name a few.",name,few,.43882385
+NY2022.txt,New York,Hochul_Kathy,64,1,Infrastructure can mean different things to different people.,different,people,.42444476
+NY2022.txt,New York,Hochul_Kathy,64,1,"And create a legacy of accomplishment that will endure through the ages, A New Era for New York.",create,era,.6469546
+NY2022.txt,New York,Hochul_Kathy,64,1,That outcome benefits the formerly incarcerated…employers in need of workers….,benefit,employer,.25988221
+NY2022.txt,New York,Hochul_Kathy,64,1,"How we are judged will be determined by what we do right here, right now.",do,what,.49853066
+NY2022.txt,New York,Hochul_Kathy,64,1,"Like the fact that 300,000 New Yorkers left our State last year.",last,year,.50250727
+NY2022.txt,New York,Hochul_Kathy,64,1,"One that embodies excitement, energy, and endless possibilities.",that,embody,.53537506
+NY2022.txt,New York,Hochul_Kathy,64,1,"There has been so much loss – of too many lives, and of too many of our hopes and dreams.",much,loss,.61270797
+NY2022.txt,New York,Hochul_Kathy,64,1,We’ll also fix outdated land use laws that hold back housing supply.,outdated,land,.61110234
+NY2022.txt,New York,Hochul_Kathy,64,1,I will introduce legislation to replace that commission with a new ethics enforcement watchdog.,introduce,legislation,.36895123
+NY2022.txt,New York,Hochul_Kathy,64,1,"And in pursuit of this, millions found their way here, to us.",find,way,.49545452
+NY2022.txt,New York,Hochul_Kathy,64,1,Let us seize this moment with great confidence and optimism.,great,confidence,.60802573
+NY2022.txt,New York,Hochul_Kathy,64,1,"There has been so much loss – of too many lives, and of too many of our hopes and dreams.",many,life,.63525325
+NY2022.txt,New York,Hochul_Kathy,64,1,"I’ve seen it in their eyes, in hospitals from Buffalo to Potsdam just last week.",see,it,.46392867
+NY2022.txt,New York,Hochul_Kathy,64,1,"But first, we must weather the storm around us.",weather,storm,.23234189
+NY2022.txt,New York,Hochul_Kathy,64,1,We’ve endured so much hardship over these past two years.,much,hardship,.63748854
+NY2022.txt,New York,Hochul_Kathy,64,1,"And create a legacy of accomplishment that will endure through the ages, A New Era for New York.",new,era,.52571398
+NY2022.txt,New York,Hochul_Kathy,64,1,We’ll also fix outdated land use laws that hold back housing supply.,hold,supply,.48354444
+NY2022.txt,New York,Hochul_Kathy,64,1,"And create a legacy of accomplishment that will endure through the ages, A New Era for New York.",create,legacy,.64954877
+NY2022.txt,New York,Hochul_Kathy,64,1,That includes the humanitarian crisis unfolding before us: the rise in street homelessness.,humanitarian,crisis,.62878484
+NY2022.txt,New York,Hochul_Kathy,64,1,We’re also going to restore the Tuition Assistance Program for incarcerated people—ending a 30-year ban.,end,ban,.54293054
+NY2022.txt,New York,Hochul_Kathy,64,1,We’ve endured so much hardship over these past two years.,endure,hardship,.71955264
+NY2022.txt,New York,Hochul_Kathy,64,1,The days of New Yorkers questioning whether their government is actually working for them are over.,government,work,.43033794
+NY2022.txt,New York,Hochul_Kathy,64,1,I know what education did for my own family’s circumstances.,own,family,.52539098
+NY2022.txt,New York,Hochul_Kathy,64,1,These events are no longer rare – the next one is coming.,one,come,.51888502
+NY2022.txt,New York,Hochul_Kathy,64,1,It’s getting harder and harder for people to believe in their elected officials at all levels of government.,it,get,.51094991
+NY2022.txt,New York,Hochul_Kathy,64,1,Just look at what my administration has already announced over the past four months.,past,month,.46903393
+NY2022.txt,New York,Hochul_Kathy,64,1,And we’ve already announced our first step.,first,step,.48808429
+NY2022.txt,New York,Hochul_Kathy,64,1,The days of Governors disregarding the rightful role of this legislature are over.,rightful,role,.50855875
+NY2022.txt,New York,Hochul_Kathy,64,1,We need to continually pass the baton to new leaders with different perspectives and fresh ideas.,different,perspective,.55293465
+NY2022.txt,New York,Hochul_Kathy,64,1,That outcome benefits the formerly incarcerated…employers in need of workers….,outcome,benefit,.24335583
+NY2022.txt,New York,Hochul_Kathy,64,1,"Every single place, it’s the same.",single,place,.43974015
+NY2022.txt,New York,Hochul_Kathy,64,1,"That’s the steepest population drop of ANY State in the nation, an alarm bell that cannot be ignored.",steep,drop,.56629908
+NY2022.txt,New York,Hochul_Kathy,64,1,Quite an extraordinary accomplishment given our 134 days in office.,extraordinary,accomplishment,.6191842
+NY2022.txt,New York,Hochul_Kathy,64,1,But that’s not the only part of the system that’s not working.,that,work,.54598427
+NY2022.txt,New York,Hochul_Kathy,64,1,And the days of three men in a room are clearly over – just ask the Majority Leader.,ask,leader,.30184874
+NY2022.txt,New York,Hochul_Kathy,64,1,"Connecting neighborhoods, connecting people to jobs and connecting people to their families.",connect,people,.38175246
+NY2022.txt,New York,Hochul_Kathy,64,1,But I didn’t come here to make history.,make,history,.67104918
+NY2022.txt,New York,Hochul_Kathy,64,1,And we can no longer ignore the plight of NYCHA residents living in sometimes deplorable conditions.,ignore,plight,.43118
+NY2022.txt,New York,Hochul_Kathy,64,1,Every single initiative is filtered through the lens of how it will help you and your families.,it,help,.53538203
+NY2022.txt,New York,Hochul_Kathy,64,1,Others are hurting as well.,other,hurt,.51955706
+NY2022.txt,New York,Hochul_Kathy,64,1,"More than giving people jobs, he gave people hope.",he,give,.47740933
+NY2022.txt,New York,Hochul_Kathy,64,1,We’re also going to restore the Tuition Assistance Program for incarcerated people—ending a 30-year ban.,restore,program,.43648568
+NY2022.txt,New York,Hochul_Kathy,64,1,"A better, fairer, more inclusive version that I call The New York Dream.",inclusive,version,.42097691
+NY2022.txt,New York,Hochul_Kathy,64,1,"At every one of the thousands of workplaces I’ve visited, the universal complaint is not having enough trained workers.",universal,complaint,.29679543
+NY2022.txt,New York,Hochul_Kathy,64,1,And May God bless the people of the great State of New York and our Nation.,bless,people,.40076783
+NY2022.txt,New York,Hochul_Kathy,64,1,This crisis has created an opportunity to redefine ourselves – and we must embrace it.,embrace,it,.57556897
+NY2022.txt,New York,Hochul_Kathy,64,1,"At the same time, we know that street homelessness only accounts for a small fraction of the homeless population.",homeless,population,.42662129
+NY2022.txt,New York,Hochul_Kathy,64,1,"It changes lives, across generations.",change,life,.4676086
+NY2022.txt,New York,Hochul_Kathy,64,1,This pandemic did not create all the problems we’re facing today.,pandemic,create,.53362399
+NY2022.txt,New York,Hochul_Kathy,64,1,"That exhaustion combined with pre-existing staffing shortages, has resulted in a crisis.",pre,shortage,.53062558
+NY2022.txt,New York,Hochul_Kathy,64,1,"Here in New York, our answer is to demonstrate what good and honest governance looks like.",good,governance,.70821655
+NY2022.txt,New York,Hochul_Kathy,64,1,"It would ignore our history and go against everything that makes New York, New York.",ignore,history,.65317386
+NY2022.txt,New York,Hochul_Kathy,64,1,Just look at what my administration has already announced over the past four months.,announce,what,.533261
+NY2022.txt,New York,Hochul_Kathy,64,1,"One that embodies excitement, energy, and endless possibilities.",endless,possibility,.53502929
+NY2022.txt,New York,Hochul_Kathy,64,1,"It’s a commonsense approach, backed by an uncommon level of funding.",uncommon,level,.48059249
+NY2022.txt,New York,Hochul_Kathy,64,1,"We are going to incentivize success, by tying a portion of workforce funding to high job placement rates.",high,rate,.63413584
+NY2022.txt,New York,Hochul_Kathy,64,1,Bold action is required – before any more time passes.,more,time,.57686955
+NY2022.txt,New York,Hochul_Kathy,64,1,"To me, it’s exciting because it’s all about creating connections.",it,exciting,.51668793
+NY2022.txt,New York,Hochul_Kathy,64,1,"So today, I am outlining a vision to make SUNY the BEST statewide public higher education system in the nation.",make,system,.53757429
+NY2022.txt,New York,Hochul_Kathy,64,1,The farmers who supply restaurant kitchens – and our own – need a lifeline as well.,own,farmer,.41343975
+NY2022.txt,New York,Hochul_Kathy,64,1,We’ll also fix outdated land use laws that hold back housing supply.,that,hold,.52296376
+NY2022.txt,New York,Hochul_Kathy,64,1,They need it now and they’re going to get it.,need,it,.45943782
+NY2022.txt,New York,Hochul_Kathy,64,1,The farmers who supply restaurant kitchens – and our own – need a lifeline as well.,farmer,need,.452676
+NY2022.txt,New York,Hochul_Kathy,64,1,So we will do things differently.,do,thing,.43177223
+NY2022.txt,New York,Hochul_Kathy,64,1,And it’s going to help supercharge our economy.,it,go,.52277577
+NY2022.txt,New York,Hochul_Kathy,64,1,Time in a tire repair shop after hitting a pothole adds more stress than anyone needs.,hit,pothole,.46667713
+NY2022.txt,New York,Hochul_Kathy,64,1,"To help offset these costs, we will provide a tax credit for COVID-related purchases, like outdoor heaters and seating.",provide,credit,.42237622
+NY2022.txt,New York,Hochul_Kathy,64,1,Every single initiative is filtered through the lens of how it will help you and your families.,single,initiative,.53831857
+NY2022.txt,New York,Hochul_Kathy,64,1,"We are going to incentivize success, by tying a portion of workforce funding to high job placement rates.",incentivize,success,.31579956
+NY2022.txt,New York,Hochul_Kathy,64,1,"And now, just when we thought we were turning a corner, there’s a new variant.",turn,corner,.4073534
+NY2022.txt,New York,Hochul_Kathy,64,1,Accomplishing everything I’ve proposed hinges on one thing a government people trust.,propose,hinge,.5858016
+NY2022.txt,New York,Hochul_Kathy,64,1,We will triple the resources for both our gun-tracing efforts as well as for successful community-based programs.,triple,resource,.69397694
+NY2022.txt,New York,Hochul_Kathy,64,1,"Substandard infrastructure can mean long commutes, lost time from family, even missing a child’s bedtime.",miss,bedtime,.33005643
+NY2022.txt,New York,Hochul_Kathy,64,1,"To be sure, I have a deep reverence for our State’s remarkable past.",remarkable,past,.56223679
+NY2022.txt,New York,Hochul_Kathy,64,1,And we’ve already announced our first step.,announce,step,.50091475
+NY2022.txt,New York,Hochul_Kathy,64,1,"So today, I am outlining a vision to make SUNY the BEST statewide public higher education system in the nation.",suny,best,.63641042
+NY2022.txt,New York,Hochul_Kathy,64,1,"Across the country, trust in government is reaching all-time lows.",reach,low,.58405185
+NY2022.txt,New York,Hochul_Kathy,64,1,Just look at what my administration has already announced over the past four months.,administration,announce,.43113971
+NY2022.txt,New York,Hochul_Kathy,64,1,"Like the fact that 300,000 New Yorkers left our State last year.",leave,state,.64551002
+NY2022.txt,New York,Hochul_Kathy,64,1,"Going forward, we will double down on practical, proven law enforcement strategies to combat gun violence.",practical,strategy,.3975215
+NY2022.txt,New York,Hochul_Kathy,64,1,New York is already home to some of the most consequential industries in the world.,consequential,industry,.59005111
+NY2022.txt,New York,Hochul_Kathy,64,1,This crisis has created an opportunity to redefine ourselves – and we must embrace it.,create,opportunity,.58717579
+NY2022.txt,New York,Hochul_Kathy,64,1,That includes the humanitarian crisis unfolding before us: the rise in street homelessness.,include,unfold,.63679671
+NY2022.txt,New York,Hochul_Kathy,64,1,Infrastructure can mean different things to different people.,mean,thing,.41692132
+NY2022.txt,New York,Hochul_Kathy,64,1,Time in a tire repair shop after hitting a pothole adds more stress than anyone needs.,add,stress,.57780749
+NY2022.txt,New York,Hochul_Kathy,64,1,That includes the humanitarian crisis unfolding before us: the rise in street homelessness.,include,rise,.64704895
+NY2022.txt,New York,Hochul_Kathy,64,1,One that answers to New Yorkers – not to politicians.,that,answer,.44964507
+NY2022.txt,New York,Hochul_Kathy,64,1,"Grandma found a job at Bell Aerospace, making parts for our planes during World War II.",grandma,find,.3437596
+NY2022.txt,New York,Hochul_Kathy,64,1,Protecting our environment is personal to me.,protect,environment,.63336384
+NY2022.txt,New York,Hochul_Kathy,64,1,That was their ticket to the life that they came in search of.,they,come,.5037818
+NY2022.txt,New York,Hochul_Kathy,64,1,And it’s going to help supercharge our economy.,supercharge,economy,.74449188
+NY2022.txt,New York,Hochul_Kathy,64,1,We will find common ground.,find,ground,.32740286
+NY2022.txt,New York,Hochul_Kathy,64,1,The days of New Yorkers questioning whether their government is actually working for them are over.,day,question,.43081003
+NY2022.txt,New York,Hochul_Kathy,64,1,This will also begin to address the workforce shortage so many farms struggle with.,address,shortage,.58786333
+NY2022.txt,New York,Hochul_Kathy,64,1,We need to continually pass the baton to new leaders with different perspectives and fresh ideas.,fresh,idea,.7906037
+NY2022.txt,New York,Hochul_Kathy,64,1,"But as we all know too well, this is more than a public health crisis.",public,health,.32549226
+NY2022.txt,New York,Hochul_Kathy,64,1,"As we bolster our bone-tired healthcare workforce, we know they aren’t the only heroes of the pandemic.",tired,workforce,.61455828
+NY2022.txt,New York,Hochul_Kathy,64,1,New Yorkers need the help of everyone in this room to pass an ambitious agenda.,need,help,.46966839
+NY2022.txt,New York,Hochul_Kathy,64,1,the taxpayers of New York State – and it’s the right thing to do.,right,thing,.45987016
+NY2022.txt,New York,Hochul_Kathy,64,1,"A better, fairer, more inclusive version that I call The New York Dream.",fairer,version,.57735252
+NY2022.txt,New York,Hochul_Kathy,64,1,The days of Governors disregarding the rightful role of this legislature are over.,disregard,role,.51124704
+NY2022.txt,New York,Hochul_Kathy,64,1,I know what education did for my own family’s circumstances.,education,do,.44288248
+NY2022.txt,New York,Hochul_Kathy,64,1,This investment will boost innovation and economic growth—especially in our most remote communities.,boost,innovation,.69195944
+NY2022.txt,New York,Hochul_Kathy,64,1,"And create a legacy of accomplishment that will endure through the ages, A New Era for New York.",that,endure,.63814932
+NY2022.txt,New York,Hochul_Kathy,64,1,to once again allow the sale of to-go drinks – a critical revenue stream during the lean times last year.,last,year,.50250727
+NY2022.txt,New York,Hochul_Kathy,64,1,My whole family would be.,whole,family,.55251575
+NY2022.txt,New York,Hochul_Kathy,64,1,That means controlling this virus and not letting it control us.,control,virus,.33253458
+NY2022.txt,New York,Hochul_Kathy,64,1,"And we will make the largest investment in healthcare in State history, $10 billion dollars.",large,investment,.6983363
+NY2022.txt,New York,Hochul_Kathy,64,1,I also want to thank my partners in government.,thank,partner,.41175061
+NY2022.txt,New York,Hochul_Kathy,64,1,I also have personal experience with just about every pothole in New York – especially on the Long Island Expressway.,personal,experience,.45660374
+NY2022.txt,New York,Hochul_Kathy,64,1,"One that embodies excitement, energy, and endless possibilities.",embody,excitement,.58368057
+NY2022.txt,New York,Hochul_Kathy,64,1,We are submitting a proposal to the legislature to enact two term limits for Statewide officials.,statewide,official,.37278321
+NY2022.txt,New York,Hochul_Kathy,64,1,New York always rises from the ashes.,york,rise,.69481236
+NY2022.txt,New York,Hochul_Kathy,64,1,Time in a tire repair shop after hitting a pothole adds more stress than anyone needs.,time,add,.50341946
+NY2022.txt,New York,Hochul_Kathy,64,1,New Yorkers demand the best and that’s exactly what they’re going to get.,get,what,.54474634
+NY2022.txt,New York,Hochul_Kathy,64,1,New Yorkers need the help of everyone in this room to pass an ambitious agenda.,pass,agenda,.46521965
+NY2022.txt,New York,Hochul_Kathy,64,1,"Going forward, we will double down on practical, proven law enforcement strategies to combat gun violence.",combat,violence,.58844763
+NY2022.txt,New York,Hochul_Kathy,64,1,That includes the humanitarian crisis unfolding before us: the rise in street homelessness.,that,include,.51193649
+NY2022.txt,New York,Hochul_Kathy,64,1,"As we bolster our bone-tired healthcare workforce, we know they aren’t the only heroes of the pandemic.",bolster,workforce,.65232438
+NY2022.txt,New York,Hochul_Kathy,64,1,So many small businesses were pushed to the brink.,small,business,.58363891
+NY2022.txt,New York,Hochul_Kathy,64,1,"Right now, in real time, we are building a new New York worthy of your talents and ambitions.",real,time,.54381007
+NY2022.txt,New York,Hochul_Kathy,64,1,to once again allow the sale of to-go drinks – a critical revenue stream during the lean times last year.,critical,stream,.45507631
+NY2022.txt,New York,Hochul_Kathy,64,1,Time in a tire repair shop after hitting a pothole adds more stress than anyone needs.,more,stress,.57432997
+NY2022.txt,New York,Hochul_Kathy,64,1,That’s why I view building and improving our infrastructure as a quality of life issue.,improve,infrastructure,.61445349
+NY2022.txt,New York,Hochul_Kathy,64,1,From now on: we will share success.,share,success,.40076041
+NY2022.txt,New York,Hochul_Kathy,64,1,I will introduce legislation to replace that commission with a new ethics enforcement watchdog.,new,watchdog,.46143153
+NY2022.txt,New York,Hochul_Kathy,64,1,"At the same time, we know that street homelessness only accounts for a small fraction of the homeless population.",small,fraction,.42340493
+NY2022.txt,New York,Hochul_Kathy,64,1,"I know the risks taken by owners and entrepreneurs, and the barriers faced by women.",know,risk,.51674134
+NY2022.txt,New York,Hochul_Kathy,64,1,This investment will boost innovation and economic growth—especially in our most remote communities.,economic,growth,.61906743
+NY2022.txt,New York,Hochul_Kathy,64,1,"Like the fact that 300,000 New Yorkers left our State last year.",yorkers,leave,.59002221
+NY2022.txt,New York,Hochul_Kathy,64,1,This investment will boost innovation and economic growth—especially in our most remote communities.,investment,boost,.74437422
+NY2022.txt,New York,Hochul_Kathy,64,1,"I’ve seen it in their eyes, in hospitals from Buffalo to Potsdam just last week.",last,week,.45995244
+NY2022.txt,New York,Hochul_Kathy,64,1,"As a mother, I know this first hand.",first,hand,.41046318
+NY2022.txt,New York,Hochul_Kathy,64,1,but a moment of great possibility.,great,possibility,.55429131
+NY2022.txt,New York,Hochul_Kathy,64,1,"It would ignore our history and go against everything that makes New York, New York.",make,york,.65640503
+NY2022.txt,New York,Hochul_Kathy,64,1,This pandemic did not create all the problems we’re facing today.,create,problem,.63259035
+NY2022.txt,New York,Hochul_Kathy,64,1,What I am proposing is a whole New Era for New York.,propose,what,.50866705
+NY2022.txt,New York,Hochul_Kathy,64,1,And we’re also going to do something bars and restaurants have been asking for….,do,bar,.40928879
+NY2022.txt,New York,Hochul_Kathy,64,1,And I know you’re all asking: Will we ever get through this?,you,ask,.49025932
+NY2022.txt,New York,Hochul_Kathy,64,1,There’s one more critical piece of our plan to rebuild our infrastructure — making it more resilient against climate change.,critical,piece,.53126734
+NY2022.txt,New York,Hochul_Kathy,64,1,There’s one more critical piece of our plan to rebuild our infrastructure — making it more resilient against climate change.,rebuild,infrastructure,.52399957
+NY2022.txt,New York,Hochul_Kathy,64,1,And we banned the sale of ghost guns.,ban,sale,.41570213
+NY2022.txt,New York,Hochul_Kathy,64,1,"And for businesses to succeed, they need a well-trained and educated workforce.",they,need,.4557862
+NY2022.txt,New York,Hochul_Kathy,64,1,"Substandard infrastructure can mean long commutes, lost time from family, even missing a child’s bedtime.",lose,time,.72148651
+NY2022.txt,New York,Hochul_Kathy,64,1,"And for businesses to succeed, they need a well-trained and educated workforce.",business,succeed,.59377158
+NY2022.txt,New York,Hochul_Kathy,64,1,They need it now and they’re going to get it.,they,need,.4557862
+NY2022.txt,New York,Hochul_Kathy,64,1,The question is: How do we restore their faith?,restore,faith,.68387556
+NY2022.txt,New York,Hochul_Kathy,64,1,"Right now, in real time, we are building a new New York worthy of your talents and ambitions.",build,york,.60659575
+NY2022.txt,New York,Hochul_Kathy,64,1,Every single initiative is filtered through the lens of how it will help you and your families.,help,you,.54228961
+NY2022.txt,New York,Hochul_Kathy,64,1,And May God bless the people of the great State of New York and our Nation.,god,bless,.65857083
+NY2022.txt,New York,Hochul_Kathy,64,1,We will find common ground.,common,ground,.5453375
+NY2022.txt,New York,Hochul_Kathy,64,1,"We’re also going to make it easier to qualify as an MWBE, so everyone can have access to opportunities.",it,easy,.4313767
+NY2022.txt,New York,Hochul_Kathy,64,1,"We will restore trust in this government, because it has been eroded for far too long.",restore,trust,.44312191
+NY2022.txt,New York,Hochul_Kathy,64,1,That is exactly what we are doing now.,do,what,.49853066
+NY2022.txt,New York,Hochul_Kathy,64,1,"We need to reconnect neighborhoods that were severed by asphalt highways, disproportionately impacting communities of color.",reconnect,neighborhood,.69222409
+NY2022.txt,New York,Hochul_Kathy,64,1,It was a cruel reminder that too much time has already been lost in the fight against climate change.,cruel,reminder,.64921165
+NY2022.txt,New York,Hochul_Kathy,64,1,Bold action is required – before any more time passes.,bold,action,.52716565
+NY2022.txt,New York,Hochul_Kathy,64,1,"Grandma found a job at Bell Aerospace, making parts for our planes during World War II.",make,part,.57510835
+NY2022.txt,New York,Hochul_Kathy,64,1,"And now, just when we thought we were turning a corner, there’s a new variant.",new,variant,.37067154

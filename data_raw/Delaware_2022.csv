@@ -1,0 +1,323 @@
+filename,st_name,speaker,age,gender,text,arg0,arg1,metaphor_score
+DE2022.txt,Delaware,Carney_John,66,0,And you don’t have to take my word for it.,take,word,.49558154
+DE2022.txt,Delaware,Carney_John,66,0,"We all need to do our part to keep our natural areas clean, and free of trash.",keep,area,.3805306
+DE2022.txt,Delaware,Carney_John,66,0,"That’s why, for the first time ever, we put a hyper focus on small business inside state government.",hyper,focus,.64868271
+DE2022.txt,Delaware,Carney_John,66,0,"Currently, close to 11,600 Delaware homes and businesses lack access to high-speed broadband.",high,speed,.53336763
+DE2022.txt,Delaware,Carney_John,66,0,"Please join me in thanking our educators, and everyone who works in our schools for their incredible efforts.",thank,educator,.18665117
+DE2022.txt,Delaware,Carney_John,66,0,That includes supporting innovative new tech companies and mom-and-pop mainstream businesses.,new,company,.48107165
+DE2022.txt,Delaware,Carney_John,66,0,"Their new building in Wilmington, which is almost complete, will accommodate 500 employees.",accommodate,employee,.23843938
+DE2022.txt,Delaware,Carney_John,66,0,These children and their families deserve our best efforts.,good,effort,.61272496
+DE2022.txt,Delaware,Carney_John,66,0,More than 300 members of the Delaware National Guard are at work right now helping take pressure off our hospitals.,take,pressure,.5556919
+DE2022.txt,Delaware,Carney_John,66,0,"Over the last month, I’ve knocked doors and talked directly to parents and students.",last,month,.47119778
+DE2022.txt,Delaware,Carney_John,66,0,We provided more than $400 million in support to small businesses.,provide,million,.45078951
+DE2022.txt,Delaware,Carney_John,66,0,The DPP helped them retain thousands more.,retain,thousand,.43620518
+DE2022.txt,Delaware,Carney_John,66,0,"Our plans did not include a global pandemic, I can tell you.",plan,include,.51243955
+DE2022.txt,Delaware,Carney_John,66,0,"Working with all of you, we created the Delaware Prosperity Partnership.",create,partnership,.59127736
+DE2022.txt,Delaware,Carney_John,66,0,"Currently, close to 11,600 Delaware homes and businesses lack access to high-speed broadband.",home,lack,.47031692
+DE2022.txt,Delaware,Carney_John,66,0,I also want to thank Dr. Karyl Rattay and her entire public health team for their hard work and resilience.,public,team,.4094615
+DE2022.txt,Delaware,Carney_John,66,0,"Two years ago, we made a commitment to make sure every state employee makes at least $15 an hour.",make,commitment,.72123969
+DE2022.txt,Delaware,Carney_John,66,0,Supporting businesses also means supporting the employees who work there.,support,employee,.42696595
+DE2022.txt,Delaware,Carney_John,66,0,Supporting businesses also means supporting the employees who work there.,business,mean,.5273453
+DE2022.txt,Delaware,Carney_John,66,0,Please help me thank these public servants.,public,servant,.35594386
+DE2022.txt,Delaware,Carney_John,66,0,I’d like to thank Senator McBride and Representative Heffernan for their leadership on this important issue.,thank,mcbride,.47615257
+DE2022.txt,Delaware,Carney_John,66,0,"That will make commutes shorter, improve safety on our roads, and prepare Delaware for the future.",prepare,delaware,.4923062
+DE2022.txt,Delaware,Carney_John,66,0,"God Bless you, and God Bless our great State.",god,bless,.65857083
+DE2022.txt,Delaware,Carney_John,66,0,"As they can tell you, these new jobs are not just confined to the northern part of our state.",they,tell,.48237106
+DE2022.txt,Delaware,Carney_John,66,0,The Lieutenant Governor will continue to be a driving force to ensure access to treatment and prevention.,governor,continue,.48228598
+DE2022.txt,Delaware,Carney_John,66,0,And we are supercharging our economy with federal resources.,supercharge,economy,.74449188
+DE2022.txt,Delaware,Carney_John,66,0,"But the last two years have taught me that whatever happens, our state will rise to the occasion.",last,year,.50250727
+DE2022.txt,Delaware,Carney_John,66,0,"God Bless you, and God Bless our great State.",bless,you,.57595164
+DE2022.txt,Delaware,Carney_John,66,0,"Ultimately, I believe that expanding economic opportunity for everyone must start in the classroom.",everyone,start,.52593291
+DE2022.txt,Delaware,Carney_John,66,0,And it’s making a real difference in classrooms.,real,difference,.49235985
+DE2022.txt,Delaware,Carney_John,66,0,I especially want to thank Senator Hansen for her work to protect our natural environment.,protect,environment,.63336384
+DE2022.txt,Delaware,Carney_John,66,0,"Miller Metal, a longtime leader in Delaware manufacturing, is adding jobs in Bridgeville.",metal,add,.54485518
+DE2022.txt,Delaware,Carney_John,66,0,We’re building Delaware’s economy for the future.,build,economy,.53833967
+DE2022.txt,Delaware,Carney_John,66,0,And we can’t afford to keep doing the same thing and expecting a different result.,expect,result,.43846226
+DE2022.txt,Delaware,Carney_John,66,0,"I’d like to thank members of the JFC – and your chairs, Senator Paradee and Representative Carson – for your work.",thank,member,.29071623
+DE2022.txt,Delaware,Carney_John,66,0,"Since 2019, our EDGE Grants program has supported more than 35 small businesses.",small,business,.58363891
+DE2022.txt,Delaware,Carney_John,66,0,"I want to thank General Berry, our Guardsmen and women, and all our healthcare workers, for your incredible efforts.",incredible,effort,.63249511
+DE2022.txt,Delaware,Carney_John,66,0,"On my first day in office in 2017, we partnered with the private sector to strengthen our economic development efforts.",strengthen,effort,.72400695
+DE2022.txt,Delaware,Carney_John,66,0,She always reminds me how much children have sacrificed through this pandemic to keep their families and communities safe.,keep,family,.52976936
+DE2022.txt,Delaware,Carney_John,66,0,We were looking forward to a bright year ahead.,bright,year,.48315999
+DE2022.txt,Delaware,Carney_John,66,0,"We supported child care providers, who stayed on the job throughout this crisis.",support,provider,.47642353
+DE2022.txt,Delaware,Carney_John,66,0,"Our plans did not include a global pandemic, I can tell you.",tell,you,.52250695
+DE2022.txt,Delaware,Carney_John,66,0,I especially want to thank Senator Hansen for her work to protect our natural environment.,thank,hansen,.4291653
+DE2022.txt,Delaware,Carney_John,66,0,These businesses are creating jobs and poised for growth.,create,job,.54951441
+DE2022.txt,Delaware,Carney_John,66,0,"Their new building in Wilmington, which is almost complete, will accommodate 500 employees.",new,building,.36768726
+DE2022.txt,Delaware,Carney_John,66,0,That’s why we’re investing more than $50 million in federal stimulus funds to strengthen our workforce training programs.,federal,stimulus,.30275962
+DE2022.txt,Delaware,Carney_John,66,0,"That’s why, for the first time ever, we put a hyper focus on small business inside state government.",first,time,.55312014
+DE2022.txt,Delaware,Carney_John,66,0,"But the last two years have taught me that whatever happens, our state will rise to the occasion.",year,teach,.53287596
+DE2022.txt,Delaware,Carney_John,66,0,"On my first day in office in 2017, we partnered with the private sector to strengthen our economic development efforts.",private,sector,.42274335
+DE2022.txt,Delaware,Carney_John,66,0,Because of the incredible strength of the people of our state.,incredible,strength,.5753544
+DE2022.txt,Delaware,Carney_John,66,0,We provided more than $400 million in support to small businesses.,small,business,.58363891
+DE2022.txt,Delaware,Carney_John,66,0,"And as we’ve learned the hard way over the past few weeks, we aren’t through it yet.",few,week,.3996757
+DE2022.txt,Delaware,Carney_John,66,0,They believe that good jobs should also support their families when they need that support the most.,they,believe,.47976086
+DE2022.txt,Delaware,Carney_John,66,0,"Miller Metal, a longtime leader in Delaware manufacturing, is adding jobs in Bridgeville.",add,job,.48951593
+DE2022.txt,Delaware,Carney_John,66,0,"She spends a third of her day in an early childhood center, learning on the job.",early,center,.41233799
+DE2022.txt,Delaware,Carney_John,66,0,"Over the past five years, we have worked hard – and worked together – to get our state budget in order.",get,budget,.58955926
+DE2022.txt,Delaware,Carney_John,66,0,"That’s why, for the first time ever, we put a hyper focus on small business inside state government.",put,focus,.6118505
+DE2022.txt,Delaware,Carney_John,66,0,It’s the right thing to do - and it will make Delaware more attractive for younger workers.,it,make,.4804064
+DE2022.txt,Delaware,Carney_John,66,0,This is an unprecedented opportunity to fix longstanding problems.,fix,problem,.40149632
+DE2022.txt,Delaware,Carney_John,66,0,And that idea has paid off.,idea,pay,.35267857
+DE2022.txt,Delaware,Carney_John,66,0,Or during her two terms wrestling with your predecessors over a laundry list of sticky issues.,laundry,list,.36022139
+DE2022.txt,Delaware,Carney_John,66,0,They believe that good jobs should also support their families when they need that support the most.,job,support,.51140571
+DE2022.txt,Delaware,Carney_John,66,0,Business owners tell me this helped them keep their doors open.,keep,door,.36896679
+DE2022.txt,Delaware,Carney_John,66,0,ICM plans to invest $15 million in its new headquarters and create almost 400 new jobs.,new,job,.47139215
+DE2022.txt,Delaware,Carney_John,66,0,"They’re looking for a way of life, especially as they start a young family.",they,look,.43237919
+DE2022.txt,Delaware,Carney_John,66,0,"They’re looking for a way of life, especially as they start a young family.",young,family,.54021287
+DE2022.txt,Delaware,Carney_John,66,0,ICM plans to invest $15 million in its new headquarters and create almost 400 new jobs.,invest,million,.58395231
+DE2022.txt,Delaware,Carney_John,66,0,Business owners tell me this helped them keep their doors open.,owner,tell,.4982034
+DE2022.txt,Delaware,Carney_John,66,0,They believe that good jobs should also support their families when they need that support the most.,support,family,.56961775
+DE2022.txt,Delaware,Carney_John,66,0,"Despite the pandemic, Delaware employers have added nearly 20,000 new jobs.",employer,add,.45938066
+DE2022.txt,Delaware,Carney_John,66,0,This model will place more decision-making in the hands of educators and local communities.,model,place,.39682576
+DE2022.txt,Delaware,Carney_John,66,0,"Ultimately, I believe that expanding economic opportunity for everyone must start in the classroom.",economic,opportunity,.49817827
+DE2022.txt,Delaware,Carney_John,66,0,"Since 2019, our EDGE Grants program has supported more than 35 small businesses.",support,business,.58771026
+DE2022.txt,Delaware,Carney_John,66,0,"Next week, I will present a budget that stays true to these principles.",that,stay,.54483598
+DE2022.txt,Delaware,Carney_John,66,0,I’d like to thank Senator McBride and Representative Heffernan for their leadership on this important issue.,important,issue,.38125724
+DE2022.txt,Delaware,Carney_John,66,0,"But the last two years have taught me that whatever happens, our state will rise to the occasion.",whatever,happen,.48201776
+DE2022.txt,Delaware,Carney_John,66,0,It’s the right thing to do - and it will make Delaware more attractive for younger workers.,it,make,.4804064
+DE2022.txt,Delaware,Carney_John,66,0,These are certainly important issues.,important,issue,.38125724
+DE2022.txt,Delaware,Carney_John,66,0,"We can’t make investments in public education – or infrastructure, or public safety - without a long-term, sustainable financial plan.",public,education,.26123583
+DE2022.txt,Delaware,Carney_John,66,0,But because we know that vibrant outdoor spaces help attract new workers and families.,attract,worker,.38870537
+DE2022.txt,Delaware,Carney_John,66,0,These last two years have brought unprecedented challenges for every Delaware family.,year,bring,.61368388
+DE2022.txt,Delaware,Carney_John,66,0,"We all need to do our part to keep our natural areas clean, and free of trash.",do,part,.53179139
+DE2022.txt,Delaware,Carney_John,66,0,"And thanks to the hard work of educators, we got our children back in classrooms.",get,child,.38190004
+DE2022.txt,Delaware,Carney_John,66,0,"Despite the pandemic, Delaware employers have added nearly 20,000 new jobs.",add,job,.48951593
+DE2022.txt,Delaware,Carney_John,66,0,"On my first day in office in 2017, we partnered with the private sector to strengthen our economic development efforts.",first,day,.53616542
+DE2022.txt,Delaware,Carney_John,66,0,Over the past five years – working with all of you – we have made significant new investments in public education.,significant,investment,.59538782
+DE2022.txt,Delaware,Carney_John,66,0,And it’s making a real difference in classrooms.,make,difference,.61465788
+DE2022.txt,Delaware,Carney_John,66,0,"We can’t make investments in public education – or infrastructure, or public safety - without a long-term, sustainable financial plan.",make,investment,.61067212
+DE2022.txt,Delaware,Carney_John,66,0,"Every time they’ve been knocked down, they get back up.",they,get,.48274079
+DE2022.txt,Delaware,Carney_John,66,0,"Two years ago, we made a commitment to make sure every state employee makes at least $15 an hour.",employee,make,.52289939
+DE2022.txt,Delaware,Carney_John,66,0,"That will make commutes shorter, improve safety on our roads, and prepare Delaware for the future.",improve,safety,.55791593
+DE2022.txt,Delaware,Carney_John,66,0,Over the past five years – working with all of you – we have made significant new investments in public education.,new,investment,.56874746
+DE2022.txt,Delaware,Carney_John,66,0,"And thanks to the hard work of educators, we got our children back in classrooms.",hard,work,.60448164
+DE2022.txt,Delaware,Carney_John,66,0,And I respect those differences.,respect,difference,.52366924
+DE2022.txt,Delaware,Carney_John,66,0,That’s why we’re continuing our efforts to Keep DE Litter Free.,continue,effort,.636096
+DE2022.txt,Delaware,Carney_John,66,0,Probably our most popular statewide initiative this year has been Tracey’s work with the Dolly Parton Imagination Library.,popular,initiative,.50898373
+DE2022.txt,Delaware,Carney_John,66,0,They believe that good jobs should also support their families when they need that support the most.,good,job,.46306163
+DE2022.txt,Delaware,Carney_John,66,0,"Currently, close to 11,600 Delaware homes and businesses lack access to high-speed broadband.",lack,access,.51424086
+DE2022.txt,Delaware,Carney_John,66,0,"I’d like to thank the Food Bank, its workers, and volunteers for their incredible work.",incredible,work,.58247775
+DE2022.txt,Delaware,Carney_John,66,0,That includes supporting innovative new tech companies and mom-and-pop mainstream businesses.,support,company,.54385769
+DE2022.txt,Delaware,Carney_John,66,0,"Over the last month, I’ve knocked doors and talked directly to parents and students.",knock,door,.37620214
+DE2022.txt,Delaware,Carney_John,66,0,"With the leadership of Senator Walsh, we also set Delaware on course to a $15 minimum wage.",minimum,wage,.51028037
+DE2022.txt,Delaware,Carney_John,66,0,"We know that nationally, and in Delaware, small businesses drive job creation.",know,that,.49029002
+DE2022.txt,Delaware,Carney_John,66,0,"When I release my budget next week, we’ll set aside another $30 million for open space and farmland preservation.",release,budget,.53211796
+DE2022.txt,Delaware,Carney_John,66,0,"God Bless you, and God Bless our great State.",bless,state,.65155286
+DE2022.txt,Delaware,Carney_John,66,0,"And it’ll offer more support for students, families, and importantly the teachers in the classroom.",more,support,.57049805
+DE2022.txt,Delaware,Carney_John,66,0,All these investments will strengthen our economy for the future.,strengthen,economy,.83267611
+DE2022.txt,Delaware,Carney_John,66,0,"With the leadership of Senator Walsh, we also set Delaware on course to a $15 minimum wage.",set,delaware,.47252211
+DE2022.txt,Delaware,Carney_John,66,0,We’re also expanding Pathways programs in public middle schools and high schools.,middle,school,.59404051
+DE2022.txt,Delaware,Carney_John,66,0,But because we know that vibrant outdoor spaces help attract new workers and families.,space,help,.64412868
+DE2022.txt,Delaware,Carney_John,66,0,And we are eager for what lies ahead.,what,lie,.46070337
+DE2022.txt,Delaware,Carney_John,66,0,Let me be clear about this point – and you won’t be surprised to hear it.,hear,it,.5245347
+DE2022.txt,Delaware,Carney_John,66,0,Delaware is one of only two states to win this award twice.,win,award,.5772059
+DE2022.txt,Delaware,Carney_John,66,0,And we can’t afford to keep doing the same thing and expecting a different result.,same,thing,.45559087
+DE2022.txt,Delaware,Carney_John,66,0,We’re also expanding Pathways programs in public middle schools and high schools.,expand,program,.43903452
+DE2022.txt,Delaware,Carney_John,66,0,And Delaware has one of the most robust programs in the country.,robust,program,.58933121
+DE2022.txt,Delaware,Carney_John,66,0,"We’ll repair roads and bridges, invest even more in public transit, and build out electric vehicle infrastructure.",electric,vehicle,.34876764
+DE2022.txt,Delaware,Carney_John,66,0,Supporting businesses also means supporting the employees who work there.,who,work,.49188817
+DE2022.txt,Delaware,Carney_John,66,0,We’re investing over $100 million in federal money to make sure everyone has access to a hardwired connection.,invest,million,.58395231
+DE2022.txt,Delaware,Carney_John,66,0,And we’re focused on underserved communities.,underserved,community,.50307053
+DE2022.txt,Delaware,Carney_John,66,0,"That will make commutes shorter, improve safety on our roads, and prepare Delaware for the future.",commute,short,.51644343
+DE2022.txt,Delaware,Carney_John,66,0,"As they can tell you, these new jobs are not just confined to the northern part of our state.",tell,you,.52250695
+DE2022.txt,Delaware,Carney_John,66,0,The DPP helped them retain thousands more.,dpp,help,.5262931
+DE2022.txt,Delaware,Carney_John,66,0,The word “coronavirus” meant nothing to most of us.,word,mean,.44937527
+DE2022.txt,Delaware,Carney_John,66,0,We know that a good education is not the only thing children and families need in order to be successful.,good,education,.59565866
+DE2022.txt,Delaware,Carney_John,66,0,"We supported child care providers, who stayed on the job throughout this crisis.",who,stay,.41607106
+DE2022.txt,Delaware,Carney_John,66,0,But I hope you know this.,know,this,.51429754
+DE2022.txt,Delaware,Carney_John,66,0,"In March, the Atlantic 10 Conference will bring its women’s basketball Championship to the Chase Fieldhouse in Wilmington.",conference,bring,.5336799
+DE2022.txt,Delaware,Carney_John,66,0,That’s why we’re investing more than $50 million in federal stimulus funds to strengthen our workforce training programs.,invest,million,.58395231
+DE2022.txt,Delaware,Carney_John,66,0,"It doesn’t solve every problem, to be sure.",it,solve,.48354888
+DE2022.txt,Delaware,Carney_John,66,0,We’ll supercharge our state’s largest infrastructure plan.,supercharge,plan,.50209534
+DE2022.txt,Delaware,Carney_John,66,0,"As most of you know, I’ve served in government now in some capacity for nearly three decades.",most,know,.48342085
+DE2022.txt,Delaware,Carney_John,66,0,"Tracey has also partnered with the Food Bank of Delaware, which has stepped up time and again during this pandemic.",tracey,partner,.57196248
+DE2022.txt,Delaware,Carney_John,66,0,"Please join me in thanking our educators, and everyone who works in our schools for their incredible efforts.",incredible,effort,.63249511
+DE2022.txt,Delaware,Carney_John,66,0,"We’ll repair roads and bridges, invest even more in public transit, and build out electric vehicle infrastructure.",build,infrastructure,.46344355
+DE2022.txt,Delaware,Carney_John,66,0,"That’s why, for the first time ever, we put a hyper focus on small business inside state government.",small,business,.58363891
+DE2022.txt,Delaware,Carney_John,66,0,"We all need to do our part to keep our natural areas clean, and free of trash.",natural,area,.29611722
+DE2022.txt,Delaware,Carney_John,66,0,Our children missed important time in classrooms.,child,miss,.38307106
+DE2022.txt,Delaware,Carney_John,66,0,Or during her two terms wrestling with your predecessors over a laundry list of sticky issues.,sticky,issue,.84015685
+DE2022.txt,Delaware,Carney_John,66,0,"And in August, Wilmington Country Club will host the PGA and thousands of fans for the BMW Championship.",host,pga,.45881757
+DE2022.txt,Delaware,Carney_John,66,0,Business owners tell me this helped them keep their doors open.,this,help,.63118362
+DE2022.txt,Delaware,Carney_John,66,0,And for her relentless advocacy on behalf of children across our state.,relentless,advocacy,.672203
+DE2022.txt,Delaware,Carney_John,66,0,We also continue to tackle the epidemic of substance abuse statewide.,tackle,epidemic,.55407363
+DE2022.txt,Delaware,Carney_John,66,0,That includes supporting innovative new tech companies and mom-and-pop mainstream businesses.,innovative,company,.60360408
+DE2022.txt,Delaware,Carney_John,66,0,"They’re looking for a way of life, especially as they start a young family.",start,family,.56033015
+DE2022.txt,Delaware,Carney_John,66,0,This model will place more decision-making in the hands of educators and local communities.,local,community,.44893995
+DE2022.txt,Delaware,Carney_John,66,0,All these investments will strengthen our economy for the future.,investment,strengthen,.82753909
+DE2022.txt,Delaware,Carney_John,66,0,But we can’t let those issues hold us up.,issue,hold,.50240046
+DE2022.txt,Delaware,Carney_John,66,0,"Since 2019, our EDGE Grants program has supported more than 35 small businesses.",program,support,.52939767
+DE2022.txt,Delaware,Carney_John,66,0,Delaware’s economy has rebounded from the worst effects of COVID-19 more quickly than we could’ve imagined.,bad,effect,.4754574
+DE2022.txt,Delaware,Carney_John,66,0,"We know that nationally, and in Delaware, small businesses drive job creation.",drive,creation,.62248743
+DE2022.txt,Delaware,Carney_John,66,0,Every one of us has experienced some type of loss during this pandemic.,one,experience,.52917618
+DE2022.txt,Delaware,Carney_John,66,0,"As they can tell you, these new jobs are not just confined to the northern part of our state.",new,job,.47139215
+DE2022.txt,Delaware,Carney_John,66,0,She always reminds me how much children have sacrificed through this pandemic to keep their families and communities safe.,she,remind,.39301136
+DE2022.txt,Delaware,Carney_John,66,0,"We can’t make investments in public education – or infrastructure, or public safety - without a long-term, sustainable financial plan.",sustainable,plan,.60387021
+DE2022.txt,Delaware,Carney_John,66,0,I especially want to thank Senator Hansen for her work to protect our natural environment.,natural,environment,.45072916
+DE2022.txt,Delaware,Carney_John,66,0,And thank you to those tuning in virtually.,thank,you,.44988889
+DE2022.txt,Delaware,Carney_John,66,0,And about the businesses that employ them.,that,employ,.55053663
+DE2022.txt,Delaware,Carney_John,66,0,It will place a hyper focus on these students and the challenges they face.,it,place,.40034026
+DE2022.txt,Delaware,Carney_John,66,0,"It doesn’t solve every problem, to be sure.",solve,problem,.45847839
+DE2022.txt,Delaware,Carney_John,66,0,"When I release my budget next week, we’ll set aside another $30 million for open space and farmland preservation.",next,week,.44930884
+DE2022.txt,Delaware,Carney_John,66,0,Many have lost loved ones.,many,lose,.53294593
+DE2022.txt,Delaware,Carney_John,66,0,"We know that nationally, and in Delaware, small businesses drive job creation.",small,business,.58363891
+DE2022.txt,Delaware,Carney_John,66,0,"And as we’ve learned the hard way over the past few weeks, we aren’t through it yet.",hard,way,.52255762
+DE2022.txt,Delaware,Carney_John,66,0,And it’s making a real difference in classrooms.,it,make,.4804064
+DE2022.txt,Delaware,Carney_John,66,0,Governor Minner did not have an easy time leading up to being governor.,easy,time,.49328223
+DE2022.txt,Delaware,Carney_John,66,0,Many have lost loved ones.,loved,one,.44966257
+DE2022.txt,Delaware,Carney_John,66,0,We’ll significantly increase resources for our gun violence prevention program in Wilmington and Dover.,increase,resource,.49919015
+DE2022.txt,Delaware,Carney_John,66,0,"Using federal stimulus dollars, we’ll build and upgrade libraries in every county.",use,dollar,.46823442
+DE2022.txt,Delaware,Carney_John,66,0,We’ll help nonprofits modernize their buildings so they can better serve the people of our state.,they,serve,.59915322
+DE2022.txt,Delaware,Carney_John,66,0,The DPP helped them retain thousands more.,they,retain,.53619975
+DE2022.txt,Delaware,Carney_John,66,0,"That will help students like Imani Wulff-Cochrane, whom I met recently.",help,student,.45700723
+DE2022.txt,Delaware,Carney_John,66,0,"I also want to take this opportunity to thank my wife, Tracey, for her support during this challenging time.",challenging,time,.53287095
+DE2022.txt,Delaware,Carney_John,66,0,We’ll help nonprofits modernize their buildings so they can better serve the people of our state.,modernize,building,.52724785
+DE2022.txt,Delaware,Carney_John,66,0,"Thanks to Representative Williams and Senator Poore, we finally invested in K-3 basic special education.",special,education,.4448072
+DE2022.txt,Delaware,Carney_John,66,0,These children and their families deserve our best efforts.,deserve,effort,.57988018
+DE2022.txt,Delaware,Carney_John,66,0,I also want to thank Dr. Karyl Rattay and her entire public health team for their hard work and resilience.,hard,work,.60448164
+DE2022.txt,Delaware,Carney_John,66,0,"Next week, I will present a budget that stays true to these principles.",next,week,.44930884
+DE2022.txt,Delaware,Carney_John,66,0,"We can’t make investments in public education – or infrastructure, or public safety - without a long-term, sustainable financial plan.",public,safety,.42228162
+DE2022.txt,Delaware,Carney_John,66,0,"Over the past two years, we’ve seen clearly that the people of our state are resilient.",past,year,.52166069
+DE2022.txt,Delaware,Carney_John,66,0,"When I release my budget next week, we’ll set aside another $30 million for open space and farmland preservation.",open,space,.40727898
+DE2022.txt,Delaware,Carney_John,66,0,"With federal support, we’ll be investing more than $400 million in Delaware’s clean water infrastructure.",invest,million,.58395231
+DE2022.txt,Delaware,Carney_John,66,0,"In March, the Atlantic 10 Conference will bring its women’s basketball Championship to the Chase Fieldhouse in Wilmington.",bring,championship,.56499332
+DE2022.txt,Delaware,Carney_John,66,0,We’re investing over $100 million in federal money to make sure everyone has access to a hardwired connection.,federal,money,.48557833
+DE2022.txt,Delaware,Carney_John,66,0,"We can’t make investments in public education – or infrastructure, or public safety - without a long-term, sustainable financial plan.",financial,plan,.5323925
+DE2022.txt,Delaware,Carney_John,66,0,"But the last two years have taught me that whatever happens, our state will rise to the occasion.",state,rise,.62677264
+DE2022.txt,Delaware,Carney_John,66,0,"We’ll repair roads and bridges, invest even more in public transit, and build out electric vehicle infrastructure.",public,transit,.30533081
+DE2022.txt,Delaware,Carney_John,66,0,And we’ll do it responsibly.,do,it,.46025267
+DE2022.txt,Delaware,Carney_John,66,0,We know that a good education is not the only thing children and families need in order to be successful.,only,child,.39643747
+DE2022.txt,Delaware,Carney_John,66,0,This is an unprecedented opportunity to fix longstanding problems.,unprecedented,opportunity,.56530625
+DE2022.txt,Delaware,Carney_John,66,0,"That will make commutes shorter, improve safety on our roads, and prepare Delaware for the future.",that,make,.55786943
+DE2022.txt,Delaware,Carney_John,66,0,Business owners tell me this helped them keep their doors open.,they,keep,.51282108
+DE2022.txt,Delaware,Carney_John,66,0,These last two years have brought unprecedented challenges for every Delaware family.,bring,challenge,.63903576
+DE2022.txt,Delaware,Carney_John,66,0,I also want to thank Dr. Karyl Rattay and her entire public health team for their hard work and resilience.,thank,rattay,.45463949
+DE2022.txt,Delaware,Carney_John,66,0,And it’s what every taxpayer I’ve ever talked to expects.,talk,taxpayer,.40653253
+DE2022.txt,Delaware,Carney_John,66,0,But because we know that vibrant outdoor spaces help attract new workers and families.,vibrant,space,.36294094
+DE2022.txt,Delaware,Carney_John,66,0,"I also want to take this opportunity to thank my wife, Tracey, for her support during this challenging time.",take,opportunity,.38905886
+DE2022.txt,Delaware,Carney_John,66,0,"Their new building in Wilmington, which is almost complete, will accommodate 500 employees.",building,accommodate,.42135984
+DE2022.txt,Delaware,Carney_John,66,0,Our Lieutenant Governor’s leadership of the Behavioral Health Consortium is having a real impact.,real,impact,.52327949
+DE2022.txt,Delaware,Carney_John,66,0,"And it’ll offer more support for students, families, and importantly the teachers in the classroom.",it,offer,.50319123
+DE2022.txt,Delaware,Carney_John,66,0,"Our plans did not include a global pandemic, I can tell you.",include,pandemic,.49450186
+DE2022.txt,Delaware,Carney_John,66,0,We’re investing over $100 million in federal money to make sure everyone has access to a hardwired connection.,hardwired,connection,.49323994
+DE2022.txt,Delaware,Carney_John,66,0,"We’ll repair roads and bridges, invest even more in public transit, and build out electric vehicle infrastructure.",repair,road,.47044551
+DE2022.txt,Delaware,Carney_John,66,0,"Despite the pandemic, Delaware employers have added nearly 20,000 new jobs.",new,job,.47139215
+DE2022.txt,Delaware,Carney_John,66,0,Every one of us has experienced some type of loss during this pandemic.,experience,type,.50291759
+DE2022.txt,Delaware,Carney_John,66,0,"Delaware employers have more than 33,000 open positions right now.",open,position,.51224101
+DE2022.txt,Delaware,Carney_John,66,0,This model will place more decision-making in the hands of educators and local communities.,more,making,.56415331
+DE2022.txt,Delaware,Carney_John,66,0,And about the businesses that employ them.,employ,they,.5394336
+DE2022.txt,Delaware,Carney_John,66,0,She always reminds me how much children have sacrificed through this pandemic to keep their families and communities safe.,child,sacrifice,.28404123
+DE2022.txt,Delaware,Carney_John,66,0,Not just because it’s the right thing to do.,right,thing,.45987016
+DE2022.txt,Delaware,Carney_John,66,0,We’ll supercharge our state’s largest infrastructure plan.,large,plan,.56307477
+DE2022.txt,Delaware,Carney_John,66,0,I know this has been a difficult time.,difficult,time,.51549447
+DE2022.txt,Delaware,Carney_John,66,0,This model will place more decision-making in the hands of educators and local communities.,place,making,.47518149
+DE2022.txt,Delaware,Carney_John,66,0,Baltimore-based textile manufacturer Avalon Industries is relocating and expanding in Dover.,industries,relocate,.47921789
+DE2022.txt,Delaware,Carney_John,66,0,We know workers are not just looking for a job.,worker,look,.36237395
+DE2022.txt,Delaware,Carney_John,66,0,I’ve never seen a more challenging time.,challenging,time,.53287095
+DE2022.txt,Delaware,Carney_John,66,0,"With federal support, we’ll be investing more than $400 million in Delaware’s clean water infrastructure.",clean,water,.25715238
+DE2022.txt,Delaware,Carney_John,66,0,This is an unprecedented opportunity to fix longstanding problems.,longstanding,problem,.59923291
+DE2022.txt,Delaware,Carney_John,66,0,We will use one-time revenue to continue the largest infrastructure program in Delaware history.,use,revenue,.52509671
+DE2022.txt,Delaware,Carney_John,66,0,It’s a very exciting project.,exciting,project,.54265094
+DE2022.txt,Delaware,Carney_John,66,0,They believe that good jobs should also support their families when they need that support the most.,support,most,.55640364
+DE2022.txt,Delaware,Carney_John,66,0,Our children missed important time in classrooms.,miss,time,.48148215
+DE2022.txt,Delaware,Carney_John,66,0,I can tell you confidently today that the state of our state is strong.,tell,you,.52250695
+DE2022.txt,Delaware,Carney_John,66,0,"On my first day in office in 2017, we partnered with the private sector to strengthen our economic development efforts.",economic,development,.55619824
+DE2022.txt,Delaware,Carney_John,66,0,It’s the right thing to do - and it will make Delaware more attractive for younger workers.,delaware,attractive,.68472439
+DE2022.txt,Delaware,Carney_John,66,0,I also want to thank Dr. Karyl Rattay and her entire public health team for their hard work and resilience.,entire,team,.44297013
+DE2022.txt,Delaware,Carney_John,66,0,"Tracey has also partnered with the Food Bank of Delaware, which has stepped up time and again during this pandemic.",which,step,.49601746
+DE2022.txt,Delaware,Carney_John,66,0,It’s the right thing to do - and it will make Delaware more attractive for younger workers.,young,worker,.39602244
+DE2022.txt,Delaware,Carney_John,66,0,"With federal support, we’ll be investing more than $400 million in Delaware’s clean water infrastructure.",federal,support,.51211512
+DE2022.txt,Delaware,Carney_John,66,0,ICM plans to invest $15 million in its new headquarters and create almost 400 new jobs.,new,headquarters,.43583182
+DE2022.txt,Delaware,Carney_John,66,0,"That will help students like Imani Wulff-Cochrane, whom I met recently.",meet,whom,.53923756
+DE2022.txt,Delaware,Carney_John,66,0,Probably our most popular statewide initiative this year has been Tracey’s work with the Dolly Parton Imagination Library.,statewide,initiative,.35048598
+DE2022.txt,Delaware,Carney_John,66,0,It will place a hyper focus on these students and the challenges they face.,place,focus,.41077283
+DE2022.txt,Delaware,Carney_John,66,0,"In November, our Parks again received the National Gold Medal for Excellence.",receive,medal,.42754599
+DE2022.txt,Delaware,Carney_John,66,0,"Miller Metal, a longtime leader in Delaware manufacturing, is adding jobs in Bridgeville.",longtime,leader,.58038872
+DE2022.txt,Delaware,Carney_John,66,0,That includes supporting innovative new tech companies and mom-and-pop mainstream businesses.,that,include,.51193649
+DE2022.txt,Delaware,Carney_John,66,0,That’s why we’re investing more than $50 million in federal stimulus funds to strengthen our workforce training programs.,strengthen,program,.66285288
+DE2022.txt,Delaware,Carney_John,66,0,Please help me thank these public servants.,thank,servant,.29116079
+DE2022.txt,Delaware,Carney_John,66,0,"We missed sports games, graduations, weddings, and funerals.",miss,game,.34380811
+DE2022.txt,Delaware,Carney_John,66,0,We have built significant new reserves and directed one-time revenue into one-time infrastructure projects.,significant,reserve,.47275323
+DE2022.txt,Delaware,Carney_John,66,0,"And it’ll offer more support for students, families, and importantly the teachers in the classroom.",offer,support,.40582958
+DE2022.txt,Delaware,Carney_John,66,0,We have built significant new reserves and directed one-time revenue into one-time infrastructure projects.,build,reserve,.50693589
+DE2022.txt,Delaware,Carney_John,66,0,But I hope you know this.,you,know,.47417736
+DE2022.txt,Delaware,Carney_John,66,0,"They’re looking for a way of life, especially as they start a young family.",they,start,.52629924
+DE2022.txt,Delaware,Carney_John,66,0,ICM plans to invest $15 million in its new headquarters and create almost 400 new jobs.,icm,plan,.38205481
+DE2022.txt,Delaware,Carney_John,66,0,"That will help students like Imani Wulff-Cochrane, whom I met recently.",that,help,.59718406
+DE2022.txt,Delaware,Carney_John,66,0,I am determined to help clean up our highways and byways.,clean,highway,.36402491
+DE2022.txt,Delaware,Carney_John,66,0,"In November, our Parks again received the National Gold Medal for Excellence.",parks,receive,.4198207
+DE2022.txt,Delaware,Carney_John,66,0,Everyone should get out and enjoy our parks.,everyone,get,.45174402
+DE2022.txt,Delaware,Carney_John,66,0,We’ll help nonprofits modernize their buildings so they can better serve the people of our state.,serve,people,.48419431
+DE2022.txt,Delaware,Carney_John,66,0,"Using federal stimulus dollars, we’ll build and upgrade libraries in every county.",federal,stimulus,.30275962
+DE2022.txt,Delaware,Carney_John,66,0,"On January 23, 2020, I stood in this same spot to deliver the State of the State address.",deliver,state,.52234352
+DE2022.txt,Delaware,Carney_John,66,0,Delaware’s economy has rebounded from the worst effects of COVID-19 more quickly than we could’ve imagined.,economy,rebound,.81950647
+DE2022.txt,Delaware,Carney_John,66,0,These last two years have brought unprecedented challenges for every Delaware family.,unprecedented,challenge,.64484143
+DE2022.txt,Delaware,Carney_John,66,0,It will place a hyper focus on these students and the challenges they face.,hyper,focus,.64868271
+DE2022.txt,Delaware,Carney_John,66,0,Responsibly managing our state budget is more important than ever.,manage,budget,.63185531
+DE2022.txt,Delaware,Carney_John,66,0,"With these investments, we’ll strengthen our economy, expand opportunity, and support families as we finally emerge from this pandemic.",expand,opportunity,.54333538
+DE2022.txt,Delaware,Carney_John,66,0,The Lieutenant Governor will continue to be a driving force to ensure access to treatment and prevention.,ensure,access,.50050676
+DE2022.txt,Delaware,Carney_John,66,0,Delaware State Parks continue to be among the best in the country.,parks,continue,.41849315
+DE2022.txt,Delaware,Carney_John,66,0,"We know that nationally, and in Delaware, small businesses drive job creation.",business,drive,.54501456
+DE2022.txt,Delaware,Carney_John,66,0,Please join me in thanking Tracey for her work.,thank,tracey,.43495157
+DE2022.txt,Delaware,Carney_John,66,0,We’ll help nonprofits modernize their buildings so they can better serve the people of our state.,nonprofit,modernize,.35099927
+DE2022.txt,Delaware,Carney_John,66,0,"And as we’ve learned the hard way over the past few weeks, we aren’t through it yet.",learn,way,.53417903
+DE2022.txt,Delaware,Carney_John,66,0,"As they can tell you, these new jobs are not just confined to the northern part of our state.",northern,part,.44113421
+DE2022.txt,Delaware,Carney_John,66,0,It’s also way past time to make sure every home and business is connected to the internet.,past,time,.56504363
+DE2022.txt,Delaware,Carney_John,66,0,"God Bless you, and God Bless our great State.",great,state,.53528708
+DE2022.txt,Delaware,Carney_John,66,0,And we can’t afford to keep doing the same thing and expecting a different result.,different,result,.45783418
+DE2022.txt,Delaware,Carney_John,66,0,Over the past five years – working with all of you – we have made significant new investments in public education.,past,year,.52166069
+DE2022.txt,Delaware,Carney_John,66,0,Many have lost loved ones.,lose,one,.52579224
+DE2022.txt,Delaware,Carney_John,66,0,Everyone should get out and enjoy our parks.,enjoy,park,.48033798
+DE2022.txt,Delaware,Carney_John,66,0,And we can’t afford to keep doing the same thing and expecting a different result.,do,thing,.43177223
+DE2022.txt,Delaware,Carney_John,66,0,They believe that good jobs should also support their families when they need that support the most.,they,need,.4557862
+DE2022.txt,Delaware,Carney_John,66,0,Over the past five years – working with all of you – we have made significant new investments in public education.,make,investment,.61067212
+DE2022.txt,Delaware,Carney_John,66,0,She always reminds me how much children have sacrificed through this pandemic to keep their families and communities safe.,much,child,.39236405
+DE2022.txt,Delaware,Carney_John,66,0,That’s in addition to expanding down payment and settlement assistance for homebuyers.,expand,assistance,.48819813
+DE2022.txt,Delaware,Carney_John,66,0,And we are supercharging our economy with federal resources.,federal,resource,.36627671
+DE2022.txt,Delaware,Carney_John,66,0,But because we know that vibrant outdoor spaces help attract new workers and families.,new,worker,.36103135
+DE2022.txt,Delaware,Carney_John,66,0,"I also want to take this opportunity to thank my wife, Tracey, for her support during this challenging time.",thank,wife,.38621086
+DE2022.txt,Delaware,Carney_John,66,0,"Next week, I will present a budget that stays true to these principles.",present,budget,.46176043
+DE2022.txt,Delaware,Carney_John,66,0,The word “coronavirus” meant nothing to most of us.,mean,nothing,.49010387
+DE2022.txt,Delaware,Carney_John,66,0,"She spends a third of her day in an early childhood center, learning on the job.",she,spend,.55156916
+DE2022.txt,Delaware,Carney_John,66,0,And our complex and often difficult history.,complex,history,.53123844
+DE2022.txt,Delaware,Carney_John,66,0,We have built significant new reserves and directed one-time revenue into one-time infrastructure projects.,direct,revenue,.53606707
+DE2022.txt,Delaware,Carney_John,66,0,"When I release my budget next week, we’ll set aside another $30 million for open space and farmland preservation.",set,million,.51749855
+DE2022.txt,Delaware,Carney_John,66,0,We will use one-time revenue to continue the largest infrastructure program in Delaware history.,continue,program,.51003319
+DE2022.txt,Delaware,Carney_John,66,0,"I’d like to thank the Food Bank, its workers, and volunteers for their incredible work.",thank,bank,.65071726
+DE2022.txt,Delaware,Carney_John,66,0,"Thanks to Representative Williams and Senator Poore, we finally invested in K-3 basic special education.",basic,education,.50522816
+DE2022.txt,Delaware,Carney_John,66,0,"With these investments, we’ll strengthen our economy, expand opportunity, and support families as we finally emerge from this pandemic.",strengthen,economy,.83267611
+DE2022.txt,Delaware,Carney_John,66,0,They believe that good jobs should also support their families when they need that support the most.,that,support,.54414129
+DE2022.txt,Delaware,Carney_John,66,0,Please join me in finally doing right by these children.,do,right,.51151508
+DE2022.txt,Delaware,Carney_John,66,0,"And as we’ve learned the hard way over the past few weeks, we aren’t through it yet.",past,week,.50198758
+DE2022.txt,Delaware,Carney_John,66,0,"Across the country, there are 10.5 million open positions, but only 6.8 million applicants.",open,position,.51224101
+DE2022.txt,Delaware,Carney_John,66,0,Over the past five years – working with all of you – we have made significant new investments in public education.,public,education,.26123583
+DE2022.txt,Delaware,Carney_John,66,0,"We’ll repair roads and bridges, invest even more in public transit, and build out electric vehicle infrastructure.",invest,more,.57440656
+DE2022.txt,Delaware,Carney_John,66,0,I’ve never seen a more challenging time.,see,time,.43670577
+DE2022.txt,Delaware,Carney_John,66,0,"Over the past five years, we have worked hard – and worked together – to get our state budget in order.",past,year,.52166069
+DE2022.txt,Delaware,Carney_John,66,0,We’re also expanding Pathways programs in public middle schools and high schools.,public,school,.32463321
+DE2022.txt,Delaware,Carney_John,66,0,But Delawareans have proven their resilience.,prove,resilience,.58748841
+DE2022.txt,Delaware,Carney_John,66,0,These children and their families deserve our best efforts.,child,deserve,.34836295
+DE2022.txt,Delaware,Carney_John,66,0,We have built significant new reserves and directed one-time revenue into one-time infrastructure projects.,new,reserve,.38051528
+DE2022.txt,Delaware,Carney_John,66,0,Our children missed important time in classrooms.,important,time,.43750834
+DE2022.txt,Delaware,Carney_John,66,0,It’s the right thing to do - and it will make Delaware more attractive for younger workers.,right,thing,.45987016
+DE2022.txt,Delaware,Carney_John,66,0,"Please join me in thanking our educators, and everyone who works in our schools for their incredible efforts.",who,work,.49188817
+DE2022.txt,Delaware,Carney_John,66,0,I wish we could have more people with us.,more,people,.41102111
+DE2022.txt,Delaware,Carney_John,66,0,"Ultimately, I believe that expanding economic opportunity for everyone must start in the classroom.",expand,opportunity,.54333538
+DE2022.txt,Delaware,Carney_John,66,0,These businesses are creating jobs and poised for growth.,business,create,.56688857
+DE2022.txt,Delaware,Carney_John,66,0,We are taking the lead in state government.,take,lead,.52660418
+DE2022.txt,Delaware,Carney_John,66,0,These last two years have brought unprecedented challenges for every Delaware family.,last,year,.50250727
+DE2022.txt,Delaware,Carney_John,66,0,We’re also expanding Pathways programs in public middle schools and high schools.,high,school,.54437679
+DE2022.txt,Delaware,Carney_John,66,0,"Using federal stimulus dollars, we’ll build and upgrade libraries in every county.",upgrade,library,.30234316
+DE2022.txt,Delaware,Carney_John,66,0,"She spends a third of her day in an early childhood center, learning on the job.",spend,third,.62958992
+DE2022.txt,Delaware,Carney_John,66,0,But because we know that vibrant outdoor spaces help attract new workers and families.,outdoor,space,.28518009
+DE2022.txt,Delaware,Carney_John,66,0,ICM plans to invest $15 million in its new headquarters and create almost 400 new jobs.,create,job,.54951441
+DE2022.txt,Delaware,Carney_John,66,0,It will place a hyper focus on these students and the challenges they face.,they,face,.47868079
+DE2022.txt,Delaware,Carney_John,66,0,"Our plans did not include a global pandemic, I can tell you.",global,pandemic,.45379421
+DE2022.txt,Delaware,Carney_John,66,0,"With these investments, we’ll strengthen our economy, expand opportunity, and support families as we finally emerge from this pandemic.",support,family,.56961775
+DE2022.txt,Delaware,Carney_John,66,0,"God Bless you, and God Bless our great State.",god,bless,.65857083
+DE2022.txt,Delaware,Carney_John,66,0,"On January 23, 2020, I stood in this same spot to deliver the State of the State address.",same,spot,.28962597
+DE2022.txt,Delaware,Carney_John,66,0,We will use one-time revenue to continue the largest infrastructure program in Delaware history.,large,program,.55607975
+DE2022.txt,Delaware,Carney_John,66,0,"I want to thank General Berry, our Guardsmen and women, and all our healthcare workers, for your incredible efforts.",thank,berry,.53009087
+DE2022.txt,Delaware,Carney_John,66,0,"We can’t make investments in public education – or infrastructure, or public safety - without a long-term, sustainable financial plan.",long,term,.67602867
+DE2022.txt,Delaware,Carney_John,66,0,"And in August, Wilmington Country Club will host the PGA and thousands of fans for the BMW Championship.",club,host,.45391467

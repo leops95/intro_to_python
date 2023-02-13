@@ -1,0 +1,254 @@
+filename,st_name,speaker,age,gender,text,arg0,arg1,metaphor_score
+CT2022.txt,Connecticut,Lamont_Ned,68,0,He’s now a user support specialist for a large tech company.,large,company,.46925592
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Hurricane Isaias knocked out power, and Hurricanes Ida and Henri dropped torrential rain bombs causing historic flooding.",drop,bomb,.35992312
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"These programs give the kids a friend, some hope, and a purpose.",give,friend,.41383174
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I appreciate the authority you have granted me to keep the state safe during the pandemic.,appreciate,authority,.48649552
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Project Longevity in New Haven, Bridgeport, and Hartford has received more funding to help reduce violent crime.",violent,crime,.47344041
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We’re investing in our kids and giving them better opportunities at the starting line of life.,give,opportunity,.53827351
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"This isn’t just about providing people with credentials, this is about changing people’s lives.",change,life,.4676086
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Property taxes relentlessly come due in good times and bad, and they hit the middle-class especially hard.",hit,class,.40115413
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Our electric grid will soon be carbon free, and our transportation system is soon to follow.",electric,grid,.44221917
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Hurricane Isaias knocked out power, and Hurricanes Ida and Henri dropped torrential rain bombs causing historic flooding.",isaias,knock,.65051651
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"To encourage that, we’re expanding a tax credit for small businesses that help repay their employees’ student loans.",small,business,.58363891
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And we’re delivering strong double-digit investment returns that continue to reduce our unfunded pension liability.,deliver,return,.55007029
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"We gave many of our high schools the opportunity to vote on how to spend $20,000 of rescue funding.",high,school,.54437679
+CT2022.txt,Connecticut,Lamont_Ned,68,0,It’s not just summer programs and keeping schools open during non-school hours.,non,hour,.65983647
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Free summer learning camps and clinics, and in-person schools relieved some of the stress for a lot of kids.",relieve,some,.56412166
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"We’re also holding down the costs of healthcare, childcare, and college tuition, making Connecticut more affordable for everyone.",connecticut,affordable,.53249395
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"If you see something, say something, and if you don’t get the response you deserve, give me a call.",give,call,.47136396
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Your vote makes a difference.,make,difference,.61465788
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We are making a big investment in hardening our electric grid against future threats – be it storms or cyber-attacks.,harden,grid,.50972235
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our budget provides for hundreds of electric charging stations as our state transitions to an all-electric fleet.,electric,fleet,.39355737
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I was there because the community chose to rally the next day.,next,day,.4129355
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"This year, my budget cuts taxes for working and middle-class families.",budget,cut,.80737662
+CT2022.txt,Connecticut,Lamont_Ned,68,0,It is very nice to see so many of you back in the flesh!,see,many,.48942927
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"That is the future for our families, not to mention reinventing our local communities.",reinvent,community,.55227548
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"That’s the Connecticut difference, and we’re going to keep making it every day.",make,it,.4804064
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"That’s another reason we are investing hundreds of millions of dollars in education, workforce development, and mental health.",invest,million,.58395231
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"After years of trying, we passed one of the most ambitious paid family and medical leave programs in the country.",pass,one,.51575774
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Suicide and domestic abuse have brought violence into the home.,bring,violence,.60069841
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Two teams of kids lay belly down on a field, not sure when it was safe to get up.",lie,belly,.46091804
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"If you see something, say something, and if you don’t get the response you deserve, give me a call.",you,get,.46898529
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Hurricane Isaias knocked out power, and Hurricanes Ida and Henri dropped torrential rain bombs causing historic flooding.",torrential,bomb,.34176004
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Free summer learning camps and clinics, and in-person schools relieved some of the stress for a lot of kids.",camp,relieve,.41662705
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"The last two elections, voters turned out in force because they could vote absentee.",last,election,.53238189
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"For the first time in my life, we have tens of thousands of great jobs ready to be filled.",great,job,.4402678
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"If you see something, say something, and if you don’t get the response you deserve, give me a call.",you,see,.44675019
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And the infrastructure money will further upgrade our seaports and airports.,money,upgrade,.55754483
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I know what that new security means to parents and kids.,mean,what,.46055576
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We’re better off for getting our fiscal house in order.,get,house,.49733385
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Three years ago, I said I wouldn’t let the state be defined by a constant fiscal crisis.",constant,crisis,.74423403
+CT2022.txt,Connecticut,Lamont_Ned,68,0,It will revitalize our ports.,revitalize,port,.57809883
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Subsidies help, but we must address the underlying cost of healthcare.",subsidy,help,.71856087
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our Department of Public Health will provide clear guidance.,clear,guidance,.75578558
+CT2022.txt,Connecticut,Lamont_Ned,68,0,That’s the best anti-crime strategy of all.,good,strategy,.58448517
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Omicron was a curve ball, but our hospitals stayed above water and vaccines lessened the severity of the virus.",hospital,stay,.33231017
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"After two years of Covid, too many women have dropped out of the workforce.",woman,drop,.48699197
+CT2022.txt,Connecticut,Lamont_Ned,68,0,That starts this year with express trains that’ll cut your roundtrip commute to New York by about an hour.,that,start,.56223321
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"This year, my budget cuts taxes for working and middle-class families.",middle,class,.57398474
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Retired teachers and nurses coming out of retirement to pitch in and cover for their sick colleagues.,sick,colleague,.28258112
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I always believed that working families deserved a raise.,family,deserve,.46382633
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"A very special shout out to outgoing COO, Josh Geballe, who helped lead our effort from dawn to dusk.",who,lead,.447106
+CT2022.txt,Connecticut,Lamont_Ned,68,0,May God bless each and every one of you and the great State of Connecticut.,god,bless,.65857083
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Property taxes relentlessly come due in good times and bad, and they hit the middle-class especially hard.",good,time,.52731103
+CT2022.txt,Connecticut,Lamont_Ned,68,0,They used to say the best social program is a job.,good,program,.51226443
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We’ve made sure they have the budget to do it.,do,it,.46025267
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"From a public health perspective, you have earned this freedom and you can do that safely.",you,do,.43781659
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We’ve made sure they have the budget to do it.,budget,do,.38957483
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Many of our schools have also added counselors, since so many of these kids need a shoulder to lean on.",many,add,.47216055
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"That’s another reason we are investing hundreds of millions of dollars in education, workforce development, and mental health.",mental,health,.36832857
+CT2022.txt,Connecticut,Lamont_Ned,68,0,They used to say the best social program is a job.,social,program,.37491769
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"In Waterbury, the Police Athletic League is letting more police and kids to get to know one another.",league,let,.44990948
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Speaking of teachers, how about one big shout out for the greatest educators in the nation!",big,shout,.49348015
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Many of our schools have also added counselors, since so many of these kids need a shoulder to lean on.",many,need,.4516826
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our ten largest cities and towns alone are training and hiring nearly 400 new cops in the next two years.,large,city,.47847533
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our budget doubles down on community solutions.,budget,double,.766249
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Hurricane Isaias knocked out power, and Hurricanes Ida and Henri dropped torrential rain bombs causing historic flooding.",historic,flooding,.67008919
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Three years ago, I said I wouldn’t let the state be defined by a constant fiscal crisis.",fiscal,crisis,.40301007
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Our working families and middle-class households deserve a break, especially from Connecticut’s most regressive tax.",family,deserve,.46382633
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And we’re delivering strong double-digit investment returns that continue to reduce our unfunded pension liability.,reduce,liability,.68130952
+CT2022.txt,Connecticut,Lamont_Ned,68,0,The infrastructure funding will also extend broadband to those rural and urban areas cut off by the digital divide.,extend,broadband,.50629985
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Many of our schools have also added counselors, since so many of these kids need a shoulder to lean on.",add,counselor,.40288141
+CT2022.txt,Connecticut,Lamont_Ned,68,0,As important as responding to crime is preventing violence before it happens.,it,happen,.49290469
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And we’re delivering strong double-digit investment returns that continue to reduce our unfunded pension liability.,that,continue,.61567181
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"I like people knowing they have a stake in the election, that their vote makes a difference.",make,difference,.61465788
+CT2022.txt,Connecticut,Lamont_Ned,68,0,It’s not just summer programs and keeping schools open during non-school hours.,school,hour,.57049853
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"He deserves a break, but believe me, he isn’t going far.",he,go,.50645453
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Our working families and middle-class households deserve a break, especially from Connecticut’s most regressive tax.",deserve,break,.51678979
+CT2022.txt,Connecticut,Lamont_Ned,68,0,It’s not just summer programs and keeping schools open during non-school hours.,keep,school,.51217031
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Project Longevity in New Haven, Bridgeport, and Hartford has received more funding to help reduce violent crime.",reduce,crime,.66513777
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Maybe that’s why in 2021 alone, business registrations increased four-fold – totaling 47,584 new businesses launched in Connecticut!",registration,increase,.49965224
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Connecticut kept quality childcare centers open and affordable.,connecticut,keep,.49743378
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our ten largest cities and towns alone are training and hiring nearly 400 new cops in the next two years.,city,train,.6153791
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Make it easier for voters to vote.,it,easy,.4313767
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Hurricane Isaias knocked out power, and Hurricanes Ida and Henri dropped torrential rain bombs causing historic flooding.",knock,power,.66911501
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our budget provides for hundreds of electric charging stations as our state transitions to an all-electric fleet.,budget,provide,.38334092
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"To encourage that, we’re expanding a tax credit for small businesses that help repay their employees’ student loans.",repay,loan,.34762144
+CT2022.txt,Connecticut,Lamont_Ned,68,0,A stitch in time saves nine!,save,nine,.43172792
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We’re also going to eliminate the income tax on pension and 401K income for most households.,eliminate,tax,.77861708
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And I want more cops on the beat.,more,cop,.43007517
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I hope employers in the private sector follow our lead in providing hazard pay bonuses to our amazing frontline workers.,follow,lead,.47219229
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I hope employers in the private sector follow our lead in providing hazard pay bonuses to our amazing frontline workers.,provide,bonus,.47312057
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"After years of trying, we passed one of the most ambitious paid family and medical leave programs in the country.",ambitious,program,.58334804
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"A man who was homeless was provided housing, transportation, a laptop, and training.",provide,housing,.35857394
+CT2022.txt,Connecticut,Lamont_Ned,68,0,After two years of Covid I believe we all have a better appreciation of how essential our essential workers are.,essential,worker,.394851
+CT2022.txt,Connecticut,Lamont_Ned,68,0,So how does that affect you?,affect,you,.41205713
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"If you see something, say something, and if you don’t get the response you deserve, give me a call.",get,response,.47257334
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Connecticut stepped up – meeting its moment in history when it mattered the most.,it,matter,.48766705
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Over the last three years, we were faced with unprecedented challenges.",last,year,.50250727
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"After years of trying, we passed one of the most ambitious paid family and medical leave programs in the country.",medical,leave,.64380252
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Health insurance should not be a deterrent for those young entrepreneurs with a dollar and a dream.,young,entrepreneur,.40264261
+CT2022.txt,Connecticut,Lamont_Ned,68,0,That starts this year with express trains that’ll cut your roundtrip commute to New York by about an hour.,cut,commute,.76888359
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"From a public health perspective, you have earned this freedom and you can do that safely.",you,earn,.55734211
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We have more damn guns on the streets than ever before.,damn,gun,.52083653
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Beth Bye, take a bow!",take,bow,.55532753
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Hurricane Isaias knocked out power, and Hurricanes Ida and Henri dropped torrential rain bombs causing historic flooding.",ida,drop,.58692157
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Public safety is just as important as public health.,public,health,.32549226
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I hope employers in the private sector follow our lead in providing hazard pay bonuses to our amazing frontline workers.,employer,follow,.39669216
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"The last two elections, voters turned out in force because they could vote absentee.",vote,absentee,.29811493
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"To encourage that, we’re expanding a tax credit for small businesses that help repay their employees’ student loans.",expand,credit,.58902311
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"For the first time in my life, we have tens of thousands of great jobs ready to be filled.",first,time,.55312014
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Project Longevity in New Haven, Bridgeport, and Hartford has received more funding to help reduce violent crime.",longevity,receive,.54343039
+CT2022.txt,Connecticut,Lamont_Ned,68,0,The infrastructure funding will also extend broadband to those rural and urban areas cut off by the digital divide.,digital,divide,.41529468
+CT2022.txt,Connecticut,Lamont_Ned,68,0,The infrastructure funding will also extend broadband to those rural and urban areas cut off by the digital divide.,funding,extend,.55941886
+CT2022.txt,Connecticut,Lamont_Ned,68,0,It will revitalize our ports.,it,revitalize,.60135239
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Community policing that is of, by, and for the communities they serve.",they,serve,.59915322
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"I like people knowing they have a stake in the election, that their vote makes a difference.",vote,make,.62787116
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Union Station in New Haven will be our central transportation hub.,central,hub,.40609735
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"A very special shout out to outgoing COO, Josh Geballe, who helped lead our effort from dawn to dusk.",special,shout,.4737215
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"We know how to live safely in a post pandemic, but never completely Covid-free, world.",free,world,.59231102
+CT2022.txt,Connecticut,Lamont_Ned,68,0,May God bless each and every one of you and the great State of Connecticut.,bless,each,.43655095
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"While Connecticut remains one of the safest states in the country, certain crimes are up.",certain,crime,.38752964
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"He deserves a break, but believe me, he isn’t going far.",deserve,break,.51678979
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We are making a big investment in hardening our electric grid against future threats – be it storms or cyber-attacks.,big,investment,.7111271
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"These programs give the kids a friend, some hope, and a purpose.",program,give,.52601063
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"To encourage that, we’re expanding a tax credit for small businesses that help repay their employees’ student loans.",encourage,that,.55746126
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We hold ourselves to the highest standards.,hold,ourselves,.57446229
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"That is the future for our families, not to mention reinventing our local communities.",local,community,.44893995
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"I will hold anyone accountable who breaches that trust, starting in my administration.",breach,trust,.37702414
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Subsidies help, but we must address the underlying cost of healthcare.",address,cost,.54583836
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And we’re delivering strong double-digit investment returns that continue to reduce our unfunded pension liability.,strong,return,.69275475
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Our working families and middle-class households deserve a break, especially from Connecticut’s most regressive tax.",middle,class,.57398474
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"For years, we’ve fretted about our outstanding pension obligations.",outstanding,obligation,.59865409
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Suicide and domestic abuse have brought violence into the home.,domestic,abuse,.29368803
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Your vote makes a difference.,vote,make,.62787116
+CT2022.txt,Connecticut,Lamont_Ned,68,0,That’s the best anti-crime strategy of all.,crime,strategy,.46113685
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"For decades, governor after governor has increased taxes and fees; in the land of steady habits, it seemed inevitable.",governor,increase,.47814128
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"After two years of Covid, too many women have dropped out of the workforce.",many,woman,.46261907
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our budget provides for hundreds of electric charging stations as our state transitions to an all-electric fleet.,electric,station,.40488145
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Maybe that’s why in 2021 alone, business registrations increased four-fold – totaling 47,584 new businesses launched in Connecticut!",total,business,.51027125
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We are the most family-friendly state in the country.,friendly,state,.59670657
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"While Connecticut remains one of the safest states in the country, certain crimes are up.",safe,state,.50890261
+CT2022.txt,Connecticut,Lamont_Ned,68,0,The infrastructure funding will also extend broadband to those rural and urban areas cut off by the digital divide.,rural,area,.40967208
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"The last two elections, voters turned out in force because they could vote absentee.",they,vote,.50065219
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Thanks, in part, to our bipartisan efforts, we have begun to change the narrative from “fiscal crisis” to “fiscal turnaround.",bipartisan,effort,.59061599
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We’re better off for getting our fiscal house in order.,fiscal,house,.67880446
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Project Longevity in New Haven, Bridgeport, and Hartford has received more funding to help reduce violent crime.",more,funding,.65566975
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Thank you to Director James Michel and Chairman Charlie Klippel.,thank,you,.44988889
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"The last two elections, voters turned out in force because they could vote absentee.",voter,turn,.62706375
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Property taxes relentlessly come due in good times and bad, and they hit the middle-class especially hard.",they,hit,.43160763
+CT2022.txt,Connecticut,Lamont_Ned,68,0,These are just two examples of opportunities that completely change the course of someone’s life.,that,change,.48603031
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"In Waterbury, the Police Athletic League is letting more police and kids to get to know one another.",more,police,.42921856
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Make it easier for voters to vote.,voter,vote,.18401594
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"In Waterbury, the Police Athletic League is letting more police and kids to get to know one another.",know,one,.45674711
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our ten largest cities and towns alone are training and hiring nearly 400 new cops in the next two years.,next,year,.47916237
+CT2022.txt,Connecticut,Lamont_Ned,68,0,A stitch in time saves nine!,stitch,save,.3853454
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"For decades, governor after governor has increased taxes and fees; in the land of steady habits, it seemed inevitable.",it,seem,.5169462
+CT2022.txt,Connecticut,Lamont_Ned,68,0,After two years of Covid I believe we all have a better appreciation of how essential our essential workers are.,well,appreciation,.78068727
+CT2022.txt,Connecticut,Lamont_Ned,68,0,This year I’m proposing meaningful property tax reform worth nearly $300 million dollars.,meaningful,reform,.4678604
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"For decades, governor after governor has increased taxes and fees; in the land of steady habits, it seemed inevitable.",steady,habit,.51039314
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Our working families and middle-class households deserve a break, especially from Connecticut’s most regressive tax.",regressive,tax,.7142601
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"A very special shout out to outgoing COO, Josh Geballe, who helped lead our effort from dawn to dusk.",lead,effort,.66149843
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"While Connecticut remains one of the safest states in the country, certain crimes are up.",connecticut,remain,.47826847
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Get these illegal guns out of our communities – let our kids be kids!,illegal,gun,.4724116
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Connecticut stepped up – meeting its moment in history when it mattered the most.,connecticut,step,.49690449
+CT2022.txt,Connecticut,Lamont_Ned,68,0,This year I’m proposing meaningful property tax reform worth nearly $300 million dollars.,propose,reform,.4115015
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Speaking of teachers, how about one big shout out for the greatest educators in the nation!",great,educator,.32331109
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Connecticut kept quality childcare centers open and affordable.,keep,center,.42556906
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"This isn’t just about providing people with credentials, this is about changing people’s lives.",provide,people,.32385534
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Thanks for all you do.,you,do,.43781659
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"To encourage that, we’re expanding a tax credit for small businesses that help repay their employees’ student loans.",that,help,.59718406
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I hope employers in the private sector follow our lead in providing hazard pay bonuses to our amazing frontline workers.,private,sector,.42274335
+CT2022.txt,Connecticut,Lamont_Ned,68,0,These are high school kids.,high,school,.54437679
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Omicron was a curve ball, but our hospitals stayed above water and vaccines lessened the severity of the virus.",lessen,severity,.56791383
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Unlike Washington, we did it together.",do,it,.46025267
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Hurricane Isaias knocked out power, and Hurricanes Ida and Henri dropped torrential rain bombs causing historic flooding.",cause,flooding,.50189143
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Project Longevity in New Haven, Bridgeport, and Hartford has received more funding to help reduce violent crime.",receive,funding,.50048906
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Free summer learning camps and clinics, and in-person schools relieved some of the stress for a lot of kids.",free,summer,.50637192
+CT2022.txt,Connecticut,Lamont_Ned,68,0,These are just two examples of opportunities that completely change the course of someone’s life.,change,course,.43444875
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"If you see something, say something, and if you don’t get the response you deserve, give me a call.",you,deserve,.44000217
+CT2022.txt,Connecticut,Lamont_Ned,68,0,As important as responding to crime is preventing violence before it happens.,prevent,violence,.64924556
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"The types of challenges where people turned to their government for leadership, for answers, for guidance.",people,turn,.48948732
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We have more damn guns on the streets than ever before.,more,gun,.3436605
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Very recently, we have been hit by some of the most severe storms in our history.",severe,storm,.43361136
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I appreciate the authority you have granted me to keep the state safe during the pandemic.,you,grant,.550336
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Now two years later, we have the tools and the experience to keep ourselves safe.",keep,ourselves,.61531961
+CT2022.txt,Connecticut,Lamont_Ned,68,0,That’s the best anti-crime strategy of all.,anti,strategy,.7092734
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Don’t forget the recently announced major distribution facility with over 1000 good-paying jobs on the Waterbury/Naugatuck line.,forget,facility,.60257274
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"We gave many of our high schools the opportunity to vote on how to spend $20,000 of rescue funding.",give,opportunity,.53827351
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"From a public health perspective, you have earned this freedom and you can do that safely.",do,that,.47875604
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I hope employers in the private sector follow our lead in providing hazard pay bonuses to our amazing frontline workers.,amazing,worker,.34778413
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"In Waterbury, the Police Athletic League is letting more police and kids to get to know one another.",let,police,.31262863
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Thanks, in part, to our bipartisan efforts, we have begun to change the narrative from “fiscal crisis” to “fiscal turnaround.",change,narrative,.46336952
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"For decades, governor after governor has increased taxes and fees; in the land of steady habits, it seemed inevitable.",governor,increase,.47814128
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"If you see something, say something, and if you don’t get the response you deserve, give me a call.",say,something,.50677246
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"We’re also holding down the costs of healthcare, childcare, and college tuition, making Connecticut more affordable for everyone.",hold,cost,.46558735
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"For three years, we’ve held the line against broad-based tax increases.",hold,line,.54839879
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Thanks, in part, to our bipartisan efforts, we have begun to change the narrative from “fiscal crisis” to “fiscal turnaround.",fiscal,crisis,.40301007
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We’re also going to eliminate the income tax on pension and 401K income for most households.,most,household,.41266021
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Public safety is just as important as public health.,public,safety,.42228162
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Get these illegal guns out of our communities – let our kids be kids!,get,gun,.40769616
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"We got hit hard and hit early, but in each successive wave we did better and better.",successive,wave,.6080426
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Many of our schools have also added counselors, since so many of these kids need a shoulder to lean on.",need,shoulder,.42048874
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our ten largest cities and towns alone are training and hiring nearly 400 new cops in the next two years.,new,cop,.42670512
+CT2022.txt,Connecticut,Lamont_Ned,68,0,So how does that affect you?,that,affect,.52338928
+CT2022.txt,Connecticut,Lamont_Ned,68,0,They used to say the best social program is a job.,they,use,.43573514
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Free summer learning camps and clinics, and in-person schools relieved some of the stress for a lot of kids.",school,relieve,.62726367
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"I like people knowing they have a stake in the election, that their vote makes a difference.",people,know,.42165375
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"That’s going to reduce car tax bills in more than 100 towns, often by hundreds of dollars per car!",reduce,bill,.59087336
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And I want more cops on the beat.,want,cop,.3025192
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We are making a big investment in hardening our electric grid against future threats – be it storms or cyber-attacks.,future,threat,.48066118
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Maybe that’s why in 2021 alone, business registrations increased four-fold – totaling 47,584 new businesses launched in Connecticut!",new,business,.49988803
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"I will hold anyone accountable who breaches that trust, starting in my administration.",who,breach,.34634194
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We are making a big investment in hardening our electric grid against future threats – be it storms or cyber-attacks.,electric,grid,.44221917
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Connecticut stepped up – meeting its moment in history when it mattered the most.,meet,moment,.67851847
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"That’s going to reduce car tax bills in more than 100 towns, often by hundreds of dollars per car!",that,go,.5509569
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Two teams of kids lay belly down on a field, not sure when it was safe to get up.",team,lie,.279172
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Property taxes relentlessly come due in good times and bad, and they hit the middle-class especially hard.",middle,class,.57398474
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our Department of Public Health will provide clear guidance.,department,provide,.3237381
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"From a public health perspective, you have earned this freedom and you can do that safely.",public,perspective,.45935234
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"I will hold anyone accountable who breaches that trust, starting in my administration.",anyone,accountable,.34217781
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Don’t forget the recently announced major distribution facility with over 1000 good-paying jobs on the Waterbury/Naugatuck line.,major,facility,.38868457
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Three years ago today, I stood before you as a new governor.",new,governor,.4399603
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I was there because the community chose to rally the next day.,community,choose,.45734602
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And the infrastructure money will further upgrade our seaports and airports.,upgrade,seaport,.41386774
+CT2022.txt,Connecticut,Lamont_Ned,68,0,That starts this year with express trains that’ll cut your roundtrip commute to New York by about an hour.,that,cut,.62016863
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And we’re delivering strong double-digit investment returns that continue to reduce our unfunded pension liability.,double,digit,.2893129
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I know what that new security means to parents and kids.,security,mean,.50881505
+CT2022.txt,Connecticut,Lamont_Ned,68,0,That’s what we mean by environmental justice.,environmental,justice,.65541005
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I have zero tolerance for any ethical malfeasance.,ethical,malfeasance,.35662428
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Property taxes relentlessly come due in good times and bad, and they hit the middle-class especially hard.",bad,time,.4512212
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I know what that new security means to parents and kids.,new,security,.45101318
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"If you see something, say something, and if you don’t get the response you deserve, give me a call.",see,something,.48038197
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our budgets were the first in history to pay down billions of dollars against pension debt.,pay,billion,.55407691
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"From a public health perspective, you have earned this freedom and you can do that safely.",earn,freedom,.59579819
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We are the most family-friendly state in the country.,most,state,.54501194
+CT2022.txt,Connecticut,Lamont_Ned,68,0,That starts this year with express trains that’ll cut your roundtrip commute to New York by about an hour.,express,train,.27735656
+CT2022.txt,Connecticut,Lamont_Ned,68,0,And we’re delivering strong double-digit investment returns that continue to reduce our unfunded pension liability.,unfunded,liability,.3022055
+CT2022.txt,Connecticut,Lamont_Ned,68,0,That’s what we mean by environmental justice.,mean,what,.46055576
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I appreciate the authority you have granted me to keep the state safe during the pandemic.,keep,state,.57167423
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We hold ourselves to the highest standards.,high,standard,.57034886
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"We gave many of our high schools the opportunity to vote on how to spend $20,000 of rescue funding.",give,many,.49933365
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We recently moved up 11 places in CNBC’s ranking of the Top States for Business.,move,place,.56885737
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Clean wind energy is our renewable future.,clean,energy,.71239138
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Clean wind energy is our renewable future.,renewable,future,.62270218
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our Department of Public Health will provide clear guidance.,provide,guidance,.33576423
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We are making a big investment in hardening our electric grid against future threats – be it storms or cyber-attacks.,make,investment,.61067212
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Over the last three years, we were faced with unprecedented challenges.",unprecedented,challenge,.64484143
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"Thanks, in part, to our bipartisan efforts, we have begun to change the narrative from “fiscal crisis” to “fiscal turnaround.",fiscal,turnaround,.3621614
+CT2022.txt,Connecticut,Lamont_Ned,68,0,This year I’m proposing meaningful property tax reform worth nearly $300 million dollars.,worth,reform,.57480097
+CT2022.txt,Connecticut,Lamont_Ned,68,0,I always believed that working families deserved a raise.,deserve,raise,.51588821
+CT2022.txt,Connecticut,Lamont_Ned,68,0,"He deserves a break, but believe me, he isn’t going far.",he,deserve,.43385482
+CT2022.txt,Connecticut,Lamont_Ned,68,0,We’re investing in our kids and giving them better opportunities at the starting line of life.,well,opportunity,.65102667
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Suicide and domestic abuse have brought violence into the home.,suicide,bring,.52866364
+CT2022.txt,Connecticut,Lamont_Ned,68,0,Our ten largest cities and towns alone are training and hiring nearly 400 new cops in the next two years.,hire,cop,.40340388

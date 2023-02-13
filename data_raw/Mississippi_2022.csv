@@ -1,0 +1,521 @@
+filename,st_name,speaker,age,gender,text,arg0,arg1,metaphor_score
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Two years ago, as I took office, we were facing prison riots that resulted in serious violence.",face,riot,.58116323
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi continues to be in the best fiscal shape and the best financial shape in its history.,good,shape,.51223105
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Those innocent Mississippi children whose lives are precious.,innocent,child,.24426727
+MS2022.txt,Mississippi,Reeves_Tate,48,0,And it can lead to more wealth for all Mississippians.,more,wealth,.68164015
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But Mississippi’s schools have made a major turnaround – in fact, a turnaround of historic proportions.",historic,proportion,.46077445
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"That can not only fill the days, it can set an offender up for a peaceful life on the outside.",peaceful,life,.65032893
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The frontline officers who feel abandoned cannot be left to their own devices.,who,feel,.38309124
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Capturing violent criminals does nothing if our justice system puts them right back on the streets.,capture,criminal,.62593746
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We recognize that no classroom can replace a parent’s care.,classroom,replace,.37252024
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It doesn’t really matter what you call it.,it,matter,.48766705
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The legislature can bolster that effort by passing legislation to this effect.,pass,legislation,.36552677
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I pray every one of them can be regarded with the same basic respect.,basic,respect,.51310766
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They teach this for a purpose.,they,teach,.54620135
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We all have an interest in stopping this deadly cycle.,stop,cycle,.54729533
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They teach students that by virtue of the color of your skin you are inherently a victim or oppressor.,they,teach,.54620135
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Doing things the right way to build a skilled labor pool takes time.,take,time,.49328902
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We should be doing everything in our power to make Mississippi the most family-oriented state in the country.,mississippi,state,.47392792
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you are an oppressor by birth, only your silent cooperation with their radical worldview can sanctify you.",silent,cooperation,.25237393
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The violence scars families for generations.,scar,family,.61728996
+MS2022.txt,Mississippi,Reeves_Tate,48,0,And we mourn their loss every day.,mourn,loss,.65922219
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Another area where our collaboration is going to be key, is improving Mississippi’s corrections system.",collaboration,go,.50586754
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We are turning the tide and we are taking control.,turn,tide,.49226168
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can attract more wealth that can transform our economic potential.,attract,wealth,.67060065
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Another area where our collaboration is going to be key, is improving Mississippi’s corrections system.",area,improve,.4956671
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The rigorous reading standards that we put in place have transformed lives and the data prove it.,put,that,.56714261
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"That can not only fill the days, it can set an offender up for a peaceful life on the outside.",that,fill,.62184137
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They saw 158 murders in 2021.,see,murder,.37291574
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Additionally, Accelerate has awarded almost $12 million in grants to get more people into good careers.",more,people,.41102111
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"It is vitally important, and I will be asking all of our legislative allies to commit to that work together.",legislative,ally,.53524888
+MS2022.txt,Mississippi,Reeves_Tate,48,0,When is the last time you heard that?,you,hear,.42301351
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Why should we allocate funds towards educational opportunities for those who are incarcerated?,educational,opportunity,.4077633
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We kept our businesses open and helped ensure Mississippians could continue putting food on their table.,keep,business,.56065869
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We will teach all of our history — good and bad.,teach,all,.60613686
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"As a taxpayer, a $2,000 investment can save you over $18,000 a year.",investment,save,.64017242
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"It’s what I do for fun – and yes, I realize how uncool that makes me.",do,what,.49853066
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can throw out the welcome mat for the dreamers and the visionaries.,welcome,mat,.63623971
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can throw out the welcome mat for the dreamers and the visionaries.,throw,mat,.26282564
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We also know we cannot lock ourselves away behind screens and live in fear.,lock,ourselves,.56367248
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"They trash our way of life, they trash our institutions, and they frequently deride our education.",deride,education,.57110059
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you are an oppressor by birth, only your silent cooperation with their radical worldview can sanctify you.",sanctify,you,.65446204
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"If we can eliminate the income tax, we will achieve an historic victory for this state.",historic,victory,.39279035
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We have the ability to do it, and we must.",do,it,.46025267
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In the coming months, we will be promoting plans to further protect mothers in our state.",coming,month,.33002329
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Today, in state prisons, we are working hard to offer training and meaningful work.",offer,training,.27127728
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Now, they say imitation is the sincerest form of flattery.",sincere,form,.69601715
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you look at the data, it looks like a miracle.",it,look,.47562519
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"To date, we have awarded over $11.5 million in RESTORE Act funds towards high-value workforce development programs.",award,million,.499872
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi ended the year a billion dollars over revenue estimates.,end,year,.56190664
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To the members of the legislature and other elected officials – thank you.,thank,you,.44988889
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Companies realize this and so should we.,company,realize,.59846252
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"For example, the Automotive Service Excellence Certification, where inmates can learn to work on car motors and small engines.",small,engine,.33327189
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi ended the year a billion dollars over revenue estimates.,mississippi,end,.50373781
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I want to tell all of you—anyone who needs to hear it—that you are loved.,tell,all,.53354096
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We can break that cycle, for hundreds of inmates, and that will lead us to a safer state.",break,cycle,.70953435
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To continue investing in workforce and skills training Mississippians need to thrive in today’s economy.,skill,training,.33869097
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It is designed to allow a small group of idealogues to pose as saviors—false heroes.,small,group,.42625052
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Reasonable citizens must take back control from those who only wish harm to their neighbors.,take,control,.51988512
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To support local law enforcement and to bring peace back to Jackson.,local,enforcement,.38460013
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you have a lack of hope, you don’t just serve your time.",you,serve,.60584122
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"And at times in our past, they might have been at least a little bit right about our educational system.",least,bit,.43533486
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Honesty about our past, and bold and optimistic determination about our future.",bold,determination,.6099124
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In fact, just ask my teenage daughters if you have any doubt about how uncool I am.",teenage,daughter,.34996733
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that we took control and took proper care of those who were serving time.,take,care,.37283799
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that we took control and took proper care of those who were serving time.,who,serve,.50950092
+MS2022.txt,Mississippi,Reeves_Tate,48,0,What does that mean for you?,mean,what,.46055576
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi continues to be in the best fiscal shape and the best financial shape in its history.,good,shape,.51223105
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi schools and teachers answer to parents.,school,answer,.34452614
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippians are leading the charge to defend those children.,lead,charge,.58148068
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Let’s put these numbers in perspective.,put,number,.51029348
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Expect more and you will get more.,get,more,.51189458
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you are a victim by birth, only their generosity can save you.",generosity,save,.6766125
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Two years ago, as I took office, we were facing prison riots that resulted in serious violence.",take,office,.3904638
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It is designed to allow a small group of idealogues to pose as saviors—false heroes.,false,hero,.54649282
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We are not a nation created by a tribe, but a melting pot of people committed to common purpose.",common,purpose,.41849771
+MS2022.txt,Mississippi,Reeves_Tate,48,0,That’s why I want to work with the legislature to get you the support you need.,you,need,.42427856
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It’s what’s called critical race theory.,critical,theory,.6328904
+MS2022.txt,Mississippi,Reeves_Tate,48,0,But we chose to not let that happen.,that,happen,.43977186
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The average cost to house an inmate in 2020 was over $50 a day.,average,cost,.53023899
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In the city of Atlanta, there was a historic crime wave.",historic,wave,.77088225
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The rigorous reading standards that we put in place have transformed lives and the data prove it.,prove,it,.4887993
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We also know that for Mississippi to grow, we must attract more economic activity.",mississippi,grow,.53046221
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi has weathered great storms in the last two years.,great,storm,.5582009
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I am eager to work with the legislature to develop resources for targeted prosecution and conviction of violent felons here.,violent,felon,.40265271
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that we took control and took proper care of those who were serving time.,proper,care,.41101879
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can do amazing things together if we focus on doing what’s right.,do,thing,.43177223
+MS2022.txt,Mississippi,Reeves_Tate,48,0,And we should be doing everything in our power to promote a culture of life.,promote,culture,.54512537
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"They trash our way of life, they trash our institutions, and they frequently deride our education.",they,deride,.50392699
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Thank you for your commitment to bettering our state.,better,state,.50559747
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In fact, just ask my teenage daughters if you have any doubt about how uncool I am.",ask,daughter,.43211651
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Months, and in some cases years, for people to acquire the skills they need to obtain these high-paying jobs.",obtain,job,.48644561
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Those who need our protection more than any other.,who,need,.35375535
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Doing things the right way to build a skilled labor pool takes time.,skilled,pool,.66919827
+MS2022.txt,Mississippi,Reeves_Tate,48,0,And God bless the state of Mississippi.,god,bless,.65857083
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The short answer is an emphatic yes.,short,answer,.44800961
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"These programs work, and we need more of them.",program,work,.45920959
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We also know that for Mississippi to grow, we must attract more economic activity.",more,activity,.50980669
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"The results are clear: In November, Mississippi’s weekly unemployment claims reached their lowest point since 2018.",low,point,.51435918
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I want to tell all of you—anyone who needs to hear it—that you are loved.,tell,anyone,.41593048
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"They did not walk out, they stepped up.",they,walk,.42402223
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Reasonable citizens must take back control from those who only wish harm to their neighbors.,wish,harm,.45254293
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Unlike other states throughout the pandemic, most of Mississippi’s teachers stepped up.",teacher,step,.3928535
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The number of students who completed career and technical courses has shot up by 36 percent since 2015.,complete,course,.47380471
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Careers like commercial trucking, advanced manufacturing, welding, utility line working, and fiber.",advanced,manufacturing,.4815709
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They teach this for a purpose.,teach,this,.60565829
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"The results are clear: In November, Mississippi’s weekly unemployment claims reached their lowest point since 2018.",weekly,claim,.43874776
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When teachers in other states said, “no we won’t,” Mississippi’s teachers said, “yes we will.",other,state,.53918028
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi continues to be in the best fiscal shape and the best financial shape in its history.,mississippi,continue,.519844
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"They trash our way of life, they trash our institutions, and they frequently deride our education.",trash,way,.52658051
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"To all our law enforcement officers, Mississippi will always back the blue.",back,blue,.51035047
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Not to catch more people speeding or loitering.,more,people,.41102111
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"That’s, by the way, better than the national average.",national,average,.38135302
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that they don’t just receive the basics— that they get the best possible care during their pregnancy.,they,get,.48274079
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Credit goes to where credit is due and in COVID-19, Mississippi teachers deserve the credit.",credit,go,.54320705
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In 2021, it increased to over 150 murders.",it,increase,.48310462
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"It’s what I do for fun – and yes, I realize how uncool that makes me.",that,make,.55786943
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that they don’t just receive the basics— that they get the best possible care during their pregnancy.,possible,care,.37497255
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"And instead of returning to society, having taken your discipline, the cycle of violence continues.",take,discipline,.46287674
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In other states, students remained out of the classroom and locked away from their teachers and their peers.",student,remain,.53031558
+MS2022.txt,Mississippi,Reeves_Tate,48,0,And we should be doing everything in our power to promote a culture of life.,do,everything,.48860294
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In 2020, our capital city set a record of 130 murders.",city,set,.53578126
+MS2022.txt,Mississippi,Reeves_Tate,48,0,There is no doubt that Mississippi teachers fit that mold.,teacher,fit,.26191038
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I would like for everyone to take just a moment and give our teachers the applause they deserve.,everyone,take,.42741627
+MS2022.txt,Mississippi,Reeves_Tate,48,0,This does not just happen one project at a time.,this,happen,.44479406
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We can become a place that money flows more freely, and all Mississippians will benefit.",money,flow,.65848947
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We have done the hard work to secure our fiscal situation.,fiscal,situation,.38413453
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"To address the issues in the system, we needed a cultural reset.",cultural,reset,.63352036
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Those who pushed long-term school closures would have taken that opportunity away from our children.,long,term,.67602867
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I have been proud to push for laws that restrict abortion and protect innocent life.,innocent,life,.58328927
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Please do not let this moment pass without achieving something big.,achieve,something,.54723883
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Please do not let this moment pass without achieving something big.,moment,pass,.56473535
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Mississippi students are learning more, achieving more, and they are more prepared for a prosperous life.",prosperous,life,.76728487
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It is the most basic promise a state government makes to its people.,government,make,.57684106
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I attribute these educational gains to three important factors.,important,factor,.45255429
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"To preserve the safety of our citizens, we needed to stem the rising tide of violence.",stem,tide,.38798621
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In the month of June alone, Mississippi’s businesses hired more than 72,000 workers.",hire,worker,.34612262
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We must also dedicate ourselves to more hard work.,hard,work,.60448164
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The frontline officers who feel abandoned cannot be left to their own devices.,own,device,.46548685
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They saw 158 murders in 2021.,they,see,.41878241
+MS2022.txt,Mississippi,Reeves_Tate,48,0,These officers will never again make it home to their families.,it,home,.43062365
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The rigorous reading standards that we put in place have transformed lives and the data prove it.,rigorous,standard,.53781801
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It doesn’t really matter what you call it.,call,it,.47996324
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can grow this great state to achieve what we all know we are capable of.,grow,state,.70973432
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I am eager to work with the legislature to develop resources for targeted prosecution and conviction of violent felons here.,develop,resource,.50848389
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Over the last two years, some of our law enforcement officers made the ultimate sacrifice in their service to us.",ultimate,sacrifice,.61671817
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We will not teach that your race determines your status as a victim or oppressor.,determine,status,.56910318
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I attribute these educational gains to three important factors.,educational,gain,.56190532
+MS2022.txt,Mississippi,Reeves_Tate,48,0,What does that mean for you?,that,mean,.45433381
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"King once said, “The beautiful thing about learning is that no one can take it away from you.",king,say,.56534868
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It all starts and ends with parents.,it,start,.5006904
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It doesn’t really matter what you call it.,you,call,.46738777
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Together, we will make sure that if they work hard, they will learn what they need to know.",they,need,.4557862
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"I’m confident that in this session, working together, we will get a significant teacher pay raise done.",raise,do,.49308378
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To support local law enforcement and to bring peace back to Jackson.,bring,peace,.66517502
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"They trash our way of life, they trash our institutions, and they frequently deride our education.",trash,institution,.6343627
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We also know that for Mississippi to grow, we must attract more economic activity.",economic,activity,.52472568
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"It is vitally important, and I will be asking all of our legislative allies to commit to that work together.",ask,all,.49347135
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I attribute these educational gains to three important factors.,attribute,gain,.54563111
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We are committed to offering hope of a better life.,offer,hope,.50508392
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Time in prison often leads to despair.,time,lead,.65105039
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I have been proud to push for laws that restrict abortion and protect innocent life.,restrict,abortion,.35229254
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We tell every young parent: we will be your partner in educating your child.,educate,child,.41687697
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We can become a place that money flows more freely, and all Mississippians will benefit.",mississippians,benefit,.49234861
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To continue investing in workforce and skills training Mississippians need to thrive in today’s economy.,mississippians,need,.52184993
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"The question you may ask is, well is it worth it?",you,ask,.49025932
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We have many great opportunities before us.,many,opportunity,.53072053
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I’m interested in the integrity of our civic education.,civic,education,.32819518
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"That can not only fill the days, it can set an offender up for a peaceful life on the outside.",it,set,.4645845
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Speaker Gunn and Chairman Lamar, thank you for your hard work and your commitment to this ongoing effort.",ongoing,effort,.52247882
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Good decisions have brought us a great harvest.,great,harvest,.48597249
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The number of students who completed career and technical courses has shot up by 36 percent since 2015.,number,shoot,.38190484
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We will go further than preventing abortion.,prevent,abortion,.50876975
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Speaker Gunn and Chairman Lamar, thank you for your hard work and your commitment to this ongoing effort.",hard,work,.60448164
+MS2022.txt,Mississippi,Reeves_Tate,48,0,You commit to a life of crime.,you,commit,.50188601
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"A city where jobs are plentiful, and opportunity is only limited by how hard you want to work.",limited,city,.56129414
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We must stop this trend in its tracks, and we can do our part in Mississippi.",do,part,.53179139
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The legislature can bolster that effort by passing legislation to this effect.,legislature,bolster,.75001657
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Mississippi students are learning more, achieving more, and they are more prepared for a prosperous life.",student,learn,.21300842
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can do our part to go down a brighter road.,do,part,.53179139
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We are talking about generational change in careers and horizons – and it is happening in every corner of Mississippi.,it,happen,.49290469
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We need to attract the kind of work that creates wealth for all Mississippians.,attract,kind,.56810451
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In this time of fear, there are many who have suffered from despair.",who,suffer,.33897078
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi’s students with disabilities have seen a graduation rate that has doubled over the last eight years.,that,double,.55088139
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Our community is torn apart by senseless acts of mayhem.,senseless,act,.55537236
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that they don’t just receive the basics— that they get the best possible care during their pregnancy.,good,care,.50403529
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We are making incredible progress.,incredible,progress,.54855585
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"With the radical founding of America, we set the world on a course towards greater prosperity and freedom.",great,prosperity,.74617773
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"With the radical founding of America, we set the world on a course towards greater prosperity and freedom.",radical,founding,.72907466
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The number of students who completed career and technical courses has shot up by 36 percent since 2015.,technical,career,.54270738
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you are an oppressor by birth, only your silent cooperation with their radical worldview can sanctify you.",cooperation,sanctify,.71104038
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Since those standards were created, we’ve experienced incredible gains in fourth grade reading.",fourth,grade,.57608944
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Since those standards were created, we’ve experienced incredible gains in fourth grade reading.",experience,gain,.5342018
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"And instead of returning to society, having taken your discipline, the cycle of violence continues.",cycle,continue,.65187317
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Credit goes to where credit is due and in COVID-19, Mississippi teachers deserve the credit.",teacher,deserve,.37741029
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"I know that many of you have already demonstrated an appetite for such boldness, and I want to thank you.",many,demonstrate,.46201167
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They pay well and they offer security.,they,pay,.42892295
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Capturing violent criminals does nothing if our justice system puts them right back on the streets.,put,they,.49818227
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We need to bring focused attention to those orchestrating these efforts.,orchestrate,effort,.63870937
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you are an oppressor by birth, only your silent cooperation with their radical worldview can sanctify you.",radical,worldview,.6740458
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Additionally, Accelerate has awarded almost $12 million in grants to get more people into good careers.",get,people,.37261495
+MS2022.txt,Mississippi,Reeves_Tate,48,0,All public servants answer to the people.,servant,answer,.31085604
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Create a capital city that is vibrant, full of life, and safe.",create,city,.53750712
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In 2020, the general recidivism rate in Mississippi was 37.4 percent.",general,rate,.48565179
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When teachers in other states said, “no we won’t,” Mississippi’s teachers said, “yes we will.",teacher,say,.5454635
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"While other states resorted to Zoom for years on end, Mississippi’s teachers took to the chalkboard.",state,resort,.50037301
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"If we can eliminate the income tax, we will achieve an historic victory for this state.",eliminate,tax,.77861708
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I pray every one of them can be regarded with the same basic respect.,same,respect,.51630896
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We will strive for equality, and our education will support that aspiration.",education,support,.56782556
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can attract more wealth that can transform our economic potential.,that,transform,.56508315
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"That can not only fill the days, it can set an offender up for a peaceful life on the outside.",set,offender,.52851754
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We must also dedicate ourselves to more hard work.,dedicate,ourselves,.6043008
+MS2022.txt,Mississippi,Reeves_Tate,48,0,People there are rushing to reform – electing new city leadership promising to combat the violence.,elect,leadership,.56974769
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We must stop this trend in its tracks, and we can do our part in Mississippi.",stop,trend,.5110063
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The final vital factor in our education gains is our teachers.,vital,factor,.65920097
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"If our state is to thrive, we need a capital city of order.",need,city,.57554775
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It doesn’t mean we should stop recognizing the sacrifices they make daily.,it,mean,.45486042
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Additionally, Accelerate has awarded almost $12 million in grants to get more people into good careers.",accelerate,award,.61925578
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We can afford them in large part, because of our economic resilience.",large,part,.39804804
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I would like for everyone to take just a moment and give our teachers the applause they deserve.,take,moment,.51303625
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Give us another arrow in our quiver to attract more capital and to continue to transform our economy.,give,arrow,.36992195
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"I know that many of you have already demonstrated an appetite for such boldness, and I want to thank you.",demonstrate,appetite,.55353433
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Careers like commercial trucking, advanced manufacturing, welding, utility line working, and fiber.",line,work,.5377205
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Give us another arrow in our quiver to attract more capital and to continue to transform our economy.,attract,capital,.68179119
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"While we are proud of how we weathered the economic storm, survival is simply not enough.",weather,storm,.23234189
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To the members of the legislature and other elected officials – thank you.,other,official,.46397653
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Again, thank you for everything you’ve done and thank you for everything you will do.",you,do,.43781659
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We have lost many Mississippians to this virus.,lose,mississippians,.5335077
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We have done the hard work to secure our fiscal situation.,secure,situation,.64356631
+MS2022.txt,Mississippi,Reeves_Tate,48,0,That’s more than any other month in state history.,other,month,.54753774
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Why should we allocate funds towards educational opportunities for those who are incarcerated?,allocate,fund,.37112942
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We should be doing everything in our power to make Mississippi the most family-oriented state in the country.,do,everything,.48860294
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We are committed to offering hope of a better life.,well,life,.66614574
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We have done the hard work to secure our fiscal situation.,do,work,.4275167
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We need to bring focused attention to those orchestrating these efforts.,focused,attention,.5906083
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We all know that there are many who enjoy criticizing Mississippi.,criticize,mississippi,.627994
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In the month of June alone, Mississippi’s businesses hired more than 72,000 workers.",business,hire,.40337935
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We need to attract the kind of work that creates wealth for all Mississippians.,that,create,.54256386
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But to arrest, charge, and eradicate the ringleaders who make life hell for the peaceful residents of Jackson.",peaceful,resident,.37029877
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"To all our law enforcement officers, Mississippi will always back the blue.",mississippi,back,.55268508
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We are combatting gang violence.,combat,violence,.58844763
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Additionally, Accelerate has awarded almost $12 million in grants to get more people into good careers.",award,million,.499872
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In the coming months, we will be promoting plans to further protect mothers in our state.",promote,plan,.60710162
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi has weathered great storms in the last two years.,mississippi,weather,.32797053
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Someone who always puts others before herself.,put,other,.48694801
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippians are leading the charge to defend those children.,mississippians,lead,.6154868
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We all have an interest in stopping this deadly cycle.,deadly,cycle,.73550701
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In too many schools in other states, they teach the lie that America is inherently racist.",teach,lie,.76472777
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"And if they contracted the virus while serving and protecting, that should be counted as a line of duty death.",contract,virus,.40864435
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippians are leading the charge to defend those children.,defend,child,.56405056
+MS2022.txt,Mississippi,Reeves_Tate,48,0,But I do not pretend that those laws mean the work for life is done.,law,mean,.47864062
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The rigorous reading standards that we put in place have transformed lives and the data prove it.,datum,prove,.49680895
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Capturing violent criminals does nothing if our justice system puts them right back on the streets.,system,put,.52024317
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"For example, the Automotive Service Excellence Certification, where inmates can learn to work on car motors and small engines.",inmate,learn,.31188425
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It doesn’t mean we should stop recognizing the sacrifices they make daily.,recognize,sacrifice,.59760076
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The men and women of local law enforcement will always be the first line of defense.,local,enforcement,.38460013
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The rigorous reading standards that we put in place have transformed lives and the data prove it.,standard,transform,.53785115
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We can break that cycle, for hundreds of inmates, and that will lead us to a safer state.",safe,state,.50890261
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can attract more wealth that can transform our economic potential.,transform,potential,.60515261
+MS2022.txt,Mississippi,Reeves_Tate,48,0,These numbers are real people.,real,people,.40549681
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"If we want to break the cycle of recidivism, we must invest in a cycle of education and learning.",break,cycle,.70953435
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We tell every young parent: we will be your partner in educating your child.,young,parent,.45062858
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Expect more and you will get more.,expect,more,.43891975
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We have many great opportunities before us.,great,opportunity,.47982386
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Since those standards were created, we’ve experienced incredible gains in fourth grade reading.",incredible,gain,.59384668
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It takes a bold vision that lasts forever.,bold,vision,.4964487
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"I know that many of you have already demonstrated an appetite for such boldness, and I want to thank you.",such,boldness,.66987747
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"According to 2019 NAEP results, our students living in poverty are outperforming their peers nationally.",outperform,peer,.30372372
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When teachers in other states said, “no we won’t,” Mississippi’s teachers said, “yes we will.",teacher,say,.5454635
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Together, we will make sure that if they work hard, they will learn what they need to know.",they,learn,.46606198
+MS2022.txt,Mississippi,Reeves_Tate,48,0,When is the last time you heard that?,hear,that,.44747278
+MS2022.txt,Mississippi,Reeves_Tate,48,0,People there are rushing to reform – electing new city leadership promising to combat the violence.,new,leadership,.57675928
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that they don’t just receive the basics— that they get the best possible care during their pregnancy.,they,receive,.5181976
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"As conservatives, we believe in rewarding hard work and success.",rewarding,work,.49528822
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Unlike other states throughout the pandemic, most of Mississippi’s teachers stepped up.",most,teacher,.39779234
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Over the last two years, some of our law enforcement officers made the ultimate sacrifice in their service to us.",last,year,.50250727
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It takes a bold vision that lasts forever.,that,last,.52173221
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We choose to reject panic and embrace a life worth living.,worth,life,.5567854
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"These education reforms and the gains they have wrought, is what happens when Republicans and Democrats come together.",what,happen,.46370357
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that they don’t just receive the basics— that they get the best possible care during their pregnancy.,receive,basic,.49831691
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"To address the issues in the system, we needed a cultural reset.",need,reset,.5111168
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"And at times in our past, they might have been at least a little bit right about our educational system.",little,bit,.37307733
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Thank you for your commitment to bettering our state.,thank,you,.44988889
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"King once said, “The beautiful thing about learning is that no one can take it away from you.",beautiful,thing,.47352216
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It takes a bold vision that lasts forever.,take,vision,.50880498
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The men and women of local law enforcement will always be the first line of defense.,first,line,.38214406
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Speaker Gunn and Chairman Lamar, thank you for your hard work and your commitment to this ongoing effort.",gunn,thank,.44577169
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"The results are clear: In November, Mississippi’s weekly unemployment claims reached their lowest point since 2018.",reach,point,.53541875
+MS2022.txt,Mississippi,Reeves_Tate,48,0,People there are rushing to reform – electing new city leadership promising to combat the violence.,people,rush,.49354824
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Two years ago, as I took office, we were facing prison riots that resulted in serious violence.",that,result,.51018423
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you have a lack of hope, you don’t just serve your time.",serve,time,.65142113
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We will work to make it even easier to adopt a Mississippi child into a forever home.,forever,home,.54434282
+MS2022.txt,Mississippi,Reeves_Tate,48,0,These officers fell victim to an enemy that couldn’t even been seen – COVID-19.,officer,fall,.37481579
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But Mississippi kids are on the move, and it is revitalizing our state’s future.",it,revitalize,.60135239
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi ended the year a billion dollars over revenue estimates.,end,dollar,.53776723
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Reasonable citizens must take back control from those who only wish harm to their neighbors.,citizen,take,.34577608
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"If we can eliminate the income tax, we will achieve an historic victory for this state.",achieve,victory,.63368112
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can have more money circulating in our economy.,more,money,.57537156
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They pay well and they offer security.,offer,security,.39013886
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We all know that there are many who enjoy criticizing Mississippi.,who,enjoy,.38638926
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Across the country, there is a looming threat in too many schools.",many,school,.45035455
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The answer is actually pretty straightforward – because it’s a wise investment.,wise,investment,.62179548
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Elee, thank you for everything you do for me and for Mississippi.",thank,you,.44988889
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I want to tell all of you—anyone who needs to hear it—that you are loved.,who,need,.35375535
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"First, we need to take care of the basics.",take,care,.37283799
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Mississippi students are learning more, achieving more, and they are more prepared for a prosperous life.",learn,more,.48281497
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They teach students that by virtue of the color of your skin you are inherently a victim or oppressor.,teach,student,.24836276
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To tackle those challenges and seize chances for greatness.,tackle,challenge,.69601828
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Today, I call on the legislature to do the same for local law enforcement.",do,same,.46239677
+MS2022.txt,Mississippi,Reeves_Tate,48,0,And it can lead to more wealth for all Mississippians.,it,lead,.49195945
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can attract more wealth that can transform our economic potential.,more,wealth,.68164015
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Those who pushed long-term school closures would have taken that opportunity away from our children.,take,opportunity,.38905886
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Reasonable citizens must take back control from those who only wish harm to their neighbors.,who,wish,.30995512
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi continues to be in the best fiscal shape and the best financial shape in its history.,financial,shape,.71465439
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We must acknowledge and champion the fact that being pro-life is about more than being anti-abortion.,champion,fact,.60343128
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The average cost to house an inmate in 2020 was over $50 a day.,house,inmate,.34428212
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I am proud to say that culture overhaul is happening.,overhaul,happen,.3707248
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But Mississippi’s schools have made a major turnaround – in fact, a turnaround of historic proportions.",school,make,.617423
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"King once said, “The beautiful thing about learning is that no one can take it away from you.",take,it,.49961746
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that they don’t just receive the basics— that they get the best possible care during their pregnancy.,get,care,.50730669
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We will strive for equality, and our education will support that aspiration.",support,aspiration,.65983433
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Over the last two years, some of our law enforcement officers made the ultimate sacrifice in their service to us.",some,make,.53486729
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It takes time to go from last to first.,it,take,.49961746
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We need to bring focused attention to those orchestrating these efforts.,bring,attention,.60002381
+MS2022.txt,Mississippi,Reeves_Tate,48,0,That is why we must give our teachers the pay raise they deserve.,give,raise,.51012892
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It is the most basic promise a state government makes to its people.,basic,promise,.57020193
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Give us another arrow in our quiver to attract more capital and to continue to transform our economy.,transform,economy,.76529235
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Now, I want to repeat that.",repeat,that,.51262856
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Over the last two years, some of our law enforcement officers made the ultimate sacrifice in their service to us.",make,sacrifice,.62293941
+MS2022.txt,Mississippi,Reeves_Tate,48,0,And that will lead to a brighter future.,bright,future,.77565956
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"A family-supporting career that gives them not just a paycheck, but joy.",that,give,.48940149
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Someone who always puts others before herself.,who,put,.43402198
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can grow this great state to achieve what we all know we are capable of.,great,state,.53528708
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Months, and in some cases years, for people to acquire the skills they need to obtain these high-paying jobs.",acquire,skill,.27869561
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"With the radical founding of America, we set the world on a course towards greater prosperity and freedom.",set,world,.52842003
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Governed by laws, not abandoned to daily violence.",daily,violence,.63428199
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To support local law enforcement and to bring peace back to Jackson.,support,enforcement,.50360191
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"King once said, “The beautiful thing about learning is that no one can take it away from you.",one,take,.48442602
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi continues to be in the best fiscal shape and the best financial shape in its history.,fiscal,shape,.70399117
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But Mississippi’s schools have made a major turnaround – in fact, a turnaround of historic proportions.",make,turnaround,.6923117
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We will work to make it even easier to adopt a Mississippi child into a forever home.,it,easy,.4313767
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I have been proud to push for laws that restrict abortion and protect innocent life.,that,restrict,.49831501
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"I know that many of you have already demonstrated an appetite for such boldness, and I want to thank you.",thank,you,.44988889
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Not to catch more people speeding or loitering.,catch,people,.43551496
+MS2022.txt,Mississippi,Reeves_Tate,48,0,That is why we must give our teachers the pay raise they deserve.,they,deserve,.44156304
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Their day is ending in Jackson.,day,end,.50183982
+MS2022.txt,Mississippi,Reeves_Tate,48,0,That most core human right: the right to life.,human,right,.60808671
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We need to attract the kind of work that creates wealth for all Mississippians.,create,wealth,.68048251
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Unlike other states throughout the pandemic, most of Mississippi’s teachers stepped up.",other,state,.53918028
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We have done the hard work to secure our fiscal situation.,hard,work,.60448164
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Months, and in some cases years, for people to acquire the skills they need to obtain these high-paying jobs.",they,need,.4557862
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We kept our businesses open and helped ensure Mississippians could continue putting food on their table.,put,food,.49387273
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Students of all backgrounds are having academic success in Mississippi.,academic,success,.61969215
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We will work to make it even easier to adopt a Mississippi child into a forever home.,adopt,child,.33840209
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi’s students with disabilities have seen a graduation rate that has doubled over the last eight years.,see,rate,.46473178
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"These education reforms and the gains they have wrought, is what happens when Republicans and Democrats come together.",republicans,come,.44631493
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi’s students with disabilities have seen a graduation rate that has doubled over the last eight years.,last,year,.50250727
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But Mississippi’s schools have made a major turnaround – in fact, a turnaround of historic proportions.",major,turnaround,.67624414
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Credit goes to where credit is due and in COVID-19, Mississippi teachers deserve the credit.",deserve,credit,.50248975
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We can afford them in large part, because of our economic resilience.",economic,resilience,.56289136
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The violence scars families for generations.,violence,scar,.68077242
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We choose to reject panic and embrace a life worth living.,embrace,life,.71526766
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Even if you don’t know it, your life is a blessing to others.",you,know,.47417736
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"They trash our way of life, they trash our institutions, and they frequently deride our education.",they,trash,.4909431
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Now, they say imitation is the sincerest form of flattery.",they,say,.47316602
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In 2019, Mississippi was the only state in the nation to improve our scores.",only,state,.52430516
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I would like for everyone to take just a moment and give our teachers the applause they deserve.,they,deserve,.44156304
+MS2022.txt,Mississippi,Reeves_Tate,48,0,That’s why I want to work with the legislature to get you the support you need.,get,support,.54934037
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The legislature can bolster that effort by passing legislation to this effect.,bolster,effort,.68438661
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Careers like commercial trucking, advanced manufacturing, welding, utility line working, and fiber.",commercial,trucking,.41295981
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We also refuse to incentivize the opposite.,incentivize,opposite,.72957599
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Together, we can do great things.",do,thing,.43177223
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"From Pascagoula to Iuka and from Natchez to Tunica, every single person in Mississippi should be proud.",single,person,.29678839
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can win those projects.,win,project,.63267672
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We can break that cycle, for hundreds of inmates, and that will lead us to a safer state.",that,lead,.60691357
+MS2022.txt,Mississippi,Reeves_Tate,48,0,People there are rushing to reform – electing new city leadership promising to combat the violence.,combat,violence,.58844763
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Those who pushed long-term school closures would have taken that opportunity away from our children.,those,take,.44176051
+MS2022.txt,Mississippi,Reeves_Tate,48,0,All of us can agree on that.,all,agree,.56273365
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"I know that each of you can commit to that goal, and if so, we will serve our neighbors well.",serve,neighbor,.55755967
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"They did not walk out, they stepped up.",they,step,.47704512
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Catch and release has caused nothing but record crime and chaos.,cause,nothing,.6191327
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"I’m confident that in this session, working together, we will get a significant teacher pay raise done.",significant,teacher,.3057856
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Those who pushed long-term school closures would have taken that opportunity away from our children.,who,push,.3991642
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To tackle those challenges and seize chances for greatness.,seize,chance,.63334477
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Elee, thank you for everything you do for me and for Mississippi.",you,do,.43781659
+MS2022.txt,Mississippi,Reeves_Tate,48,0,But that’s not the only program we’re leveraging to train inmates.,only,program,.41266122
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"A family-supporting career that gives them not just a paycheck, but joy.",give,paycheck,.48848048
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Our passing rate on Advanced Placement exams is also at an all-time high.,passing,rate,.46609539
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"While other states resorted to Zoom for years on end, Mississippi’s teachers took to the chalkboard.",teacher,take,.28414813
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Another area where our collaboration is going to be key, is improving Mississippi’s corrections system.",improve,system,.54025006
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I could not ask for a better partner and Mississippi could not ask for a better First Lady.,well,partner,.58616823
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Months, and in some cases years, for people to acquire the skills they need to obtain these high-paying jobs.",people,acquire,.39029554
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In 2019, Mississippi was the only state in the nation to improve our scores.",improve,score,.63557446
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Give us another arrow in our quiver to attract more capital and to continue to transform our economy.,more,capital,.66687346
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We must teach that truth.,teach,truth,.611543
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Thank you for your dedication to our people.,thank,you,.44988889
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The final vital factor in our education gains is our teachers.,final,factor,.60082978
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you look at the data, it looks like a miracle.",you,look,.43248746
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Today, in state prisons, we are working hard to offer training and meaningful work.",meaningful,work,.44993508
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We choose to reject panic and embrace a life worth living.,reject,panic,.45990616
+MS2022.txt,Mississippi,Reeves_Tate,48,0,This does not just happen one project at a time.,happen,project,.42551446
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But to arrest, charge, and eradicate the ringleaders who make life hell for the peaceful residents of Jackson.",who,make,.52962756
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Capturing violent criminals does nothing if our justice system puts them right back on the streets.,do,nothing,.50626874
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I am begging Mississippi legislators to be bold.,beg,legislator,.24006638
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"And if they contracted the virus while serving and protecting, that should be counted as a line of duty death.",they,contract,.47823718
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"By eliminating the income tax, we can put ourselves in a position to stand out.",eliminate,tax,.77861708
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But to arrest, charge, and eradicate the ringleaders who make life hell for the peaceful residents of Jackson.",eradicate,ringleader,.34777206
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They have wondered if their lives are worth keeping.,they,wonder,.47823703
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Someone who is an amazing ambassador for our state – our great First Lady.,amazing,ambassador,.46002391
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Expect more and you will get more.,you,get,.46898529
+MS2022.txt,Mississippi,Reeves_Tate,48,0,These officers will never again make it home to their families.,officer,make,.49486372
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Mississippi students are learning more, achieving more, and they are more prepared for a prosperous life.",achieve,more,.57005078
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"To address the issues in the system, we needed a cultural reset.",address,issue,.37638795
+MS2022.txt,Mississippi,Reeves_Tate,48,0,These officers fell victim to an enemy that couldn’t even been seen – COVID-19.,fall,victim,.5153935
+MS2022.txt,Mississippi,Reeves_Tate,48,0,This is an important common step we can take to ensure that Mississippi is committed to equality.,common,step,.4831498
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that we took control and took proper care of those who were serving time.,serve,time,.65142113
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Together, we will make sure that if they work hard, they will learn what they need to know.",know,what,.49770096
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Again, thank you for everything you’ve done and thank you for everything you will do.",you,do,.43781659
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In too many schools in other states, they teach the lie that America is inherently racist.",many,school,.45035455
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Good decisions have brought us a great harvest.,good,decision,.59624189
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"There will be missed birthdays, graduations, weddings, birth of children, and more.",more,wedding,.52194959
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I have been proud to push for laws that restrict abortion and protect innocent life.,protect,life,.7371909
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It doesn’t mean we should stop recognizing the sacrifices they make daily.,they,make,.54934293
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"That can not only fill the days, it can set an offender up for a peaceful life on the outside.",fill,day,.61171979
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Good decisions have brought us a great harvest.,decision,bring,.61022866
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Our work is just beginning.,work,begin,.56017864
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Doing things the right way to build a skilled labor pool takes time.,right,way,.47973514
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"I know that each of you can commit to that goal, and if so, we will serve our neighbors well.",each,commit,.60513073
+MS2022.txt,Mississippi,Reeves_Tate,48,0,These are real lives that have been transformed – and family trajectories that have been forever altered.,real,life,.53339469
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi has weathered great storms in the last two years.,last,year,.50250727
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Thank you, Lieutenant Governor Hosemann and Speaker Gunn.",thank,you,.44988889
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"To preserve the safety of our citizens, we needed to stem the rising tide of violence.",preserve,safety,.41778469
+MS2022.txt,Mississippi,Reeves_Tate,48,0,And that will lead to a brighter future.,that,lead,.60691357
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We are talking about generational change in careers and horizons – and it is happening in every corner of Mississippi.,generational,change,.57547218
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"While we are proud of how we weathered the economic storm, survival is simply not enough.",economic,storm,.55576605
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Now let us return that largesse to the people and unleash Mississippi’s economy.,unleash,economy,.85367167
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I believe that Jackson still exists.,jackson,exist,.47534919
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Together, we can do great things.",great,thing,.50381768
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Those who pushed long-term school closures would have taken that opportunity away from our children.,push,closure,.68665302
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"To date, we have awarded over $11.5 million in RESTORE Act funds towards high-value workforce development programs.",high,value,.71386647
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It doesn’t really matter what you call it.,call,what,.52463877
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"A city where jobs are plentiful, and opportunity is only limited by how hard you want to work.",you,want,.42663604
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Additionally, Accelerate has awarded almost $12 million in grants to get more people into good careers.",good,career,.54682821
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In too many schools in other states, they teach the lie that America is inherently racist.",other,state,.53918028
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We are turning the tide and we are taking control.,take,control,.51988512
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"By eliminating the income tax, we can put ourselves in a position to stand out.",put,ourselves,.55020052
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Two years ago, as I took office, we were facing prison riots that resulted in serious violence.",serious,violence,.38675532
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Doing things the right way to build a skilled labor pool takes time.,build,pool,.53462285
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Under the leadership of Commissioner Cain, we are hiring more guards.",hire,guard,.41593975
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Doing things the right way to build a skilled labor pool takes time.,do,thing,.43177223
+MS2022.txt,Mississippi,Reeves_Tate,48,0,You all know how fond I am of data.,you,know,.47417736
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It takes a bold vision that lasts forever.,it,take,.49961746
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We will not teach that your race determines your status as a victim or oppressor.,race,determine,.43553025
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can do amazing things together if we focus on doing what’s right.,amazing,thing,.46102968
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Sin is inherent in the human condition.,human,condition,.51397425
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"As conservatives, we believe in rewarding hard work and success.",hard,work,.60448164
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"The results are clear: In November, Mississippi’s weekly unemployment claims reached their lowest point since 2018.",claim,reach,.66462231
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In other states, students remained out of the classroom and locked away from their teachers and their peers.",other,state,.53918028
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The rigorous reading standards that we put in place have transformed lives and the data prove it.,transform,life,.70854545
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"The cost for vocational training, depending on the program, is approximately $2,000 a year.",vocational,training,.31715938
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Out of 50, we were the very best at improving reading scores.",improve,score,.63557446
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Now I want you to stand up for them.,you,stand,.48903406
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The time is now to continue building the pipeline.,build,pipeline,.49440798
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"When you are a victim by birth, only their generosity can save you.",save,you,.47467986
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"While other states resorted to Zoom for years on end, Mississippi’s teachers took to the chalkboard.",other,state,.53918028
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Catch and release has caused nothing but record crime and chaos.,catch,cause,.36908707
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Companies realize this and so should we.,realize,this,.5773381
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They pay well and they offer security.,they,offer,.46236581
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We kept our businesses open and helped ensure Mississippians could continue putting food on their table.,mississippians,continue,.53982645
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can do our part to go down a brighter road.,bright,road,.20487449
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Under the leadership of Commissioner Cain, we are hiring more guards.",more,guard,.4049859
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"According to 2019 NAEP results, our students living in poverty are outperforming their peers nationally.",student,outperform,.34481263
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I want to tell all of you—anyone who needs to hear it—that you are loved.,hear,it,.5245347
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"These programs work, and we need more of them.",need,more,.46966901
+MS2022.txt,Mississippi,Reeves_Tate,48,0,They did not cower in fear and refuse to come into the classroom.,they,cower,.43001613
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In the coming months, we will be promoting plans to further protect mothers in our state.",protect,mother,.45110485
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We recognize that no classroom can replace a parent’s care.,replace,care,.56191748
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We work to live up to those ideals every single day.,single,day,.41434297
+MS2022.txt,Mississippi,Reeves_Tate,48,0,That is why I have championed an expansion of the scope of our Capitol Police force.,champion,expansion,.72664464
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We tell every young parent: we will be your partner in educating your child.,tell,parent,.44218597
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi’s students with disabilities have seen a graduation rate that has doubled over the last eight years.,student,see,.32266402
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I am eager to work with the legislature to develop resources for targeted prosecution and conviction of violent felons here.,targeted,prosecution,.22066692
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Together, we will make sure that if they work hard, they will learn what they need to know.",they,work,.53633112
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Good decisions have brought us a great harvest.,bring,harvest,.60391986
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"They trash our way of life, they trash our institutions, and they frequently deride our education.",they,trash,.4909431
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"These education reforms and the gains they have wrought, is what happens when Republicans and Democrats come together.",they,work,.53633112
+MS2022.txt,Mississippi,Reeves_Tate,48,0,When is the last time you heard that?,last,time,.5280714
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Even if you don’t know it, your life is a blessing to others.",know,it,.45236909
+MS2022.txt,Mississippi,Reeves_Tate,48,0,That’s why one of my top priorities is to continue investing in our people.,top,priority,.75014651
+MS2022.txt,Mississippi,Reeves_Tate,48,0,To ensure that we took control and took proper care of those who were serving time.,take,control,.51988512
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Those who need our protection more than any other.,need,protection,.52381206
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Speaker Gunn and Chairman Lamar, thank you for your hard work and your commitment to this ongoing effort.",thank,you,.44988889
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We can afford them in large part, because of our economic resilience.",afford,they,.41126519
+MS2022.txt,Mississippi,Reeves_Tate,48,0,There is one cloud on the horizon for our schools and it’s one that we need to address.,address,that,.49120426
+MS2022.txt,Mississippi,Reeves_Tate,48,0,And God bless the state of Mississippi.,bless,state,.65155286
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Today, I call on the legislature to do the same for local law enforcement.",local,enforcement,.38460013
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Reasonable citizens must take back control from those who only wish harm to their neighbors.,reasonable,citizen,.21782167
+MS2022.txt,Mississippi,Reeves_Tate,48,0,All public servants answer to the people.,public,servant,.35594386
+MS2022.txt,Mississippi,Reeves_Tate,48,0,But that’s not the only program we’re leveraging to train inmates.,train,inmate,.2264484
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We should be doing everything in our power to make Mississippi the most family-oriented state in the country.,most,state,.54501194
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Capturing violent criminals does nothing if our justice system puts them right back on the streets.,violent,criminal,.40796086
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It takes time to go from last to first.,take,time,.49328902
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I pray for the same protection over those who are most vulnerable.,same,protection,.48712638
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Again, thank you for everything you’ve done and thank you for everything you will do.",thank,you,.44988889
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can attract more wealth that can transform our economic potential.,economic,potential,.57979822
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We can look back on what we’ve survived.,survive,what,.58379418
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"And at times in our past, they might have been at least a little bit right about our educational system.",educational,system,.50082338
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In too many schools in other states, they teach the lie that America is inherently racist.",they,teach,.54620135
+MS2022.txt,Mississippi,Reeves_Tate,48,0,The number of students who completed career and technical courses has shot up by 36 percent since 2015.,who,complete,.45776001
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"We also know that for Mississippi to grow, we must attract more economic activity.",attract,activity,.44002911
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But to arrest, charge, and eradicate the ringleaders who make life hell for the peaceful residents of Jackson.",life,hell,.66720796
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"Again, thank you for everything you’ve done and thank you for everything you will do.",thank,you,.44988889
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"But Mississippi kids are on the move, and it is revitalizing our state’s future.",revitalize,future,.69859326
+MS2022.txt,Mississippi,Reeves_Tate,48,0,"In 2020, our capital city set a record of 130 murders.",set,record,.57999665
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We choose to protect ourselves as we see fit.,protect,ourselves,.59470648
+MS2022.txt,Mississippi,Reeves_Tate,48,0,This is an important common step we can take to ensure that Mississippi is committed to equality.,important,step,.49307734
+MS2022.txt,Mississippi,Reeves_Tate,48,0,I would like for everyone to take just a moment and give our teachers the applause they deserve.,give,applause,.48591477
+MS2022.txt,Mississippi,Reeves_Tate,48,0,Mississippi has weathered great storms in the last two years.,weather,storm,.23234189
+MS2022.txt,Mississippi,Reeves_Tate,48,0,There is no doubt that Mississippi teachers fit that mold.,fit,mold,.47316214
+MS2022.txt,Mississippi,Reeves_Tate,48,0,We are making incredible progress.,make,progress,.66016638
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It is propaganda that seeks to divide us.,that,seek,.5450657
+MS2022.txt,Mississippi,Reeves_Tate,48,0,It is designed to allow a small group of idealogues to pose as saviors—false heroes.,group,pose,.41135019

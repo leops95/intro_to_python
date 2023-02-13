@@ -1,0 +1,444 @@
+filename,st_name,speaker,age,gender,text,arg0,arg1,metaphor_score
+WV2022.txt,West Virginia,Justice_Jim,71,0,All of a sudden out of nowhere he wheels around and rams his head right in my nose.,ram,head,.41077295
+WV2022.txt,West Virginia,Justice_Jim,71,0,She’s a heavy equipment operator.,heavy,equipment,.26431954
+WV2022.txt,West Virginia,Justice_Jim,71,0,We absolutely need a new lab and need it really bad.,need,lab,.3888064
+WV2022.txt,West Virginia,Justice_Jim,71,0,Please let's absolutely move forward and get this done.,this,do,.4782168
+WV2022.txt,West Virginia,Justice_Jim,71,0,But I'd like you to all stand and us bow in a moment of prayer.,like,you,.45062947
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Babydog’s has talked to the dog and the dog loves it, too.",love,it,.60254669
+WV2022.txt,West Virginia,Justice_Jim,71,0,She is going to get a promotion here right soon and she is with us tonight.,get,promotion,.62685007
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We’ve got a lot, a lot of good folks in our state government that are doing really good stuff.",get,lot,.53427583
+WV2022.txt,West Virginia,Justice_Jim,71,0,It's breathtaking when you really just think about it.,it,breathtaking,.51724398
+WV2022.txt,West Virginia,Justice_Jim,71,0,"(Less than 1-second pause) Okay, that is long enough.",second,pause,.57168692
+WV2022.txt,West Virginia,Justice_Jim,71,0,Thank you for all you have done.,you,do,.43781659
+WV2022.txt,West Virginia,Justice_Jim,71,0,I expect you to do that with us and absolutely go arm and arm.,go,arm,.55060774
+WV2022.txt,West Virginia,Justice_Jim,71,0,"But nevertheless, I want to introduce all of my cabinet.",introduce,all,.49023747
+WV2022.txt,West Virginia,Justice_Jim,71,0,But you all watch what is going on in Washington all the time.,what,go,.5691185
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Please give them a round of applause, too.",give,round,.47191843
+WV2022.txt,West Virginia,Justice_Jim,71,0,Chris with AEP really stepped up.,chris,step,.49922591
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Okay, we want more people back to work in West Virginia.",want,people,.31208006
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Okay, we want more people back to work in West Virginia.",more,people,.41102111
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I told you a few minutes ago, I am your proudest frog.",few,minute,.31704906
+WV2022.txt,West Virginia,Justice_Jim,71,0,We’re the diamond in the rough that absolutely can do kinds of greatness.,that,do,.47875604
+WV2022.txt,West Virginia,Justice_Jim,71,0,They’ve been around for 40 years and truly it works.,it,work,.54605693
+WV2022.txt,West Virginia,Justice_Jim,71,0,We are now going to create or have created an Emergency Management Crisis Fund.,create,fund,.55832887
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I want you to stand, hold your applause for just one second.",hold,applause,.54129416
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I believe you have got to tell them, ""You’re going the wrong way.",you,get,.46898529
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Before I leave, I absolutely want to see the completion of the Nitro-St. Albans Bridge.",see,completion,.50425643
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We’ve got to get this done, and we’ve got to get this done right now.",this,do,.4782168
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know they went fishing, did they not?",they,go,.5209071
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We’ve got a lot, a lot of good folks in our state government that are doing really good stuff.",that,do,.47875604
+WV2022.txt,West Virginia,Justice_Jim,71,0,I absolutely want to see us complete Corridor H or surely get it way down the trail.,get,it,.51094991
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We’ve got a lot, a lot of good folks in our state government that are doing really good stuff.",do,stuff,.44761479
+WV2022.txt,West Virginia,Justice_Jim,71,0,And I would challenge you to do the exact same thing.,exact,thing,.34851578
+WV2022.txt,West Virginia,Justice_Jim,71,0,"And I absolutely asked you to allow Mitch Carmichael to be our secretary, did I not?",ask,you,.49025932
+WV2022.txt,West Virginia,Justice_Jim,71,0,We can't do it trying to one-up each other all of the time.,do,all,.48249954
+WV2022.txt,West Virginia,Justice_Jim,71,0,Absolutely we have got to find the money.,find,money,.60726255
+WV2022.txt,West Virginia,Justice_Jim,71,0,Our Old Fund and all of you all probably know exactly what Old Fund means.,fund,know,.51827759
+WV2022.txt,West Virginia,Justice_Jim,71,0,We believed we will build a site and they will come.,they,come,.5037818
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I promised you a rocket ship ride, did I not, in 2017.",promise,ride,.49296701
+WV2022.txt,West Virginia,Justice_Jim,71,0,He will write about me every day now.,he,write,.53032339
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I believe you have got to tell them, ""You’re going the wrong way.",tell,they,.48237106
+WV2022.txt,West Virginia,Justice_Jim,71,0,It'll drive so many things here.,it,drive,.46698755
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We have a young lady with us tonight, I'm sorry, a young man with us tonight.",young,lady,.57803082
+WV2022.txt,West Virginia,Justice_Jim,71,0,I did it for the right reasons.,right,reason,.52349913
+WV2022.txt,West Virginia,Justice_Jim,71,0,"So you guys have got to get to work, that is all there is to it.",guy,get,.41377306
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, you have gone fishing.",go,fish,.36945382
+WV2022.txt,West Virginia,Justice_Jim,71,0,The absolute occupancy in our parks is off the chart.,absolute,occupancy,.49230403
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Last year I came to you and asked you to fund, basically, another secretary, did I not?",last,year,.50250727
+WV2022.txt,West Virginia,Justice_Jim,71,0,You know what we did?,you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,What we have done with our roads in the state of West Virginia is totally off the chart.,do,what,.49853066
+WV2022.txt,West Virginia,Justice_Jim,71,0,But please give them a big round of applause.,give,round,.47191843
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I said over and over, and you might think, ""Oh, gosh, why does he say these things?""",he,say,.50877607
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We have a young lady with us tonight, I'm sorry, a young man with us tonight.",young,man,.4004676
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, and they caught some big, big, big fish.",big,fish,.33233407
+WV2022.txt,West Virginia,Justice_Jim,71,0,I did it for the right reasons.,do,it,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,I want to just tell you from my heart some really important stuff to me.,tell,you,.52250695
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I haven't seen any of our congressmen or congresswomen, but I thank them from the bottom of my heart.",see,any,.47025579
+WV2022.txt,West Virginia,Justice_Jim,71,0,Steve has done absolutely wonders and Steve and I bingo off on one another like you can imagine.,steve,do,.35684341
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Absolutely, please, a big round of applause for all of them.",big,round,.39077613
+WV2022.txt,West Virginia,Justice_Jim,71,0,They are finding out the very thing that I had said to you over and over and over and over.,they,find,.49878895
+WV2022.txt,West Virginia,Justice_Jim,71,0,We absolutely need a new lab and need it really bad.,it,bad,.46251571
+WV2022.txt,West Virginia,Justice_Jim,71,0,I was playing right behind him and everything and they were going to get the tip and everything.,they,go,.5209071
+WV2022.txt,West Virginia,Justice_Jim,71,0,You are an incredible group of people.,incredible,group,.51177698
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You see, a long time ago, our forefathers, that is what they did.",do,what,.49853066
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We have added 85,896 new acres in West Virginia.",add,acre,.4545849
+WV2022.txt,West Virginia,Justice_Jim,71,0,We’re the diamond in the rough that absolutely can do kinds of greatness.,do,kind,.50853986
+WV2022.txt,West Virginia,Justice_Jim,71,0,They are finding out the very thing that I had said to you over and over and over and over.,say,that,.53640699
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We had a few extra dollars from the remaining CARES money, the original CARES money.",extra,dollar,.46364674
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I have got my beautiful daughter, Jill, and my okay son, Jay.",get,daughter,.46547067
+WV2022.txt,West Virginia,Justice_Jim,71,0,Let me just say one last thing.,say,thing,.50598216
+WV2022.txt,West Virginia,Justice_Jim,71,0,We are 52 percent higher income in our DNR today than we were the day I walked in the door.,high,income,.71450627
+WV2022.txt,West Virginia,Justice_Jim,71,0,You just think of the investment that we’ve made in tourism and what has happened in this state.,you,think,.42537254
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We have got to build houses in West Virginia, people.",build,house,.51310122
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I absolutely promise you with all my soul that I couldn't believe what happened, to tell you the truth.",tell,truth,.5783723
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I absolutely promise you with all my soul that I couldn't believe what happened, to tell you the truth.",what,happen,.46370357
+WV2022.txt,West Virginia,Justice_Jim,71,0,We need to commit dollars to locality pay.,commit,dollar,.63134664
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, tourism magazines that, to be perfectly honest, most of us had never heard of before.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,These people have given so much.,people,give,.40917408
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We've done this to try to retain or recruit, you know, good, good, good people.",good,people,.39958286
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We need to solicit all the good ideas, we need to work through all the good ideas.",good,idea,.58974791
+WV2022.txt,West Virginia,Justice_Jim,71,0,It goes all of the way over here.,it,go,.52277577
+WV2022.txt,West Virginia,Justice_Jim,71,0,"So Chelsea, please stand, incredible job, incredible job.",incredible,job,.5282951
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Steve McDaniel, the job that he has done is unbelievable.",he,do,.45499718
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Man, you all clap a lot.",you,clap,.40784955
+WV2022.txt,West Virginia,Justice_Jim,71,0,Did I not tell you that early on?,tell,you,.52250695
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I don't know where they are, but, please, give them a round of applause.",give,round,.47191843
+WV2022.txt,West Virginia,Justice_Jim,71,0,"She’s a long-time educator, and she’s now working with Communities In Schools.",she,work,.52553201
+WV2022.txt,West Virginia,Justice_Jim,71,0,"When somebody is going the wrong way, I don't believe that you should just pamper them.",you,pamper,.49622631
+WV2022.txt,West Virginia,Justice_Jim,71,0,A kid had given up in school.,kid,give,.43001556
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We had a few extra dollars from the remaining CARES money, the original CARES money.",original,money,.42294255
+WV2022.txt,West Virginia,Justice_Jim,71,0,"So with all of that, I would say to you just this, I have got one more thing.",get,thing,.48122001
+WV2022.txt,West Virginia,Justice_Jim,71,0,"There was a young man, like I said, whose name was Conner Cook, Woodrow Wilson High School.",young,man,.4004676
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We've done this to try to retain or recruit, you know, good, good, good people.",good,people,.39958286
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Then along came GreenPower Motor Company, did it not?",it,do,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,Now remember what I told you about the Good Lord gave you the ability to smile and to laugh.,give,ability,.52571845
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I believe you have got to tell them, ""You’re going the wrong way.",you,go,.51772845
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Last but not least, this gentleman right here, surely deserves a ton of credit.",deserve,ton,.72277147
+WV2022.txt,West Virginia,Justice_Jim,71,0,You just think about this.,you,think,.42537254
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We've done this to try to retain or recruit, you know, good, good, good people.",do,people,.39191324
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You may think, ""Well, that didn't mean anything.",mean,anything,.4182148
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You see, a long time ago, our forefathers, that is what they did.",you,see,.44675019
+WV2022.txt,West Virginia,Justice_Jim,71,0,"For all practical purposes, nobody would like to come to West Virginia and do business.",nobody,like,.45949394
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, we have a Secretary of Tourism, Secretary Ruby, who has done an incredible job.",who,do,.43181345
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I believe you have got to tell them, ""You’re going the wrong way.",wrong,way,.49699712
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, we have a Secretary of Tourism, Secretary Ruby, who has done an incredible job.",do,job,.38512155
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I mean, surely we can get that done.",that,do,.47875604
+WV2022.txt,West Virginia,Justice_Jim,71,0,We can phase it down.,phase,it,.35288844
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, tourism magazines that, to be perfectly honest, most of us had never heard of before.",most,hear,.45266089
+WV2022.txt,West Virginia,Justice_Jim,71,0,It is an amazing time in West Virginia.,amazing,time,.51646429
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I have got my beautiful daughter, Jill, and my okay son, Jay.",okay,son,.43180233
+WV2022.txt,West Virginia,Justice_Jim,71,0,Conner today is a straight-A student and what he is doing is unbelievable.,he,do,.45499718
+WV2022.txt,West Virginia,Justice_Jim,71,0,"So wherever Mark is, please, Mark, stand.",mark,stand,.55304015
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I hope that you will take that and really, seriously consider both.",consider,both,.52558166
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I said over and over, and you might think, ""Oh, gosh, why does he say these things?""",you,think,.42537254
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done so much so many different times.,they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done so much so many different times.,different,time,.46795753
+WV2022.txt,West Virginia,Justice_Jim,71,0,But please give Cathy and all these great people a tremendous round of applause.,give,round,.47191843
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Keep doing it, West Virginia.",do,it,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,Absolutely too many people doubted us.,many,people,.40081227
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We have – we have an individual that was coming here tonight, this young man, his name is Conner Cook.",young,man,.4004676
+WV2022.txt,West Virginia,Justice_Jim,71,0,And I see today that they are backstopping our hospitals and doing everything they can to help us again today.,they,can,.42716429
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I’ve seen this, you know, where really smart business people tried to do just this.",see,this,.50264966
+WV2022.txt,West Virginia,Justice_Jim,71,0,We've got our Supreme Court with us.,get,court,.54533166
+WV2022.txt,West Virginia,Justice_Jim,71,0,She is going to get a promotion here right soon and she is with us tonight.,she,go,.50919569
+WV2022.txt,West Virginia,Justice_Jim,71,0,"In '21, they did 47,000 miles.",they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,They depend on you too.,they,depend,.40711159
+WV2022.txt,West Virginia,Justice_Jim,71,0,It doesn't sound like much.,it,sound,.50530845
+WV2022.txt,West Virginia,Justice_Jim,71,0,I want to just tell you from my heart some really important stuff to me.,important,stuff,.46586722
+WV2022.txt,West Virginia,Justice_Jim,71,0,It'll drive so many things here.,drive,thing,.45912629
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We will just do this in silent prayer, but please, please, remember all those we've lost.",silent,prayer,.29724577
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Connor was going way, way, way the wrong way.",connor,go,.47432056
+WV2022.txt,West Virginia,Justice_Jim,71,0,"If you all would stand up, please give them a round of applause.",you,stand,.48903406
+WV2022.txt,West Virginia,Justice_Jim,71,0,You couldn't imagine that they would pick West Virginia.,they,pick,.55550212
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I hope that you will take that and really, seriously consider both.",you,take,.4650296
+WV2022.txt,West Virginia,Justice_Jim,71,0,Don't fall prey to that.,fall,prey,.24833006
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Her boyfriend, her dog, and herself, all of them have moved, now, to West Virginia.",boyfriend,move,.43536621
+WV2022.txt,West Virginia,Justice_Jim,71,0,You just think of the investment that we’ve made in tourism and what has happened in this state.,make,that,.55786943
+WV2022.txt,West Virginia,Justice_Jim,71,0,I also want to propose a bill to make computer programming and coding classes mandatory in middle and high school.,propose,bill,.35189426
+WV2022.txt,West Virginia,Justice_Jim,71,0,They never believed in West Virginia.,they,believe,.47976086
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We have now lost 5,697 people.",lose,people,.45934197
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I really believe the Biden Administration is absolutely driving me, at least, crazy.",administration,drive,.58446383
+WV2022.txt,West Virginia,Justice_Jim,71,0,"From the standpoint of Owens & Minor, you realize they are a Fortune 500 Company coming to West Virginia.",you,realize,.49715409
+WV2022.txt,West Virginia,Justice_Jim,71,0,We absolutely do not have any reason to grow government.,grow,government,.75287074
+WV2022.txt,West Virginia,Justice_Jim,71,0,You can absolutely do greatness more and more and more to come.,do,greatness,.62303084
+WV2022.txt,West Virginia,Justice_Jim,71,0,We’ll have to do this and that.,do,this,.4782168
+WV2022.txt,West Virginia,Justice_Jim,71,0,You just think of the investment that we’ve made in tourism and what has happened in this state.,what,happen,.46370357
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, you have gone fishing.",you,go,.51772845
+WV2022.txt,West Virginia,Justice_Jim,71,0,I don't go on vacations and Cathy can probably kick me for that.,cathy,kick,.38971725
+WV2022.txt,West Virginia,Justice_Jim,71,0,You couldn't imagine that they would pick West Virginia.,pick,virginia,.59284532
+WV2022.txt,West Virginia,Justice_Jim,71,0,But Cathy’s got some good help around her.,get,help,.51285535
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Again, and I mean it, I give the credit to the good Lord.",give,credit,.53971744
+WV2022.txt,West Virginia,Justice_Jim,71,0,Now is the time to make that happen.,that,happen,.43977186
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, and they caught some big, big, big fish.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I want to be the greatest Governor you've ever had and I want to be that every, single day.",great,governor,.40932009
+WV2022.txt,West Virginia,Justice_Jim,71,0,We need a new lab in West Virginia.,need,lab,.3888064
+WV2022.txt,West Virginia,Justice_Jim,71,0,They told every bad joke in the world about us.,tell,joke,.41826671
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Over and over and over, it is killing people in West Virginia right now.",it,kill,.53337353
+WV2022.txt,West Virginia,Justice_Jim,71,0,"They never believed in West Virginia, that we could do it.",they,believe,.47976086
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Get this, you won't believe this, 171 schools, impacting 70,000 kids.",you,believe,.45530501
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We've done this to try to retain or recruit, you know, good, good, good people.",do,this,.4782168
+WV2022.txt,West Virginia,Justice_Jim,71,0,Our Old Fund and all of you all probably know exactly what Old Fund means.,fund,mean,.5478192
+WV2022.txt,West Virginia,Justice_Jim,71,0,"They are now ranking West Virginia at the top 10, the top 25, whatever it may be.",they,rank,.56510425
+WV2022.txt,West Virginia,Justice_Jim,71,0,"So Chelsea, please stand, incredible job, incredible job.",incredible,job,.5282951
+WV2022.txt,West Virginia,Justice_Jim,71,0,They told every bad joke in the world about us.,bad,joke,.23614575
+WV2022.txt,West Virginia,Justice_Jim,71,0,Here is really neat news.,neat,news,.59061188
+WV2022.txt,West Virginia,Justice_Jim,71,0,I know the very reason that I ran for Governor.,very,reason,.64242589
+WV2022.txt,West Virginia,Justice_Jim,71,0,"But in all of that, this border situation has caused a big-time problem.",big,time,.54532754
+WV2022.txt,West Virginia,Justice_Jim,71,0,Brian is an eighth grade teacher that teaches West Virginia studies at the Milton Middle School in Cabell County.,that,teach,.55124813
+WV2022.txt,West Virginia,Justice_Jim,71,0,All of a sudden out of nowhere he wheels around and rams his head right in my nose.,he,wheel,.3297779
+WV2022.txt,West Virginia,Justice_Jim,71,0,I don't know any of us here that could possibly say that it's good stuff.,know,any,.46132872
+WV2022.txt,West Virginia,Justice_Jim,71,0,And you know where she is working?,she,work,.52553201
+WV2022.txt,West Virginia,Justice_Jim,71,0,But Cathy’s got some good help around her.,good,help,.53319049
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We had a few extra dollars from the remaining CARES money, the original CARES money.",few,dollar,.41084248
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, and they caught some big, big, big fish.",big,fish,.33233407
+WV2022.txt,West Virginia,Justice_Jim,71,0,"In 2019 they did 30,000 miles in West Virginia.",they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,And I would challenge you to do the exact same thing.,do,thing,.43177223
+WV2022.txt,West Virginia,Justice_Jim,71,0,"But we cannot do it, we cannot do it disrespectfully, we can't do it throwing rocks at one another.",do,it,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,I told you we were on the pad in 2020.,tell,you,.52250695
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I have got my beautiful daughter, Jill, and my okay son, Jay.",beautiful,daughter,.39409304
+WV2022.txt,West Virginia,Justice_Jim,71,0,Our Old Fund and all of you all probably know exactly what Old Fund means.,mean,what,.46055576
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We have – we have an individual that was coming here tonight, this young man, his name is Conner Cook.",that,come,.54646689
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Her boyfriend, her dog, and herself, all of them have moved, now, to West Virginia.",all,move,.55720204
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done so much so many different times.,many,time,.54251564
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Now, now you can clap.",you,clap,.40784955
+WV2022.txt,West Virginia,Justice_Jim,71,0,"They stepped up, lost a lot, didn't they?",they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,There’s no question we can make education better and better can we not all the time.,education,well,.66942424
+WV2022.txt,West Virginia,Justice_Jim,71,0,"They never believed in West Virginia, that we could do it.",do,it,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Now, so let's just take a moment.",take,moment,.51303625
+WV2022.txt,West Virginia,Justice_Jim,71,0,We did it with 10 million dollars.,do,it,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,"They stepped up, lost a lot, didn't they?",lose,lot,.5995872
+WV2022.txt,West Virginia,Justice_Jim,71,0,I also want to propose a bill to make computer programming and coding classes mandatory in middle and high school.,middle,school,.59404051
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We’ve got a lot, a lot of good folks in our state government that are doing really good stuff.",good,folk,.53018504
+WV2022.txt,West Virginia,Justice_Jim,71,0,"They stepped up, lost a lot, didn't they?",they,step,.47704512
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Give them a big round of applause, please.",give,round,.47191843
+WV2022.txt,West Virginia,Justice_Jim,71,0,Thank you so much about that.,thank,you,.44988889
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Steve McDaniel, the job that he has done is unbelievable.",do,that,.47875604
+WV2022.txt,West Virginia,Justice_Jim,71,0,They are finding out the very thing that I had said to you over and over and over and over.,find,thing,.45171541
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I want you to stand, hold your applause for just one second.",you,stand,.48903406
+WV2022.txt,West Virginia,Justice_Jim,71,0,We’ve got our people that need that.,get,people,.37261495
+WV2022.txt,West Virginia,Justice_Jim,71,0,We can't do it trying to one-up each other all of the time.,do,it,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,But I can tell you that I am extremely grateful that you are allowing me to come late.,you,allow,.43277934
+WV2022.txt,West Virginia,Justice_Jim,71,0,These people do incredible work.,do,work,.4275167
+WV2022.txt,West Virginia,Justice_Jim,71,0,We have so many different people here.,many,people,.40081227
+WV2022.txt,West Virginia,Justice_Jim,71,0,But please give Cathy and all these great people a tremendous round of applause.,great,people,.39799476
+WV2022.txt,West Virginia,Justice_Jim,71,0,I absolutely want to see us complete Corridor H or surely get it way down the trail.,complete,h,.47949544
+WV2022.txt,West Virginia,Justice_Jim,71,0,And I would challenge you to do the exact same thing.,same,thing,.45559087
+WV2022.txt,West Virginia,Justice_Jim,71,0,I told you I'd make you smile.,tell,you,.52250695
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You see, a long time ago, our forefathers, that is what they did.",they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,"When somebody is going the wrong way, I don't believe that you should just pamper them.",somebody,go,.4883185
+WV2022.txt,West Virginia,Justice_Jim,71,0,I was playing right behind him and everything and they were going to get the tip and everything.,get,tip,.4305543
+WV2022.txt,West Virginia,Justice_Jim,71,0,And I would challenge you to do the exact same thing.,challenge,you,.49365979
+WV2022.txt,West Virginia,Justice_Jim,71,0,"They are now ranking West Virginia at the top 10, the top 25, whatever it may be.",rank,virginia,.54650241
+WV2022.txt,West Virginia,Justice_Jim,71,0,"There are so many people that depend on us, it is unbelievable.",that,depend,.4165158
+WV2022.txt,West Virginia,Justice_Jim,71,0,Now you all don’t need to just stand there and get your picture taken all night.,picture,take,.42284361
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, I haven't seen Joe, but I see Shelley here.",see,joe,.36973739
+WV2022.txt,West Virginia,Justice_Jim,71,0,Are you all going to bring it out here?,bring,it,.52917761
+WV2022.txt,West Virginia,Justice_Jim,71,0,Our State Police continues to have dwindling numbers.,police,continue,.4541482
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Tonight, I want to propose really three different things.",different,thing,.4496986
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, absolutely, it is amazing what great work that our teachers do every day.",do,that,.47875604
+WV2022.txt,West Virginia,Justice_Jim,71,0,And she recognized that this kid was a bright kid but on the wrong path.,wrong,path,.5423305
+WV2022.txt,West Virginia,Justice_Jim,71,0,"From almost day one, we have wanted to get this accomplished.",this,accomplish,.55578357
+WV2022.txt,West Virginia,Justice_Jim,71,0,Absolutely too many people doubted us.,people,doubt,.36909962
+WV2022.txt,West Virginia,Justice_Jim,71,0,I don't want to be a good Governor.,good,governor,.47604591
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done great work.,do,work,.4275167
+WV2022.txt,West Virginia,Justice_Jim,71,0,I expect you to do that with us and absolutely go arm and arm.,do,that,.47875604
+WV2022.txt,West Virginia,Justice_Jim,71,0,We had so many industrial sites that were just mothballed all over kingdom come.,many,site,.3888953
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done incredible work.,do,work,.4275167
+WV2022.txt,West Virginia,Justice_Jim,71,0,"This program really has worked in Oklahoma, you know.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,These people have given so much.,give,much,.53040409
+WV2022.txt,West Virginia,Justice_Jim,71,0,We believed we will build a site and they will come.,build,site,.38074103
+WV2022.txt,West Virginia,Justice_Jim,71,0,She’s working for our West Virginia DOT.,she,work,.52553201
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I’ve seen this, you know, where really smart business people tried to do just this.",smart,people,.39137602
+WV2022.txt,West Virginia,Justice_Jim,71,0,Brian is an eighth grade teacher that teaches West Virginia studies at the Milton Middle School in Cabell County.,teach,study,.38564411
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Get this, you won't believe this, 171 schools, impacting 70,000 kids.",impact,kid,.38225335
+WV2022.txt,West Virginia,Justice_Jim,71,0,We created ten of thousands of jobs.,create,ten,.50821894
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Okay, our State Police, now just think about this.",police,think,.37571228
+WV2022.txt,West Virginia,Justice_Jim,71,0,We’ve got our people that need that.,that,need,.48756742
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Way to go West Virginia, proud of you.",go,virginia,.5511052
+WV2022.txt,West Virginia,Justice_Jim,71,0,Steve has done absolutely wonders and Steve and I bingo off on one another like you can imagine.,you,imagine,.47725281
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We’ve got to get this done, and we’ve got to get this done right now.",this,do,.4782168
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know they went fishing, did they not?",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,And she recognized that this kid was a bright kid but on the wrong path.,she,recognize,.52328265
+WV2022.txt,West Virginia,Justice_Jim,71,0,Now remember what I told you about the Good Lord gave you the ability to smile and to laugh.,tell,you,.52250695
+WV2022.txt,West Virginia,Justice_Jim,71,0,We have spent 151 million dollars on our parks.,spend,dollar,.45452383
+WV2022.txt,West Virginia,Justice_Jim,71,0,"When somebody is going the wrong way, I don't believe that you should just pamper them.",pamper,they,.46778131
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You may think, ""Well, that didn't mean anything.",that,mean,.45433381
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I believe you have got to tell them, ""You’re going the wrong way.",go,way,.54918402
+WV2022.txt,West Virginia,Justice_Jim,71,0,I would like to first and foremost recognize my family.,recognize,family,.52520764
+WV2022.txt,West Virginia,Justice_Jim,71,0,But Cathy’s got some good help around her.,cathy,get,.40653509
+WV2022.txt,West Virginia,Justice_Jim,71,0,You will not – there is no way that you could possibly believe this.,you,believe,.45530501
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I want you to really just bear with me just one second, and just know this.",you,bear,.45031148
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, we have a Secretary of Tourism, Secretary Ruby, who has done an incredible job.",incredible,job,.5282951
+WV2022.txt,West Virginia,Justice_Jim,71,0,Let me just say one last thing.,last,thing,.49964297
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Get this, you won't believe this, 171 schools, impacting 70,000 kids.",believe,school,.5116601
+WV2022.txt,West Virginia,Justice_Jim,71,0,I have read every name.,read,name,.49359453
+WV2022.txt,West Virginia,Justice_Jim,71,0,This is a flow chart that shows the process of getting a contract through our state purchasing department.,get,contract,.60060775
+WV2022.txt,West Virginia,Justice_Jim,71,0,You couldn't imagine that they would pick West Virginia.,you,imagine,.47725281
+WV2022.txt,West Virginia,Justice_Jim,71,0,"So with all of that, I would say to you just this, I have got one more thing.",more,thing,.49009421
+WV2022.txt,West Virginia,Justice_Jim,71,0,It's breathtaking when you really just think about it.,you,think,.42537254
+WV2022.txt,West Virginia,Justice_Jim,71,0,"But in all of that, this border situation has caused a big-time problem.",situation,cause,.55704105
+WV2022.txt,West Virginia,Justice_Jim,71,0,Our image started to change.,image,start,.52447671
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We’ve got a lot, a lot of good folks in our state government that are doing really good stuff.",good,stuff,.37635976
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We've got college presidents here, our WVU President, Gordon Gee, and our new President of Marshall University, Brad Smith.",get,president,.47382188
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I got my daughter, Jill.",get,daughter,.46547067
+WV2022.txt,West Virginia,Justice_Jim,71,0,"In 2019 they did 30,000 miles in West Virginia.",do,mile,.48544219
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I said over and over, and you might think, ""Oh, gosh, why does he say these things?""",say,thing,.50598216
+WV2022.txt,West Virginia,Justice_Jim,71,0,Now I want you to look at this.,you,look,.43248746
+WV2022.txt,West Virginia,Justice_Jim,71,0,We need a new lab in West Virginia.,new,lab,.34277543
+WV2022.txt,West Virginia,Justice_Jim,71,0,We absolutely need a new lab and need it really bad.,new,lab,.34277543
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You see, a long time ago, our forefathers, that is what they did.",long,time,.60777843
+WV2022.txt,West Virginia,Justice_Jim,71,0,We have so many different people here.,different,people,.42444476
+WV2022.txt,West Virginia,Justice_Jim,71,0,And you know where she is working?,you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,They are finding out the very thing that I had said to you over and over and over and over.,very,thing,.48817435
+WV2022.txt,West Virginia,Justice_Jim,71,0,Now you all don’t need to just stand there and get your picture taken all night.,you,need,.42427856
+WV2022.txt,West Virginia,Justice_Jim,71,0,"If you would stand, I don't know where you are.",you,stand,.48903406
+WV2022.txt,West Virginia,Justice_Jim,71,0,Let me tell you just this.,tell,this,.55746078
+WV2022.txt,West Virginia,Justice_Jim,71,0,"But in all of that, this border situation has caused a big-time problem.",cause,problem,.55753756
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I want to also thank, for the work in getting them here, Albert Wright at WVU.",get,they,.48274079
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done incredible work.,they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,Stand up where you can see.,you,see,.44675019
+WV2022.txt,West Virginia,Justice_Jim,71,0,It is another real opportunity for West Virginia.,real,opportunity,.43667763
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, our Attorney General is not with us tonight.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,Where on God's Earth did that come from?,that,come,.54646689
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We need to solicit all the good ideas, we need to work through all the good ideas.",good,idea,.58974791
+WV2022.txt,West Virginia,Justice_Jim,71,0,But please give Cathy and all these great people a tremendous round of applause.,tremendous,round,.63203436
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Without any question, these kids really are – have lost their way.",lose,way,.60865903
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Connor was going way, way, way the wrong way.",wrong,way,.49699712
+WV2022.txt,West Virginia,Justice_Jim,71,0,But please give them a big round of applause.,big,round,.39077613
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Give them a big round of applause, please.",big,round,.39077613
+WV2022.txt,West Virginia,Justice_Jim,71,0,"If you could all give them a round of applause, please.",give,round,.47191843
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Toyota has been an incredible partner to West Virginia, have they not?",incredible,partner,.57886785
+WV2022.txt,West Virginia,Justice_Jim,71,0,I want you to think about this.,you,think,.42537254
+WV2022.txt,West Virginia,Justice_Jim,71,0,Build a field and they will come and they didn't.,they,come,.5037818
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, absolutely, it is amazing what great work that our teachers do every day.",teacher,do,.36562225
+WV2022.txt,West Virginia,Justice_Jim,71,0,Conner today is a straight-A student and what he is doing is unbelievable.,do,what,.49853066
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Then along came GreenPower Motor Company, did it not?",company,come,.5300864
+WV2022.txt,West Virginia,Justice_Jim,71,0,Think about what tourism is doing in the state of West Virginia today.,tourism,do,.42781854
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, and they caught some big, big, big fish.",big,fish,.33233407
+WV2022.txt,West Virginia,Justice_Jim,71,0,You all need to leave.,you,need,.42427856
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We've done this to try to retain or recruit, you know, good, good, good people.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,I want you all to look right here.,you,look,.43248746
+WV2022.txt,West Virginia,Justice_Jim,71,0,"In '21, they did 47,000 miles.",do,mile,.48544219
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I hope that you will take that and really, seriously consider both.",take,that,.4916451
+WV2022.txt,West Virginia,Justice_Jim,71,0,"But we cannot do it, we cannot do it disrespectfully, we can't do it throwing rocks at one another.",throw,rock,.41740248
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Last year I came to you and asked you to fund, basically, another secretary, did I not?",ask,you,.49025932
+WV2022.txt,West Virginia,Justice_Jim,71,0,"And so from that standpoint, Babydog tells Bette Midler and all of those out there, kiss her hiney.",tell,midler,.55482435
+WV2022.txt,West Virginia,Justice_Jim,71,0,This is a flow chart that shows the process of getting a contract through our state purchasing department.,that,show,.46555322
+WV2022.txt,West Virginia,Justice_Jim,71,0,"For all practical purposes, nobody would like to come to West Virginia and do business.",do,business,.45658123
+WV2022.txt,West Virginia,Justice_Jim,71,0,We need to commit dollars to locality pay.,locality,pay,.32328674
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We will just do this in silent prayer, but please, please, remember all those we've lost.",do,this,.4782168
+WV2022.txt,West Virginia,Justice_Jim,71,0,We absolutely put ourselves on a pathway and lo and behold it worked.,it,work,.54605693
+WV2022.txt,West Virginia,Justice_Jim,71,0,I expect you to do that with us and absolutely go arm and arm.,you,do,.43781659
+WV2022.txt,West Virginia,Justice_Jim,71,0,I also would tell you something else.,tell,something,.55089623
+WV2022.txt,West Virginia,Justice_Jim,71,0,We’re starting a thing called our Job Jumpstart Program.,start,thing,.52807444
+WV2022.txt,West Virginia,Justice_Jim,71,0,You just can't do it.,do,it,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done great work.,they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,I have been an absolute believer and supporter through and through.,absolute,believer,.59596306
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done great work.,great,work,.52600139
+WV2022.txt,West Virginia,Justice_Jim,71,0,You’re hung up in my jacket – I wanted to tell you just this.,tell,this,.55746078
+WV2022.txt,West Virginia,Justice_Jim,71,0,Chris I saw you just a second ago.,see,you,.44675019
+WV2022.txt,West Virginia,Justice_Jim,71,0,It’ll drive business here.,drive,business,.54501456
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, and they caught some big, big, big fish.",catch,fish,.27693853
+WV2022.txt,West Virginia,Justice_Jim,71,0,Where did it come from?,it,come,.49384934
+WV2022.txt,West Virginia,Justice_Jim,71,0,And I see today that they are backstopping our hospitals and doing everything they can to help us again today.,do,everything,.48860294
+WV2022.txt,West Virginia,Justice_Jim,71,0,"This program really has worked in Oklahoma, you know.",program,work,.45920959
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, we have a Secretary of Tourism, Secretary Ruby, who has done an incredible job.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Get this, you won't believe this, 171 schools, impacting 70,000 kids.",get,this,.56089801
+WV2022.txt,West Virginia,Justice_Jim,71,0,You know what we did?,do,what,.49853066
+WV2022.txt,West Virginia,Justice_Jim,71,0,You will not – there is no way that you could possibly believe this.,believe,this,.56858844
+WV2022.txt,West Virginia,Justice_Jim,71,0,Thank you all so much in every way.,thank,you,.44988889
+WV2022.txt,West Virginia,Justice_Jim,71,0,"This one is, I'll never do it.",do,it,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,But I can tell you that I am extremely grateful that you are allowing me to come late.,tell,you,.52250695
+WV2022.txt,West Virginia,Justice_Jim,71,0,We absolutely need to watch the store every single day.,watch,store,.48277128
+WV2022.txt,West Virginia,Justice_Jim,71,0,I don't know any of us here that could possibly say that it's good stuff.,that,say,.53640699
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I asked you to create the Department of Economic Development, did I not?",ask,you,.49025932
+WV2022.txt,West Virginia,Justice_Jim,71,0,The total investment will be close to 50 million dollars and that’s great.,total,investment,.57487828
+WV2022.txt,West Virginia,Justice_Jim,71,0,Think about what tourism is doing in the state of West Virginia today.,do,what,.49853066
+WV2022.txt,West Virginia,Justice_Jim,71,0,I want to tell you all just this.,tell,this,.55746078
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We are going to give those people 1,500 dollars if they can stay on the job for eight weeks.",give,dollar,.53073716
+WV2022.txt,West Virginia,Justice_Jim,71,0,But please give Cathy and all these great people a tremendous round of applause.,give,cathy,.43430144
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, I haven't seen Joe, but I see Shelley here.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I want to be the greatest Governor you've ever had and I want to be that every, single day.",single,day,.41434297
+WV2022.txt,West Virginia,Justice_Jim,71,0,"When somebody is going the wrong way, I don't believe that you should just pamper them.",wrong,way,.49699712
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Shelley, thank you so much for coming and everything in every way.",thank,you,.44988889
+WV2022.txt,West Virginia,Justice_Jim,71,0,And she recognized that this kid was a bright kid but on the wrong path.,bright,kid,.44848144
+WV2022.txt,West Virginia,Justice_Jim,71,0,These people do incredible work.,incredible,work,.58247775
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Babydog’s has talked to the dog and the dog loves it, too.",dog,love,.31481329
+WV2022.txt,West Virginia,Justice_Jim,71,0,Build a field and they will come and they didn't.,they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, absolutely, it is amazing what great work that our teachers do every day.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,Are you all going to bring it out here?,you,go,.51772845
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, and they caught some big, big, big fish.",they,catch,.52893436
+WV2022.txt,West Virginia,Justice_Jim,71,0,I don't know any of us here that could possibly say that it's good stuff.,good,stuff,.37635976
+WV2022.txt,West Virginia,Justice_Jim,71,0,So we got – we’ve got to make a decision.,make,decision,.62323725
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Now, let me just tell you this.",tell,this,.55746078
+WV2022.txt,West Virginia,Justice_Jim,71,0,We don't need people in our state hungry.,need,people,.34368208
+WV2022.txt,West Virginia,Justice_Jim,71,0,"She’s a long-time educator, and she’s now working with Communities In Schools.",long,time,.60777843
+WV2022.txt,West Virginia,Justice_Jim,71,0,"But we cannot do it, we cannot do it disrespectfully, we can't do it throwing rocks at one another.",it,throw,.48794708
+WV2022.txt,West Virginia,Justice_Jim,71,0,We had so many industrial sites that were just mothballed all over kingdom come.,industrial,site,.3463552
+WV2022.txt,West Virginia,Justice_Jim,71,0,I’ve seen them through all this pandemic.,see,they,.41878241
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I want you to really just bear with me just one second, and just know this.",know,this,.51429754
+WV2022.txt,West Virginia,Justice_Jim,71,0,But they are all picking West Virginia.,pick,virginia,.59284532
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You talk about people that are running to the fire, they surely have.",you,talk,.54055506
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Last but not least, this gentleman right here, surely deserves a ton of credit.",gentleman,deserve,.38153246
+WV2022.txt,West Virginia,Justice_Jim,71,0,Brian is an eighth grade teacher that teaches West Virginia studies at the Milton Middle School in Cabell County.,eighth,grade,.57684189
+WV2022.txt,West Virginia,Justice_Jim,71,0,It'll drive so many things here.,many,thing,.50154966
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You talk about people that are running to the fire, they surely have.",that,run,.5599063
+WV2022.txt,West Virginia,Justice_Jim,71,0,"In 2020, they did 39,000.",they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,"And that’s gonna be bad, isn't it?",that,gon,.40935284
+WV2022.txt,West Virginia,Justice_Jim,71,0,We thank them and thank them from the bottom of my heart.,thank,they,.41226071
+WV2022.txt,West Virginia,Justice_Jim,71,0,Thank you for all you have done.,thank,you,.44988889
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I’ve seen this, you know, where really smart business people tried to do just this.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,And they need them really bad.,they,need,.4557862
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Now, I want to just touch on one other thing real quick.",other,thing,.49581084
+WV2022.txt,West Virginia,Justice_Jim,71,0,That’s really good stuff.,good,stuff,.37635976
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Over and over and over, it is killing people in West Virginia right now.",kill,people,.30716562
+WV2022.txt,West Virginia,Justice_Jim,71,0,"If you could all give them a round of applause, please.",you,give,.46997485
+WV2022.txt,West Virginia,Justice_Jim,71,0,I'll promise you we have the chance to do just exactly that.,do,that,.47875604
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Years ago, now I’ve seen this, I’ve seen this so many times.",see,this,.50264966
+WV2022.txt,West Virginia,Justice_Jim,71,0,We absolutely put ourselves on a pathway and lo and behold it worked.,put,ourselves,.55020052
+WV2022.txt,West Virginia,Justice_Jim,71,0,I know the very reason that I ran for Governor.,run,that,.5599063
+WV2022.txt,West Virginia,Justice_Jim,71,0,Also a really important fellow I want to thank – there is Chris Beam.,important,fellow,.4095391
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We are going to give those people 1,500 dollars if they can stay on the job for eight weeks.",they,stay,.49215046
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You may think, ""Well, that didn't mean anything.",you,think,.42537254
+WV2022.txt,West Virginia,Justice_Jim,71,0,I told you I'd make you smile.,you,smile,.41267779
+WV2022.txt,West Virginia,Justice_Jim,71,0,I’d like you to do this.,do,this,.4782168
+WV2022.txt,West Virginia,Justice_Jim,71,0,"And you know, I am going to probably get in trouble about this, but I will just get in trouble.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I told you a few minutes ago, I am your proudest frog.",proudest,frog,.43443623
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I asked you to create the Department of Economic Development, did I not?",create,department,.4578605
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We've done this to try to retain or recruit, you know, good, good, good people.",good,people,.39958286
+WV2022.txt,West Virginia,Justice_Jim,71,0,"For all practical purposes, nobody would like to come to West Virginia and do business.",practical,purpose,.40423253
+WV2022.txt,West Virginia,Justice_Jim,71,0,But they are all picking West Virginia.,they,pick,.55550212
+WV2022.txt,West Virginia,Justice_Jim,71,0,I also want to propose a bill to make computer programming and coding classes mandatory in middle and high school.,programming,mandatory,.40816483
+WV2022.txt,West Virginia,Justice_Jim,71,0,It’ll drive business here.,it,drive,.46698755
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Tonight, I want to propose really three different things.",propose,thing,.4705568
+WV2022.txt,West Virginia,Justice_Jim,71,0,It goes all of the way over here.,go,all,.55436707
+WV2022.txt,West Virginia,Justice_Jim,71,0,I want to just tell you from my heart some really important stuff to me.,tell,stuff,.47638783
+WV2022.txt,West Virginia,Justice_Jim,71,0,These people do incredible work.,people,do,.39191324
+WV2022.txt,West Virginia,Justice_Jim,71,0,So thank you so much.,thank,you,.44988889
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We will just do this in silent prayer, but please, please, remember all those we've lost.",remember,those,.35886267
+WV2022.txt,West Virginia,Justice_Jim,71,0,They told every bad joke in the world about us.,they,tell,.48237106
+WV2022.txt,West Virginia,Justice_Jim,71,0,We’ve got our people that need that.,need,that,.48756742
+WV2022.txt,West Virginia,Justice_Jim,71,0,"And I want you to imagine, that was created so we would – we would not waste.",you,imagine,.47725281
+WV2022.txt,West Virginia,Justice_Jim,71,0,We absolutely have so many things to be thankful for.,many,thing,.50154966
+WV2022.txt,West Virginia,Justice_Jim,71,0,You’re hung up in my jacket – I wanted to tell you just this.,tell,you,.52250695
+WV2022.txt,West Virginia,Justice_Jim,71,0,"If you all would stand up, please give them a round of applause.",give,round,.47191843
+WV2022.txt,West Virginia,Justice_Jim,71,0,We absolutely need to watch the store every single day.,single,day,.41434297
+WV2022.txt,West Virginia,Justice_Jim,71,0,Where in the world did it come from?,it,come,.49384934
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I haven't seen any of our congressmen or congresswomen, but I thank them from the bottom of my heart.",thank,they,.41226071
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I encourage all of you, we absolutely looked after the store as we possibly could with the CARES money.",encourage,all,.62274343
+WV2022.txt,West Virginia,Justice_Jim,71,0,"But we cannot do it, we cannot do it disrespectfully, we can't do it throwing rocks at one another.",do,it,.46025267
+WV2022.txt,West Virginia,Justice_Jim,71,0,And they need them really bad.,they,bad,.39648309
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I want to just end by just saying this: We’re getting through a pandemic, are we not?",say,this,.54050738
+WV2022.txt,West Virginia,Justice_Jim,71,0,I'll promise you we have the chance to do just exactly that.,promise,you,.50765008
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We need to solicit all the good ideas, we need to work through all the good ideas.",solicit,idea,.41458148
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I’ve seen this, you know, where really smart business people tried to do just this.",do,this,.4782168
+WV2022.txt,West Virginia,Justice_Jim,71,0,I want to recognize my team through this.,recognize,team,.40913704
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Years ago, now I’ve seen this, I’ve seen this so many times.",many,time,.54251564
+WV2022.txt,West Virginia,Justice_Jim,71,0,Steve has done absolutely wonders and Steve and I bingo off on one another like you can imagine.,do,wonder,.46296033
+WV2022.txt,West Virginia,Justice_Jim,71,0,You can absolutely do greatness more and more and more to come.,you,do,.43781659
+WV2022.txt,West Virginia,Justice_Jim,71,0,Build a field and they will come and they didn't.,build,field,.45949683
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I absolutely promise you with all my soul that I couldn't believe what happened, to tell you the truth.",promise,you,.50765008
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know they went fishing, did they not?",they,do,.45243168
+WV2022.txt,West Virginia,Justice_Jim,71,0,"I’ve seen this, you know, where really smart business people tried to do just this.",people,try,.3741011
+WV2022.txt,West Virginia,Justice_Jim,71,0,We thank them and thank them from the bottom of my heart.,thank,they,.41226071
+WV2022.txt,West Virginia,Justice_Jim,71,0,I know the very reason that I ran for Governor.,know,reason,.50019842
+WV2022.txt,West Virginia,Justice_Jim,71,0,You just can't do it.,you,do,.43781659
+WV2022.txt,West Virginia,Justice_Jim,71,0,"So with all of that, I would say to you just this, I have got one more thing.",say,this,.54050738
+WV2022.txt,West Virginia,Justice_Jim,71,0,I have never wanted anything.,want,anything,.46667817
+WV2022.txt,West Virginia,Justice_Jim,71,0,"We have added 85,896 new acres in West Virginia.",new,acre,.40098625
+WV2022.txt,West Virginia,Justice_Jim,71,0,"There are so many people that depend on us, it is unbelievable.",many,people,.40081227
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Now, Drew, if you can hand me Babydog.",you,hand,.5161894
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done incredible work.,incredible,work,.58247775
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, you have gone fishing.",you,know,.47417736
+WV2022.txt,West Virginia,Justice_Jim,71,0,We said we weren't going to stop until we had broadband in every single house in this state.,single,house,.42068702
+WV2022.txt,West Virginia,Justice_Jim,71,0,I frankly don't like this either.,like,this,.50999171
+WV2022.txt,West Virginia,Justice_Jim,71,0,It is really the other way around.,other,way,.52760863
+WV2022.txt,West Virginia,Justice_Jim,71,0,And to focus on job recruitment into our great state.,great,state,.53528708
+WV2022.txt,West Virginia,Justice_Jim,71,0,We’re not going to do that.,do,that,.47875604
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, absolutely, it is amazing what great work that our teachers do every day.",great,work,.52600139
+WV2022.txt,West Virginia,Justice_Jim,71,0,But you all watch what is going on in Washington all the time.,you,watch,.4640156
+WV2022.txt,West Virginia,Justice_Jim,71,0,I never wanted a thing.,want,thing,.43630442
+WV2022.txt,West Virginia,Justice_Jim,71,0,This is a flow chart that shows the process of getting a contract through our state purchasing department.,show,process,.4690944
+WV2022.txt,West Virginia,Justice_Jim,71,0,"Again, and I mean it, I give the credit to the good Lord.",mean,it,.45486042
+WV2022.txt,West Virginia,Justice_Jim,71,0,"You know, I haven't seen Joe, but I see Shelley here.",see,shelley,.4080168
+WV2022.txt,West Virginia,Justice_Jim,71,0,They have done so much so many different times.,do,time,.44429615

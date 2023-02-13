@@ -1,0 +1,362 @@
+filename,st_name,speaker,age,gender,text,arg0,arg1,metaphor_score
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"We’re not only bringing jobs, we’re bringing high-speed broadband.",bring,broadband,.60785055
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we’re going to bring business efficiency to government bureaucracy.,bring,efficiency,.69984853
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But we need to provide more funding for our police departments.,more,funding,.65566975
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Unelected political appointees lowered standards which inevitably led to a decline in student performance.,which,lead,.58274442
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We are going to be better prepared for weather events that strain our highways and the electric grid.,electric,grid,.44221917
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"She’s a Wise County Deputy Sheriff who even after losing her husband, insisted on returning to serve.",lose,husband,.5522694
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,For we all share a common goal to leave a better Virginia for our children.,leave,virginia,.54521614
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Let’s train educators to see the signs of trafficking.,see,sign,.40852123
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Schools exist for the educational benefit of children, and for that reason they must remain open.",school,exist,.35088733
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The good news is that we have the ability to course-correct before this poor performance becomes permanent.,performance,become,.69792998
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,To form a government that works for ordinary citizens.,ordinary,citizen,.33518317
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Our fight against COVID-19 will move forward based on this simple principle we will protect lives and livelihoods.,fight,move,.53356588
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And perhaps we’ll get one of those too.,get,one,.49369994
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The good news is that we have the ability to course-correct before this poor performance becomes permanent.,good,news,.45347893
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Every governor for the last decade has stood in this chamber and told you that rural broadband was a priority.,rural,broadband,.67666554
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Every governor for the last decade has stood in this chamber and told you that rural broadband was a priority.,tell,you,.52250695
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And my administration will dedicate itself to protecting and promoting it as a core principle of our service.,dedicate,itself,.59385961
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"You see, that’s where families talk about what matters to them.",you,see,.44675019
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Let’s also involve local law enforcement agencies in the approval of school safety audits.,local,agency,.3759861
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Natasha knows what life is like in other parts of the world.,natasha,know,.41859135
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Thank you, God bless you, and may God bless the Commonwealth of Virginia.",bless,commonwealth,.55043268
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"We’re not only bringing jobs, we’re bringing high-speed broadband.",high,speed,.53336763
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,He gave his life in service to freedom.,give,life,.56422216
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I’ve enjoyed getting to know so many of the members of these two legislative bodies both Republicans and Democrats.,know,many,.46799678
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Every governor for the last decade has stood in this chamber and told you that rural broadband was a priority.,last,decade,.54724962
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Not inadequate funding which creates more lawlessness.,which,create,.53204209
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And to be working with you to build a future of limitless opportunity and strengthen the spirit of Virginia.,build,future,.54510707
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,One of which – Barrett – led us in the pledge of allegiance on Saturday.,one,lead,.52732581
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But Washington continues to fiddle in the face of real supply chain challenges.,washington,continue,.51177478
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’ve shared meals together.,share,meal,.40197006
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Anyone who wears the uniform risks their life each day on the job.,anyone,risk,.31011
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Unelected political appointees lowered standards which inevitably led to a decline in student performance.,political,appointee,.44355497
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Anyone who wears the uniform risks their life each day on the job.,who,wear,.38002303
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But only in localities that are increasing funding for their police departments.,increase,funding,.60735363
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Please join me in welcoming these future Virginia leaders to our commonwealth’s capitol.,future,leader,.43575653
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Almost all expressed a desire for a Virginia worthy of the ambitions of its people.,express,desire,.4939245
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Because she has lived the ideals of this great land.,great,land,.57497233
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The means by which all children and their parents can realize their greatest dreams.,great,dream,.55598819
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Unelected political appointees lowered standards which inevitably led to a decline in student performance.,unelected,appointee,.53975672
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"As I travel Virginia, I remain in awe of the raw natural beauty of our Commonwealth.",raw,beauty,.60957062
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those of us who live in the freedom they so valiantly protect must live lives worthy of their sacrifice.,protect,freedom,.79013622
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we’re going to win the competition for jobs and corporate re-locations.,win,competition,.62096566
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"I strongly encourage everyone to get vaccinated for Covid-19, and get the booster.",encourage,everyone,.49178627
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"You see, that’s where families talk about what matters to them.",family,talk,.43015921
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We also need to give Virginians a real break on their personal income tax by doubling the standard deduction.,real,break,.56802201
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,It also means the science since the beginning of the pandemic has not been static.,it,mean,.45486042
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Together, we will give Virginians real relief.",give,relief,.45046487
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Natasha represents the best of America.,represent,good,.61187989
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Our fight against COVID-19 will move forward based on this simple principle we will protect lives and livelihoods.,protect,life,.7371909
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But speaking to you as a friend and a neighbor I strongly encourage you to get the vaccine.,get,vaccine,.39647394
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Please join me in recognizing the sacrifice that her husband, Michael, made on our behalf.",make,that,.55786943
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They do it because service is in their blood.,do,it,.46025267
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They came out in record numbers to make their voice heard.,they,come,.5037818
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I’ll admit I’ve never run a government agency.,run,agency,.45487311
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We now have therapeutics better testing protocols and fortunately a less severe variant.,well,protocol,.535209
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The means by which all children and their parents can realize their greatest dreams.,child,realize,.36350605
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,For we all share a common goal to leave a better Virginia for our children.,share,goal,.37991974
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And that addresses the kitchen table concerns of working families that are real and mounting.,address,concern,.38703862
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The data is clear people who do not get the vaccine are four times as likely to be hospitalized.,clear,people,.59499025
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And this includes police officers, firefighters, EMTs, every first responder that keeps us safe.",this,include,.53568274
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Set aside ego and self-advancement.,set,ego,.62426287
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The mountains, waterways, beaches, parks, farm land, livestock, vineyards, and natural resources testify to our Creator’s artistry.",natural,resource,.4647882
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Anyone who wears the uniform risks their life each day on the job.,risk,life,.52296281
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The care and support of our veterans, have always transcended partisan politics.",partisan,politic,.61572087
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’ll also fund community violence intervention by dedicating at least $5 million to Operation Cease Fire.,dedicate,million,.54764092
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And providing the largest tax rebate in Virginia history.,large,rebate,.43484086
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,No more sweeping it under the rug.,sweeping,it,.49699175
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We also need to give Virginians a real break on their personal income tax by doubling the standard deduction.,double,deduction,.75104463
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Pass that bill again and I will sign it.,sign,it,.50911951
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And I asked Attorney General Miyares to begin an investigation into what happened there.,begin,investigation,.52787131
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They see an economy whose growth has stalled at less than 1% per year for 8 years.,see,economy,.62340444
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The means by which all children and their parents can realize their greatest dreams.,realize,dream,.55416757
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Furthermore, I’m asking you to dedicate $26 million in state funding for police departments.",dedicate,million,.54764092
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They came out in record numbers to make their voice heard.,voice,hear,.29172316
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We also need to give Virginians a real break on their personal income tax by doubling the standard deduction.,standard,deduction,.4851279
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Not inadequate funding which creates more lawlessness.,create,lawlessness,.70279521
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we’ll be submitting a package of 25 budget amendments to reflect our bipartisan priorities.,bipartisan,priority,.55195105
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"As we battle covid, its parents that should decide the health measures taken for their children.",that,decide,.52020776
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re going to repeal needless regulations.,repeal,regulation,.29373798
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,For we all share a common goal to leave a better Virginia for our children.,common,goal,.43430194
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And health care workers should get to make those decisions too.,worker,get,.42466474
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I don’t care what we call it I just care that we do it.,do,it,.46025267
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Please, send me the same bill you passed on a bipartisan basis in 2017 and I will sign it.",sign,it,.50911951
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That is why I signed an executive order that allows parents to opt out of mask mandates in schools.,that,allow,.48033732
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Together, we should dedicate $100 million in ARPA funds to a training and equipment grant program for law enforcement.",dedicate,million,.54764092
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,With current and projected tax driven surpluses we can lower the tax burdens on Virginia families.,lower,burden,.71336991
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"As I travel Virginia, I remain in awe of the raw natural beauty of our Commonwealth.",natural,beauty,.57445836
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,There’s bipartisan support for eliminating the grocery tax.,bipartisan,support,.6146037
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,A culture of lawlessness has filled the void in Virginia with violent crime on the rise.,fill,void,.52577519
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Virginians have given us a license to lead.,virginian,give,.47318977
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Every governor for the last decade has stood in this chamber and told you that rural broadband was a priority.,governor,stand,.4900375
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"As we battle covid, its parents that should decide the health measures taken for their children.",decide,measure,.51245624
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,There are economic fundamentals we don’t control in Virginia – that must be dealt with at the federal level.,economic,fundamental,.67183852
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Virginians have given us a license to lead.,give,license,.54472089
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That’s why I appointed a Commonwealth Chief Transformation Officer --- to oversee government transformation.,oversee,transformation,.62526214
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"As I travel Virginia, I remain in awe of the raw natural beauty of our Commonwealth.",travel,virginia,.48442918
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,To build a government as virtuous as our people.,build,government,.37225011
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I deeply treasure the natural beauty of Virginia.,treasure,beauty,.65492851
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That means no more mandates and no more shut downs.,mean,mandate,.49877304
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And to be working with you to build a future of limitless opportunity and strengthen the spirit of Virginia.,strengthen,spirit,.68984711
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,What price would we in this room put on freedom?,put,price,.61297882
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Many living and many who lie in eternal rest.,many,living,.53414309
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And my administration will dedicate itself to protecting and promoting it as a core principle of our service.,administration,dedicate,.4887948
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we are going to see the cleanup of the Chesapeake Bay to the finish line.,see,cleanup,.43600294
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The budget submitted to this General Assembly includes pay raises for troopers, sheriffs’ deputies and corrections officers.",include,raise,.57270485
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Please join me in welcoming these future Virginia leaders to our commonwealth’s capitol.,welcome,leader,.36371601
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I support a significant investment in mega-sites.,significant,investment,.59538782
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They provide access to every child in the school district to attend the collegiate program.,they,provide,.44090375
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Let me state our goal.,state,goal,.54346234
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And that addresses the kitchen table concerns of working families that are real and mounting.,that,address,.49120426
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Schools exist for the educational benefit of children, and for that reason they must remain open.",they,remain,.53828698
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re going to build partnerships between the commonwealth and our great universities to create lab schools of excellence.,build,partnership,.42343175
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Because she has lived the ideals of this great land.,live,ideal,.66776329
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we will marshal our resources to make our infrastructure the most reliable in the nation.,infrastructure,reliable,.516029
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The view from the people, whose labor generates those tax receipts is quite different than the talk in Richmond.",labor,generate,.59811342
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Please join me in recognizing the sacrifice that her husband, Michael, made on our behalf.",recognize,sacrifice,.59760076
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But Washington continues to fiddle in the face of real supply chain challenges.,real,chain,.5958094
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,A culture of lawlessness has filled the void in Virginia with violent crime on the rise.,violent,crime,.47344041
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Coastal resiliency is critical to me.,coastal,resiliency,.75949121
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we will pay teachers as the professionals they are.,pay,teacher,.17460454
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,There are economic fundamentals we don’t control in Virginia – that must be dealt with at the federal level.,federal,level,.46464473
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"In that respect, we shouldn’t misconstrue record revenue for government as economic success for Virginians.",misconstrue,revenue,.4732646
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But only in localities that are increasing funding for their police departments.,that,increase,.53839487
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"It means, educating our friends and neighbors and encouraging them to get the vaccine and the booster.",it,mean,.45486042
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,To form a government that works for ordinary citizens.,that,work,.54598427
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And this includes police officers, firefighters, EMTs, every first responder that keeps us safe.",first,responder,.43531185
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,For some freedom is so precious they would offer everything in its defense.,offer,everything,.62268013
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They see an economy whose growth has stalled at less than 1% per year for 8 years.,growth,stall,.64160568
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,These tax cuts benefit the people who need it the most.,cut,benefit,.73914206
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"My friends in this esteemed legislature, I’m inspired to be with you this afternoon.",esteemed,legislature,.66834211
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,With current and projected tax driven surpluses we can lower the tax burdens on Virginia families.,current,surplus,.59742409
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"As of today, we’ve worked with legislators to introduce 59 pieces of legislation to tackle our day one agenda.",tackle,agenda,.70061457
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Many living and many who lie in eternal rest.,eternal,rest,.64964956
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,You don’t have to look too far to find examples of that spirit among the people of Virginia.,find,example,.49145666
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,To form a government that works for ordinary citizens.,form,government,.68622667
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those of us who live in the freedom they so valiantly protect must live lives worthy of their sacrifice.,live,life,.67884892
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Natasha is also watching today.,natasha,watch,.37641308
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And my administration will dedicate itself to protecting and promoting it as a core principle of our service.,promote,it,.52542633
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And provide capital funding for a new state police training facility.,provide,funding,.39710328
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Or a partnership with Old Dominion University for opportunities in offshore wind development or maritime projects.,offshore,wind,.39837858
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"It means, educating our friends and neighbors and encouraging them to get the vaccine and the booster.",encourage,they,.50832641
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Today, I want to speak to that vision and begin our partnership to address the priorities of the people.",begin,partnership,.5507403
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,These tax cuts benefit the people who need it the most.,who,need,.35375535
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"As of today, we’ve worked with legislators to introduce 59 pieces of legislation to tackle our day one agenda.",tackle,day,.74074298
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"I strongly encourage everyone to get vaccinated for Covid-19, and get the booster.",get,booster,.44443855
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And some spoke bluntly maybe a little too bluntly at times.,some,speak,.57371771
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That means no more mandates and no more shut downs.,shut,down,.55145818
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The solution is constructive engagement and dialogue.,constructive,engagement,.3653492
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And therefore, I’m asking you to fund our police to protect our communities.",protect,community,.57701284
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I come here today to echo their clarion call for change.,echo,call,.49596292
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those of us who live in the freedom they so valiantly protect must live lives worthy of their sacrifice.,those,live,.43338755
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And allows our nation to be overly-reliant on China for critical goods and services.,critical,good,.62121701
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Virginia parents want our history – all of our history, the good and the bad to be taught.",want,history,.53534985
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But there is one vital thing we can do to help Virginians.,help,virginians,.5557372
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Let’s eliminate the tax on the first $40,000 in military retirement pay together.",eliminate,tax,.77861708
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And health care workers should get to make those decisions too.,make,decision,.62323725
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That’s why I appointed a Commonwealth Chief Transformation Officer --- to oversee government transformation.,appoint,officer,.42544204
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And provide capital funding for a new state police training facility.,new,facility,.36973977
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those of us who live in the freedom they so valiantly protect must live lives worthy of their sacrifice.,who,live,.37189975
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They chose a new vision for the future.,choose,vision,.53462166
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We will protect all of them.,protect,all,.59075785
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Some cried on my shoulders.,some,cry,.46679574
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"It means, educating our friends and neighbors and encouraging them to get the vaccine and the booster.",educate,friend,.33913019
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,She is an example of humility and strength not just to our children but to women across this great commonwealth.,great,commonwealth,.5625602
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Please, send me the same bill you passed on a bipartisan basis in 2017 and I will sign it.",you,pass,.52722144
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Furthermore, we will be innovative in leveraging federal transportation funds to address the challenges of growth and gridlock.",leverage,fund,.48763037
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re also going to make certain that key projects at our ports and our highways are completed.,key,project,.52350861
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,To build a government as virtuous as our people.,virtuous,government,.40271714
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That’s why we should not use inherently divisive concepts like Critical Race Theory in Virginia.,use,concept,.48799729
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Please, send me the same bill you passed on a bipartisan basis in 2017 and I will sign it.",bipartisan,basis,.61040854
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,You have invited me to your homes.,you,invite,.57241994
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Please join me in recognizing the sacrifice that her husband, Michael, made on our behalf.",husband,make,.57820445
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,These tax cuts benefit the people who need it the most.,need,it,.45943782
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We will attract quality professionals to Virginia schools.,attract,professional,.38974753
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,For some freedom is so precious they would offer everything in its defense.,they,offer,.46236581
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And providing the largest tax rebate in Virginia history.,provide,rebate,.27373552
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those are strong first steps I know we all support.,strong,step,.54568291
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The budget submitted to this General Assembly includes pay raises for troopers, sheriffs’ deputies and corrections officers.",budget,include,.51263696
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That’s why we will end the dumping of raw sewage in the James River once and for all.,end,dumping,.41395059
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Furthermore, we will be innovative in leveraging federal transportation funds to address the challenges of growth and gridlock.",federal,fund,.32163456
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They have charged us all to deliver on a Day One agenda.,they,charge,.52431571
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re in a fractious era and no group of individuals is under greater scrutiny today than our law enforcement.,great,scrutiny,.58224118
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We now have therapeutics better testing protocols and fortunately a less severe variant.,severe,variant,.33739129
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re going to repeal needless regulations.,needless,regulation,.57412606
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And therefore, I’m asking you to fund our police to protect our communities.",fund,police,.35994291
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I want to share with you something that we’ve all heard from voters.,hear,that,.44747278
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I met a veteran of our military on the campaign trail by the name of Natasha Barijon (BEAR-ee-un).,meet,veteran,.54545939
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The classroom environment must be safe, so children can learn.",child,learn,.27375749
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Unelected political appointees lowered standards which inevitably led to a decline in student performance.,lower,standard,.5073266
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That means no more mandates and no more shut downs.,more,mandate,.64901221
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And when it comes to lawlessness, I want to be crystal clear.",it,come,.49384934
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,This is a matter of individual liberty.,individual,liberty,.68543702
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"As of today, we’ve worked with legislators to introduce 59 pieces of legislation to tackle our day one agenda.",introduce,piece,.48262885
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But there is one vital thing we can do to help Virginians.,vital,thing,.5650236
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And join together to make this Virginia we love better, stronger, freer.",make,virginia,.58701503
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They have an innovative curriculum.,innovative,curriculum,.49009877
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They see an economy whose growth has stalled at less than 1% per year for 8 years.,they,see,.41878241
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And while we’re at it let’s broaden the baseball stadium authority to include football.,include,football,.51459771
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And why we should not be teaching our children to see everything through the lens of race.,teach,child,.35539895
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I don’t care what we call it I just care that we do it.,call,what,.52463877
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The care and support of our veterans, have always transcended partisan politics.",transcend,politic,.6911661
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those of us who live in the freedom they so valiantly protect must live lives worthy of their sacrifice.,they,protect,.51114142
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And speaking to you as your Governor, I’ll never tell you what you must do.",you,do,.43781659
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"She’s a Wise County Deputy Sheriff who even after losing her husband, insisted on returning to serve.",who,insist,.41257158
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,With household incomes stagnating over the last year --- as the cost of living has sky-rocketed.,last,year,.50250727
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Thank you, God bless you, and may God bless the Commonwealth of Virginia.",bless,you,.57595164
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Or a partnership with Old Dominion University for opportunities in offshore wind development or maritime projects.,maritime,development,.51451594
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,As well as the fact that the work you do here has great consequence for the people of Virginia.,great,consequence,.51019198
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those who risk life and limb for country and community don’t do it for the pay.,those,do,.44363233
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That is why I signed an executive order that allows parents to opt out of mask mandates in schools.,executive,order,.66752577
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And this includes police officers, firefighters, EMTs, every first responder that keeps us safe.",that,keep,.57614261
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Thank you, God bless you, and may God bless the Commonwealth of Virginia.",god,bless,.65857083
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They provide access to every child in the school district to attend the collegiate program.,attend,program,.37269384
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We are going to be better prepared for weather events that strain our highways and the electric grid.,strain,highway,.57473421
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Thank you, God bless you, and may God bless the Commonwealth of Virginia.",god,bless,.65857083
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"On Saturday, I fired the entire parole board.",fire,board,.31870046
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We will not accept selective violations of our constitutional rights.,selective,violation,.46283543
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The work we have to do, we must do together.",do,work,.4275167
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we’ll be submitting a package of 25 budget amendments to reflect our bipartisan priorities.,submit,package,.3591184
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those who risk life and limb for country and community don’t do it for the pay.,risk,life,.52296281
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I want our rural Virginians to know we’re spreading prosperity far and wide.,virginians,know,.4754276
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Let’s eliminate the tax on the first $40,000 in military retirement pay together.",military,retirement,.56649762
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And that every member in this chamber can get behind.,member,get,.45715824
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We must also recognize that the people most responsible for a child’s education are parents.,responsible,people,.34789172
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Furthermore, we will be innovative in leveraging federal transportation funds to address the challenges of growth and gridlock.",address,challenge,.47157633
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And he left behind a wife, Megan, and five children.",he,leave,.5769254
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That’s why we should not use inherently divisive concepts like Critical Race Theory in Virginia.,divisive,concept,.70690066
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And why we should not be teaching our children to see everything through the lens of race.,see,everything,.54257321
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And speaking to you as your Governor, I’ll never tell you what you must do.",tell,you,.52250695
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Furthermore, I’m asking you to dedicate $26 million in state funding for police departments.",ask,you,.49025932
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And more funding for training and equipment.,more,funding,.65566975
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Together, we will give Virginians real relief.",real,relief,.43975699
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The data is clear people who do not get the vaccine are four times as likely to be hospitalized.,who,get,.41521919
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Green Run Collegiate shares a facility with Green Run High School.,share,facility,.52796113
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Today, I want to speak to that vision and begin our partnership to address the priorities of the people.",address,priority,.36469162
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Anyone who wears the uniform risks their life each day on the job.,wear,uniform,.20707837
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re in a fractious era and no group of individuals is under greater scrutiny today than our law enforcement.,fractious,era,.82124084
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They do it because service is in their blood.,they,do,.45243168
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"On Saturday, I fired the entire parole board.",entire,board,.38009143
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"In that respect, we shouldn’t misconstrue record revenue for government as economic success for Virginians.",economic,success,.58289164
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,A culture of lawlessness has filled the void in Virginia with violent crime on the rise.,culture,fill,.64817983
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’ll also fund community violence intervention by dedicating at least $5 million to Operation Cease Fire.,fund,intervention,.30775219
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Virginia schools have a lofty reputation.,lofty,reputation,.61605531
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,It also means the science since the beginning of the pandemic has not been static.,mean,science,.57882231
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But speaking to you as a friend and a neighbor I strongly encourage you to get the vaccine.,encourage,you,.52144903
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we’re going to win the competition for jobs and corporate re-locations.,win,location,.64686549
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"To do that, I’m asking each of us in this body Republican and Democrat alike to come together.",ask,each,.45758602
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They provide access to every child in the school district to attend the collegiate program.,collegiate,program,.45609218
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Unelected political appointees lowered standards which inevitably led to a decline in student performance.,appointee,lower,.55623698
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Please, send me the same bill you passed on a bipartisan basis in 2017 and I will sign it.",send,bill,.49622571
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We also need to give Virginians a real break on their personal income tax by doubling the standard deduction.,personal,tax,.37957215
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And he left behind a wife, Megan, and five children.",leave,wife,.5813266
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We are going to be better prepared for weather events that strain our highways and the electric grid.,that,strain,.5645355
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We know on some issues there’ll be deep disagreement.,deep,disagreement,.88050395
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"To do that, I’m asking each of us in this body Republican and Democrat alike to come together.",do,that,.47875604
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those are strong first steps I know we all support.,first,step,.48808429
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,These tax cuts benefit the people who need it the most.,benefit,people,.32582441
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Many living and many who lie in eternal rest.,many,living,.53414309
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,As I said on Saturday it means Virginia is open for business.,it,mean,.45486042
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The care and support of our veterans, have always transcended partisan politics.",care,transcend,.60466516
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I’ve enjoyed getting to know so many of the members of these two legislative bodies both Republicans and Democrats.,legislative,body,.65131176
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Natasha knows what life is like in other parts of the world.,other,part,.50963819
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That’s why I’m asking this General Assembly to act on something long talked about.,ask,assembly,.4386144
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those of us who live in the freedom they so valiantly protect must live lives worthy of their sacrifice.,worthy,life,.55243164
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re going to build partnerships between the commonwealth and our great universities to create lab schools of excellence.,great,university,.49952343
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"We’re not only bringing jobs, we’re bringing high-speed broadband.",bring,job,.5290463
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Many living and many who lie in eternal rest.,who,lie,.34518039
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we won’t make supply chain problems worse with regulatory red tape.,red,tape,.27417582
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those who risk life and limb for country and community don’t do it for the pay.,who,risk,.31162855
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we won’t make supply chain problems worse with regulatory red tape.,regulatory,tape,.57710505
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Because she has lived the ideals of this great land.,she,live,.49946392
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"This is a real competition, and to win, we have to “play to win.",real,competition,.51901191
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Natasha represents the best of America.,natasha,represent,.43873063
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The good news is that we have the ability to course-correct before this poor performance becomes permanent.,poor,performance,.66214001
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And to be working with you to build a future of limitless opportunity and strengthen the spirit of Virginia.,limitless,opportunity,.6225152
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Let’s stop cheating our kids.,cheat,kid,.38921738
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"She is the best partner I could ever imagine our First Lady, Suzanne Youngkin.",good,partner,.57286149
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we’re going to win the competition for jobs and corporate re-locations.,corporate,re,.5314284
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And join together to make this Virginia we love better, stronger, freer.",make,free,.60392863
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And therefore, I’m asking you to fund our police to protect our communities.",ask,you,.49025932
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,It’s been said that all great change starts at kitchen tables across America.,change,start,.64409405
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we’ll be submitting a package of 25 budget amendments to reflect our bipartisan priorities.,reflect,priority,.50956738
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And this includes police officers, firefighters, EMTs, every first responder that keeps us safe.",include,officer,.35212755
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"You see, that’s where families talk about what matters to them.",what,matter,.60157955
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,He gave his life in service to freedom.,he,give,.47740933
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Our fight against COVID-19 will move forward based on this simple principle we will protect lives and livelihoods.,simple,principle,.56909221
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,The good news is that we have the ability to course-correct before this poor performance becomes permanent.,correct,ability,.41154611
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re going to foster innovation.,foster,innovation,.6765697
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But we need to provide more funding for our police departments.,provide,funding,.39710328
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Green Run Collegiate shares a facility with Green Run High School.,collegiate,share,.39394727
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And they want their children to be told how to think, not what to think.",they,want,.43335596
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Those who risk life and limb for country and community don’t do it for the pay.,do,it,.46025267
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I’m also calling for $150 million to help us meet our goal of starting 20 new charter schools.,start,school,.55985457
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,As well as the fact that the work you do here has great consequence for the people of Virginia.,you,do,.43781659
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Please, send me the same bill you passed on a bipartisan basis in 2017 and I will sign it.",same,bill,.36655402
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We don’t get to pick and choose the parts of the Constitution we want to preserve and protect.,choose,part,.57653219
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Please join me in recognizing her service to our country and her dreams for her daughter.,recognize,service,.46148884
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The mountains, waterways, beaches, parks, farm land, livestock, vineyards, and natural resources testify to our Creator’s artistry.",mountain,testify,.57782924
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But I know something about running a business.,run,business,.51577795
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They provide access to every child in the school district to attend the collegiate program.,provide,access,.36563128
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That means no more mandates and no more shut downs.,that,mean,.45433381
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That’s why we will end the dumping of raw sewage in the James River once and for all.,raw,sewage,.30486757
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,She inspired me to live a life of faith as a younger man.,live,life,.67884892
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Our Day One Plan will jump-start jobs.,plan,jump,.53395057
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Not inadequate funding which creates more lawlessness.,inadequate,funding,.60416019
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And that is remove some of the tax burden --- added on top of rising prices for groceries, gasoline and housing.",remove,some,.48054516
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And there is more that binds us than divides us.,that,bind,.54641533
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re addressing issues that are critical to the future of this commonwealth.,address,issue,.37638795
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They chose a new vision for the future.,new,vision,.54465765
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They chose a new vision for the future.,they,choose,.46705344
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’ve done community service together.,do,service,.41435426
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Not inadequate funding which creates more lawlessness.,more,lawlessness,.69347233
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I want our rural Virginians to know we’re spreading prosperity far and wide.,spread,prosperity,.87375599
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And while we’re at it let’s broaden the baseball stadium authority to include football.,broaden,authority,.4702304
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Parents deserve to know if their child is at risk.,parent,deserve,.42101759
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we won’t make supply chain problems worse with regulatory red tape.,problem,bad,.35133314
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,She inspired me to live a life of faith as a younger man.,young,man,.4004676
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And we will marshal our resources to make our infrastructure the most reliable in the nation.,marshal,resource,.48076239
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I support a significant investment in mega-sites.,support,investment,.69205636
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I listened to their hopes and concerns their dreams and fears.,concern,dream,.48433155
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I’m also calling for $150 million to help us meet our goal of starting 20 new charter schools.,meet,goal,.58488804
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Thank you, God bless you, and may God bless the Commonwealth of Virginia.",thank,you,.44988889
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And speaking to you as your Governor, I’ll never tell you what you must do.",do,what,.49853066
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"As we battle covid, its parents that should decide the health measures taken for their children.",battle,parent,.34187225
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Let’s train educators to see the signs of trafficking.,train,educator,.14249195
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I want to share with you something that we’ve all heard from voters.,share,something,.51616591
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I deeply treasure the natural beauty of Virginia.,natural,beauty,.57445836
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,It’s been said that all great change starts at kitchen tables across America.,great,change,.60641223
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Pass that bill again and I will sign it.,pass,bill,.36898208
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I’ve heard the concerns of parents about curriculum.,hear,concern,.35730636
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Our Day One Plan will jump-start jobs.,jump,job,.48857793
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,This time we’re going to get it done.,it,do,.46025267
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,It’s time to take down the temperature around discussions of policing.,take,temperature,.55682462
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"It means, educating our friends and neighbors and encouraging them to get the vaccine and the booster.",get,vaccine,.39647394
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We now have therapeutics better testing protocols and fortunately a less severe variant.,therapeutic,protocol,.34880307
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We will not accept selective violations of our constitutional rights.,constitutional,right,.71306908
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And let me be clear, I believe in the fundamental right to work.",fundamental,right,.56158364
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,She’s watching this afternoon.,she,watch,.42040449
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Virginia parents want our history – all of our history, the good and the bad to be taught.",parent,want,.34428793
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And I thank you for that.,thank,you,.44988889
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,There’s bipartisan support for eliminating the grocery tax.,eliminate,tax,.77861708
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And that is remove some of the tax burden --- added on top of rising prices for groceries, gasoline and housing.",that,remove,.56765306
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Almost all expressed a desire for a Virginia worthy of the ambitions of its people.,all,express,.53044289
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We also need to give Virginians a real break on their personal income tax by doubling the standard deduction.,give,break,.48859391
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,Let’s also involve local law enforcement agencies in the approval of school safety audits.,involve,agency,.42602202
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We’re going to build partnerships between the commonwealth and our great universities to create lab schools of excellence.,create,school,.53040785
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,They’re thriving and their parents are thrilled.,they,thrive,.60399604
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That is why I signed an executive order that allows parents to opt out of mask mandates in schools.,parent,opt,.38189411
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Virginia parents want our history – all of our history, the good and the bad to be taught.",bad,good,.44993681
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Whether they’re called charter schools, lab schools, or schools of innovation – it doesn’t really matter.",it,matter,.48766705
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,I’m also calling for $150 million to help us meet our goal of starting 20 new charter schools.,new,school,.45502684
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,She inspired me to live a life of faith as a younger man.,she,inspire,.46872342
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,That is why I signed an executive order that allows parents to opt out of mask mandates in schools.,sign,order,.52041084
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"And they want their children to be told how to think, not what to think.",think,what,.51415354
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,But I know something about running a business.,know,something,.48500755
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"In Virginia, we are going to build roads, bridges, rail lines and utility lines.",build,road,.57069713
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"She is the best partner I could ever imagine our First Lady, Suzanne Youngkin.",imagine,lady,.49207708
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,We will not accept selective violations of our constitutional rights.,accept,violation,.44008797
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"Schools exist for the educational benefit of children, and for that reason they must remain open.",educational,benefit,.46398702
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,And I asked Attorney General Miyares to begin an investigation into what happened there.,what,happen,.46370357
+VA2022.txt,Virginia,Youngkin_Glenn,56,0,"The view from the people, whose labor generates those tax receipts is quite different than the talk in Richmond.",generate,receipt,.49693531

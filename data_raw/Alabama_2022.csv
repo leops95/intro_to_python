@@ -1,0 +1,147 @@
+filename,st_name,speaker,age,gender,text,arg0,arg1,metaphor_score
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Folks, no doubt, the last couple of years have been especially trying for our medical professionals.",couple,try,.53115857
+AL2022.txt,Alabama,Ivey_Kay,78,1,That means being proficient readers by the end of third grade.,third,grade,.55185729
+AL2022.txt,Alabama,Ivey_Kay,78,1,Money isn’t going to fix our problems in education.,money,go,.58211279
+AL2022.txt,Alabama,Ivey_Kay,78,1,"When our federal government overreached, we found a way to fight back.",government,overreach,.32081917
+AL2022.txt,Alabama,Ivey_Kay,78,1,"It is projected that Alabama saw investments totaling $5.4 billion with some 9,000 new jobs created.",see,investment,.58702743
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Thanks to Rebuild Alabama, we are also making improvements to Alabama’s Deepwater Port in Mobile.",make,improvement,.67624313
+AL2022.txt,Alabama,Ivey_Kay,78,1,"This evening, I renew my commitment to you that we will not only continue tackling old problems.",tackle,problem,.62327194
+AL2022.txt,Alabama,Ivey_Kay,78,1,"I’ll call this nonsense what it is, and that is an un-American, outrageous breach of our federal law.",outrageous,breach,.5085966
+AL2022.txt,Alabama,Ivey_Kay,78,1,I’ll say again that these federal dollars are just one-time funds.,federal,dollar,.47200185
+AL2022.txt,Alabama,Ivey_Kay,78,1,"While there are global strains, our automakers – supported by Alabama’s hardworking, non-union workforce – are hitting major milestones.",union,workforce,.37722939
+AL2022.txt,Alabama,Ivey_Kay,78,1,"It is projected that Alabama saw investments totaling $5.4 billion with some 9,000 new jobs created.",new,job,.47139215
+AL2022.txt,Alabama,Ivey_Kay,78,1,We will make robust investments that will pay long-term dividends to the state.,make,investment,.61067212
+AL2022.txt,Alabama,Ivey_Kay,78,1,"We should pledge, together, that we will no longer accept the existence of a failing elementary school in our state.",accept,existence,.58968025
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Here in Sweet Home Alabama, we are landing massive investments like Smucker’s $1.1 billion move to McCalla.",land,investment,.43634969
+AL2022.txt,Alabama,Ivey_Kay,78,1,"So often, we hear people – who have likely not even stepped foot in Alabama – give their two cents on us.",give,cent,.52333713
+AL2022.txt,Alabama,Ivey_Kay,78,1,"We should pledge, together, that we will no longer accept the existence of a failing elementary school in our state.",elementary,school,.41265735
+AL2022.txt,Alabama,Ivey_Kay,78,1,"With the current global supply issues, having an international resource in the Port of Mobile is ever more critical.",current,issue,.51727957
+AL2022.txt,Alabama,Ivey_Kay,78,1,I am certain this critical step will make a significant difference for decades to come.,critical,step,.63998097
+AL2022.txt,Alabama,Ivey_Kay,78,1,We are expanding funding to math and science teachers.,expand,funding,.48858872
+AL2022.txt,Alabama,Ivey_Kay,78,1,I am certain this critical step will make a significant difference for decades to come.,step,make,.54953212
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Last year, Senator Shelby announced he would not seek reelection.",last,year,.50250727
+AL2022.txt,Alabama,Ivey_Kay,78,1,We must ask ourselves what more can be done to protect these brave men and women.,protect,man,.30336836
+AL2022.txt,Alabama,Ivey_Kay,78,1,"No doubt, the covid-19 pandemic shined a light on our country’s education system in many ways.",shine,light,.14023259
+AL2022.txt,Alabama,Ivey_Kay,78,1,"It is projected that Alabama saw investments totaling $5.4 billion with some 9,000 new jobs created.",alabama,see,.50149107
+AL2022.txt,Alabama,Ivey_Kay,78,1,Let me be crystal clear: it is more critical than ever that every Alabama student is receiving in-person learning.,receive,learning,.44941419
+AL2022.txt,Alabama,Ivey_Kay,78,1,We must ask ourselves what more can be done to protect these brave men and women.,brave,man,.28259939
+AL2022.txt,Alabama,Ivey_Kay,78,1,That begins with making sure that every elementary school in Alabama is a successful school.,successful,school,.50481313
+AL2022.txt,Alabama,Ivey_Kay,78,1,This is not “free money.,free,money,.56660843
+AL2022.txt,Alabama,Ivey_Kay,78,1,"While there are global strains, our automakers – supported by Alabama’s hardworking, non-union workforce – are hitting major milestones.",hardworking,workforce,.54564309
+AL2022.txt,Alabama,Ivey_Kay,78,1,"In fact, the hard work of state employees has allowed us to accomplish many of the things we celebrate today.",hard,work,.60448164
+AL2022.txt,Alabama,Ivey_Kay,78,1,"In my budget proposals, we will fully fund our rainy-day accounts.",fund,account,.44812477
+AL2022.txt,Alabama,Ivey_Kay,78,1,"As promised, every single penny has gone to road and bridge projects, as well as to our Port.",penny,go,.49432737
+AL2022.txt,Alabama,Ivey_Kay,78,1,And that old cotton field became known as Maxwell Air Force Base a couple decades later.,old,field,.45750889
+AL2022.txt,Alabama,Ivey_Kay,78,1,"My fellow Alabamians, teachers along the way have made a difference in each of our lives.",make,difference,.61465788
+AL2022.txt,Alabama,Ivey_Kay,78,1,"While there are global strains, our automakers – supported by Alabama’s hardworking, non-union workforce – are hitting major milestones.",major,milestone,.59425324
+AL2022.txt,Alabama,Ivey_Kay,78,1,"With the current global supply issues, having an international resource in the Port of Mobile is ever more critical.",global,issue,.51499385
+AL2022.txt,Alabama,Ivey_Kay,78,1,We will make robust investments that will pay long-term dividends to the state.,pay,dividend,.22633313
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Folks, no doubt, the last couple of years have been especially trying for our medical professionals.",last,couple,.48871332
+AL2022.txt,Alabama,Ivey_Kay,78,1,We are providing needed resources for things like autism therapy and school-based mental health care.,mental,care,.27497813
+AL2022.txt,Alabama,Ivey_Kay,78,1,"We support our military and honor our veterans who have served, and we back our men and women in blue.",back,man,.35266438
+AL2022.txt,Alabama,Ivey_Kay,78,1,"After we collect useful data during this upcoming spring semester, implementing the Alabama Literacy Act will be a must.",useful,datum,.35060644
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Our preliminary numbers for 2021, even despite all of the curveballs we have been thrown, are looking strong.",number,look,.39132303
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Folks, Alabama is the first state in the nation to take this major step forward.",take,step,.5398801
+AL2022.txt,Alabama,Ivey_Kay,78,1,We will make robust investments that will pay long-term dividends to the state.,robust,investment,.76781547
+AL2022.txt,Alabama,Ivey_Kay,78,1,Money isn’t going to fix our problems in education.,fix,problem,.40149632
+AL2022.txt,Alabama,Ivey_Kay,78,1,"As I have said all along, the courts are where we will win this battle.",win,battle,.66213751
+AL2022.txt,Alabama,Ivey_Kay,78,1,"I predict to you tonight – in fact, I am confident – that our final numbers will be even bigger.",final,number,.57935542
+AL2022.txt,Alabama,Ivey_Kay,78,1,"This evening, I renew my commitment to you that we will not only continue tackling old problems.",renew,commitment,.54354095
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Here in Sweet Home Alabama, we are landing massive investments like Smucker’s $1.1 billion move to McCalla.",massive,investment,.81800312
+AL2022.txt,Alabama,Ivey_Kay,78,1,"After we collect useful data during this upcoming spring semester, implementing the Alabama Literacy Act will be a must.",collect,datum,.31958428
+AL2022.txt,Alabama,Ivey_Kay,78,1,And that old cotton field became known as Maxwell Air Force Base a couple decades later.,field,became,.5873853
+AL2022.txt,Alabama,Ivey_Kay,78,1,"This evening, I present a challenge to our schools, our communities, our citizens and our leaders.",present,challenge,.59697247
+AL2022.txt,Alabama,Ivey_Kay,78,1,How can we expect to have successful middle and high schools if we have failing elementary schools?,middle,school,.59404051
+AL2022.txt,Alabama,Ivey_Kay,78,1,There is great possibility in the future of Alabama.,great,possibility,.55429131
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Folks, no doubt, the last couple of years have been especially trying for our medical professionals.",medical,professional,.50670528
+AL2022.txt,Alabama,Ivey_Kay,78,1,"And most importantly, we will hurt our most promising and precious resources – our students.",promising,resource,.6307435
+AL2022.txt,Alabama,Ivey_Kay,78,1,"I’ll call this nonsense what it is, and that is an un-American, outrageous breach of our federal law.",federal,law,.33350134
+AL2022.txt,Alabama,Ivey_Kay,78,1,We will pay down our debts.,pay,debt,.35484222
+AL2022.txt,Alabama,Ivey_Kay,78,1,We will ensure we recruit and retain good teachers.,good,teacher,.40718782
+AL2022.txt,Alabama,Ivey_Kay,78,1,"While there are global strains, our automakers – supported by Alabama’s hardworking, non-union workforce – are hitting major milestones.",automaker,hit,.55277932
+AL2022.txt,Alabama,Ivey_Kay,78,1,We will make robust investments that will pay long-term dividends to the state.,long,term,.67602867
+AL2022.txt,Alabama,Ivey_Kay,78,1,"While there are global strains, our automakers – supported by Alabama’s hardworking, non-union workforce – are hitting major milestones.",hit,milestone,.63609356
+AL2022.txt,Alabama,Ivey_Kay,78,1,"South Carolina U. S. Senator Tim Scott said last year, “education is the closest thing to magic in America.",last,year,.50250727
+AL2022.txt,Alabama,Ivey_Kay,78,1,"To that end, tonight, I am proud to once again propose a well-deserved 4% pay increase for our teachers.",propose,increase,.44082385
+AL2022.txt,Alabama,Ivey_Kay,78,1,Let me be crystal clear: it is more critical than ever that every Alabama student is receiving in-person learning.,student,receive,.37029755
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Now, our country will turn to Westwater Resources in Coosa County for this critical resource in battery manufacturing.",country,turn,.5495224
+AL2022.txt,Alabama,Ivey_Kay,78,1,"With the current global supply issues, having an international resource in the Port of Mobile is ever more critical.",international,resource,.48368707
+AL2022.txt,Alabama,Ivey_Kay,78,1,I am certain this critical step will make a significant difference for decades to come.,significant,difference,.49145412
+AL2022.txt,Alabama,Ivey_Kay,78,1,That begins with making sure that every elementary school in Alabama is a successful school.,that,begin,.57486326
+AL2022.txt,Alabama,Ivey_Kay,78,1,All of us stand on the shoulders of others who preceded us.,all,stand,.49662697
+AL2022.txt,Alabama,Ivey_Kay,78,1,"South Carolina U. S. Senator Tim Scott said last year, “education is the closest thing to magic in America.",close,thing,.49928075
+AL2022.txt,Alabama,Ivey_Kay,78,1,"No doubt, the covid-19 pandemic shined a light on our country’s education system in many ways.",many,way,.53644496
+AL2022.txt,Alabama,Ivey_Kay,78,1,"While there are global strains, our automakers – supported by Alabama’s hardworking, non-union workforce – are hitting major milestones.",global,strain,.61435246
+AL2022.txt,Alabama,Ivey_Kay,78,1,We are reminded far too often of the grave sacrifice our officers face every day.,officer,face,.36552748
+AL2022.txt,Alabama,Ivey_Kay,78,1,We are proud to invite the nation and the world to do business with Alabama at our Port.,do,business,.45658123
+AL2022.txt,Alabama,Ivey_Kay,78,1,We must ask ourselves what more can be done to protect these brave men and women.,do,what,.49853066
+AL2022.txt,Alabama,Ivey_Kay,78,1,We are reminded far too often of the grave sacrifice our officers face every day.,grave,sacrifice,.55637336
+AL2022.txt,Alabama,Ivey_Kay,78,1,President Ronald Reagan once said that there are no barriers to our progress except those we erect ourselves.,reagan,say,.3646532
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Our preliminary numbers for 2021, even despite all of the curveballs we have been thrown, are looking strong.",preliminary,number,.47454602
+AL2022.txt,Alabama,Ivey_Kay,78,1,We must ask ourselves what more can be done to protect these brave men and women.,ask,ourselves,.58649337
+AL2022.txt,Alabama,Ivey_Kay,78,1,"It is projected that Alabama saw investments totaling $5.4 billion with some 9,000 new jobs created.",total,billion,.54755348
+AL2022.txt,Alabama,Ivey_Kay,78,1,"While there are global strains, our automakers – supported by Alabama’s hardworking, non-union workforce – are hitting major milestones.",non,workforce,.57906371
+AL2022.txt,Alabama,Ivey_Kay,78,1,All of us stand on the shoulders of others who preceded us.,who,precede,.38655341
+AL2022.txt,Alabama,Ivey_Kay,78,1,We lend a helping hand to each other.,lend,hand,.49950847
+AL2022.txt,Alabama,Ivey_Kay,78,1,"So often, we hear people – who have likely not even stepped foot in Alabama – give their two cents on us.",hear,people,.30433196
+AL2022.txt,Alabama,Ivey_Kay,78,1,"We support our military and honor our veterans who have served, and we back our men and women in blue.",support,military,.46311483
+AL2022.txt,Alabama,Ivey_Kay,78,1,"In my budget proposals, we will fully fund our rainy-day accounts.",rainy,day,.35299546
+AL2022.txt,Alabama,Ivey_Kay,78,1,"In fact, the hard work of state employees has allowed us to accomplish many of the things we celebrate today.",accomplish,many,.48354259
+AL2022.txt,Alabama,Ivey_Kay,78,1,That means being proficient readers by the end of third grade.,that,mean,.45433381
+AL2022.txt,Alabama,Ivey_Kay,78,1,How can we expect to have successful middle and high schools if we have failing elementary schools?,elementary,school,.41265735
+AL2022.txt,Alabama,Ivey_Kay,78,1,"This evening, I renew my commitment to you that we will not only continue tackling old problems.",old,problem,.53870404
+AL2022.txt,Alabama,Ivey_Kay,78,1,"When our federal government overreached, we found a way to fight back.",find,way,.49545452
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Folks, no doubt, the last couple of years have been especially trying for our medical professionals.",folk,try,.60481763
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Folks, Alabama is the first state in the nation to take this major step forward.",major,step,.55757028
+AL2022.txt,Alabama,Ivey_Kay,78,1,"We support our military and honor our veterans who have served, and we back our men and women in blue.",who,serve,.50950092
+AL2022.txt,Alabama,Ivey_Kay,78,1,May God continue to bless each of you and the great state of Alabama.,god,continue,.63588715
+AL2022.txt,Alabama,Ivey_Kay,78,1,"We support our military and honor our veterans who have served, and we back our men and women in blue.",honor,veteran,.45547721
+AL2022.txt,Alabama,Ivey_Kay,78,1,"No doubt, the covid-19 pandemic shined a light on our country’s education system in many ways.",pandemic,shine,.78989732
+AL2022.txt,Alabama,Ivey_Kay,78,1,We are providing needed resources for things like autism therapy and school-based mental health care.,provide,resource,.39140299
+AL2022.txt,Alabama,Ivey_Kay,78,1,"So, to our doctors, nurses and other health care staff, I offer my sincere thanks and appreciation.",offer,thank,.34887174
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Attorney General Marshall, thank you for standing tall for Alabamians.",thank,you,.44988889
+AL2022.txt,Alabama,Ivey_Kay,78,1,May God continue to bless each of you and the great state of Alabama.,great,state,.53528708
+AL2022.txt,Alabama,Ivey_Kay,78,1,And it doesn’t stop there.,it,stop,.46040285
+AL2022.txt,Alabama,Ivey_Kay,78,1,"South Carolina U. S. Senator Tim Scott said last year, “education is the closest thing to magic in America.",scott,say,.48404762
+AL2022.txt,Alabama,Ivey_Kay,78,1,"My fellow Alabamians, teachers along the way have made a difference in each of our lives.",teacher,make,.60282278
+AL2022.txt,Alabama,Ivey_Kay,78,1,"So, to our doctors, nurses and other health care staff, I offer my sincere thanks and appreciation.",sincere,thank,.31091297
+AL2022.txt,Alabama,Ivey_Kay,78,1,"After we collect useful data during this upcoming spring semester, implementing the Alabama Literacy Act will be a must.",upcoming,semester,.26137576
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Last year, I was proud to announce a partnership between the Alabama Law Enforcement Agency and KultureCity.",last,year,.50250727
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Last year, Senator Shelby announced he would not seek reelection.",shelby,announce,.46195447
+AL2022.txt,Alabama,Ivey_Kay,78,1,"So, let’s not waste a moment.",waste,moment,.7738961
+AL2022.txt,Alabama,Ivey_Kay,78,1,That begins with making sure that every elementary school in Alabama is a successful school.,elementary,school,.41265735
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Folks, Alabama is the first state in the nation to take this major step forward.",first,state,.5398612
+AL2022.txt,Alabama,Ivey_Kay,78,1,May God continue to bless each of you and the great state of Alabama.,bless,each,.43655095
+AL2022.txt,Alabama,Ivey_Kay,78,1,"This past year, we lost 13 of Alabama’s own.",past,year,.52166069
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Clearly, with one of the nation’s lowest unemployment rates, Alabama is on the fast track.",fast,track,.44497967
+AL2022.txt,Alabama,Ivey_Kay,78,1,Early learning is the bedrock of a quality education.,early,learning,.51248711
+AL2022.txt,Alabama,Ivey_Kay,78,1,"And most importantly, we will hurt our most promising and precious resources – our students.",hurt,resource,.60497922
+AL2022.txt,Alabama,Ivey_Kay,78,1,"I’ll call this nonsense what it is, and that is an un-American, outrageous breach of our federal law.",call,nonsense,.44770849
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Last year, I was proud to announce a partnership between the Alabama Law Enforcement Agency and KultureCity.",announce,partnership,.44744512
+AL2022.txt,Alabama,Ivey_Kay,78,1,"I’ll call this nonsense what it is, and that is an un-American, outrageous breach of our federal law.",american,breach,.57254261
+AL2022.txt,Alabama,Ivey_Kay,78,1,"When our prison system went unaddressed for decades and resulted in serious challenges, we found a way toward a solution.",system,go,.49602121
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Well, let me offer mine.",offer,mine,.67221427
+AL2022.txt,Alabama,Ivey_Kay,78,1,"When our prison system went unaddressed for decades and resulted in serious challenges, we found a way toward a solution.",find,way,.49545452
+AL2022.txt,Alabama,Ivey_Kay,78,1,How can we expect to have successful middle and high schools if we have failing elementary schools?,successful,school,.50481313
+AL2022.txt,Alabama,Ivey_Kay,78,1,I am certain this critical step will make a significant difference for decades to come.,make,difference,.61465788
+AL2022.txt,Alabama,Ivey_Kay,78,1,How can we expect to have successful middle and high schools if we have failing elementary schools?,fail,school,.55673355
+AL2022.txt,Alabama,Ivey_Kay,78,1,"So, to our doctors, nurses and other health care staff, I offer my sincere thanks and appreciation.",other,staff,.37972769
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Last year, Senator Shelby announced he would not seek reelection.",he,seek,.4386712
+AL2022.txt,Alabama,Ivey_Kay,78,1,"In fact, the hard work of state employees has allowed us to accomplish many of the things we celebrate today.",work,allow,.43503049
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Clearly, with one of the nation’s lowest unemployment rates, Alabama is on the fast track.",low,rate,.66639906
+AL2022.txt,Alabama,Ivey_Kay,78,1,"So, as part of my budget proposal, I will include a bonus for all retired state employees.",include,bonus,.552405
+AL2022.txt,Alabama,Ivey_Kay,78,1,"While our work is far from over, we have made significant progress thanks to the Rebuild Alabama Act.",significant,progress,.4806942
+AL2022.txt,Alabama,Ivey_Kay,78,1,"So often, we hear people – who have likely not even stepped foot in Alabama – give their two cents on us.",step,foot,.39585304
+AL2022.txt,Alabama,Ivey_Kay,78,1,"When our federal government overreached, we found a way to fight back.",federal,government,.28684363
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Last year, Senator Shelby announced he would not seek reelection.",seek,reelection,.44116646
+AL2022.txt,Alabama,Ivey_Kay,78,1,We will make robust investments that will pay long-term dividends to the state.,that,pay,.46061727
+AL2022.txt,Alabama,Ivey_Kay,78,1,I know that every one of us in this room is extremely grateful to call Alabama our home.,call,alabama,.56314546
+AL2022.txt,Alabama,Ivey_Kay,78,1,That means being proficient readers by the end of third grade.,proficient,reader,.3114118
+AL2022.txt,Alabama,Ivey_Kay,78,1,"When our prison system went unaddressed for decades and resulted in serious challenges, we found a way toward a solution.",serious,challenge,.58755898
+AL2022.txt,Alabama,Ivey_Kay,78,1,We will ensure we recruit and retain good teachers.,retain,teacher,.52504563
+AL2022.txt,Alabama,Ivey_Kay,78,1,"While our work is far from over, we have made significant progress thanks to the Rebuild Alabama Act.",make,progress,.66016638
+AL2022.txt,Alabama,Ivey_Kay,78,1,We are proud to invite the nation and the world to do business with Alabama at our Port.,invite,nation,.53890097
+AL2022.txt,Alabama,Ivey_Kay,78,1,"After we collect useful data during this upcoming spring semester, implementing the Alabama Literacy Act will be a must.",implement,act,.38498122
+AL2022.txt,Alabama,Ivey_Kay,78,1,"Now, our country will turn to Westwater Resources in Coosa County for this critical resource in battery manufacturing.",critical,resource,.59225339
+AL2022.txt,Alabama,Ivey_Kay,78,1,"As promised, every single penny has gone to road and bridge projects, as well as to our Port.",single,penny,.39998546
+AL2022.txt,Alabama,Ivey_Kay,78,1,President Ronald Reagan once said that there are no barriers to our progress except those we erect ourselves.,erect,ourselves,.57232082

@@ -1,0 +1,304 @@
+filename,st_name,speaker,age,gender,text,arg0,arg1,metaphor_score
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But we also know there are many who do not yet feel your place is secure in this progress.,feel,place,.6645276
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we don’t want that political stagnation to creep into our work here in Trenton.,political,stagnation,.75525606
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And every vaccine dose is a ray of light through the dark cloud that has hung over our families.,dark,cloud,.19045152
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,… And opportunity to make New Jersey the launchpad for the next great idea and the home of the next generation.,next,idea,.5849787
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Omicron is doing its best to stop us in our tracks and push us back.,omicron,do,.55737311
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"In your day-to-day lives, this step won’t bring any changes.",bring,change,.68139797
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And it means that more of our fellow New Jerseyans are leaving us all too soon.,more,leave,.56369698
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We have shown you can make economic progress and social progress at the same time.,you,make,.50860149
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The people of New Jersey elected each of us in public office for a single purpose – to get things done.,single,purpose,.51324689
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We have shown you can make economic progress and social progress at the same time.,economic,progress,.61590266
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,This is what creating opportunity looks like.,create,opportunity,.58717579
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This not only hurt our hardworking public employees, but it threatened our very financial health as a state.",hurt,employee,.42159396
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,I’m once again addressing you from an empty theater.,address,you,.5268907
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"The Census counts it in black-and-white – while some states in our region lost population, New Jersey grew.",jersey,grow,.57921231
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"However, the price for having an unlimited upside cannot be an unlimited downside.",unlimited,downside,.44018561
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And while we take on these new initiatives, we also have some unfinished business from 2021 to attend to.",new,initiative,.47965261
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,… And opportunity to make New Jersey the launchpad for the next great idea and the home of the next generation.,great,idea,.54959184
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Omicron has not knocked us down.,omicron,knock,.58094597
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The people of New Jersey elected each of us in public office for a single purpose – to get things done.,public,office,.34792086
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,May God bless you and your families with a healthy and prosperous new year.,god,bless,.65857083
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,I will do my best to not wear out my welcome.,wear,welcome,.48124501
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And this is the progress that results from restoring responsible leadership to our state’s finances.,responsible,leadership,.50121999
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,I will sign this into law this week.,sign,this,.55676603
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"So, if you have not yet gotten your booster shot, here is what I ask of you – go get it.",you,get,.46898529
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,You’ve proven our collective faith in science and facts and medicine – and in each other.,collective,faith,.60199755
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"So, here’s what this means – more people have insurance and they’re paying less for it.",pay,less,.47359174
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And while we take on these new initiatives, we also have some unfinished business from 2021 to attend to.",unfinished,business,.40797982
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"… A response that keeps state, county, and local health authorities working together.",that,keep,.57614261
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And no state represents both the glorious history and awesome future of the American Dream more than ours.,more,history,.62847745
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This not only hurt our hardworking public employees, but it threatened our very financial health as a state.",hardworking,employee,.42509857
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,May God continue to bless the Great State of New Jersey and the United States of America.,bless,state,.65155286
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we did it without asking customers to pay one penny more in fares for four straight years.,pay,more,.42215356
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Few public investments will protect the value of your home more than strong and properly funded public schools.,public,investment,.35887313
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,That letter speaks to a sense of our core beliefs and our personal ideals.,personal,ideal,.52328086
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"… A response that keeps state, county, and local health authorities working together.",keep,state,.57167423
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,New businesses and jobs are being created because we restored common sense and fairness to our system of tax incentives.,common,sense,.59077132
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,This is what building an economy that works for every family looks like.,build,economy,.53833967
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And I urge the Legislature to once again take up the next phase of commonsense and comprehensive gun-safety reforms.,urge,legislature,.47107103
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,I will do my best to not wear out my welcome.,do,good,.47402558
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We have greater tax fairness.,great,fairness,.61328059
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And I commit to you now that the state budget I propose in a few weeks won’t raise taxes.,budget,raise,.69015342
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Four years ago, NJ TRANSIT was a national model of how not to run a mass-transit system.",run,system,.45411548
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And I urge the Legislature to once again take up the next phase of commonsense and comprehensive gun-safety reforms.,take,phase,.51730698
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,More new cases day-to-day than even at the pandemic’s start.,new,case,.43362591
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Getting these things done will require hard work but is not insurmountable.,hard,work,.60448164
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across the nation, we’ve seen some of the worst that crises can bring out in people.",crisis,bring,.7199347
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,That letter speaks to a sense of our core beliefs and our personal ideals.,letter,speak,.36334723
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"As I mentioned, the budget I put forward won’t come with any tax increases.",budget,come,.55531383
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But now is the time to take these letters off.,take,letter,.39123192
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Lower costs will save families hundreds, if not thousands, of dollars a year.",cost,save,.63152403
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We have more accessible and affordable health care and child care, stronger public schools, and more affordable higher education.",affordable,education,.25980136
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"The Census counts it in black-and-white – while some states in our region lost population, New Jersey grew.",count,it,.49739721
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,I am extraordinarily honored and humbled by the responsibility you have given me.,you,give,.46997485
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"The Census counts it in black-and-white – while some states in our region lost population, New Jersey grew.",census,count,.5161168
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We have more accessible and affordable health care and child care, stronger public schools, and more affordable higher education.",accessible,care,.25167298
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The Innovation Evergreen Fund will be critical to making this goal our reality.,make,goal,.68419498
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"For that I say, “thank you.",thank,you,.44988889
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Let’s prove that our words have actual value and meaning.,actual,value,.32529309
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And if we hold together to shine bright just a little longer, we will disperse the dark cloud of COVID.",dark,cloud,.19045152
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Few public investments will protect the value of your home more than strong and properly funded public schools.,protect,value,.78759402
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We extended property tax deductions for veterans and service-members.,extend,deduction,.52806377
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And no state represents both the glorious history and awesome future of the American Dream more than ours.,glorious,history,.70602977
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We expanded eligibility of older homeowners for the Senior Freeze program to protect you against any property tax increases.,old,homeowner,.52799684
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We have shown you can make economic progress and social progress at the same time.,make,progress,.66016638
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Hard work, especially in the face of great challenge, defines us.",hard,work,.60448164
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And no state represents both the glorious history and awesome future of the American Dream more than ours.,represent,history,.62870425
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Strong public schools make communities more attractive for families looking to move to New Jersey.,community,attractive,.52857322
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The people of New Jersey elected each of us in public office for a single purpose – to get things done.,elect,each,.58043545
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"However, the price for having an unlimited upside cannot be an unlimited downside.",unlimited,upside,.69308203
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across New Jersey, nearly 90 percent of all eligible residents have received at least a first vaccine dose.",vaccine,dose,.24150845
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Few public investments will protect the value of your home more than strong and properly funded public schools.,public,school,.32463321
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And it is you to whom I recommit my efforts.,recommit,effort,.58671868
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We all live in the same house.,same,house,.38427633
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"So, here’s what this means – more people have insurance and they’re paying less for it.",more,people,.41102111
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And let’s prove that our best days aren’t in our rear-view mirror.,good,day,.44973347
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We will never forget the loss that has hit so many of our neighbors.,that,hit,.56706232
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,This is what you expect.,you,expect,.39788747
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The booster is proven to lessen the impact of illness to keep you out of the hospital.,lessen,impact,.73775524
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We are doing this not just because our kids deserve it but because our property taxpayers do, too.",do,this,.4782168
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We expanded eligibility of older homeowners for the Senior Freeze program to protect you against any property tax increases.,expand,eligibility,.56503791
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We expanded eligibility of older homeowners for the Senior Freeze program to protect you against any property tax increases.,senior,program,.63525933
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Every dose gets us one step closer to regaining the life we knew prior to COVID.,dose,get,.45808786
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And if we hold together to shine bright just a little longer, we will disperse the dark cloud of COVID.",disperse,cloud,.46524027
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Few public investments will protect the value of your home more than strong and properly funded public schools.,investment,protect,.78203243
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across the nation, we’ve seen some of the worst that crises can bring out in people.",bring,that,.57768911
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Four years ago, our schools and property taxpayers were reeling after eight years of diminished investment.",school,reel,.54680675
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"So, here’s what this means – more people have insurance and they’re paying less for it.",they,pay,.42892295
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We also reined-in the cost of public employee and retiree health benefits while preserving high-quality care.,preserve,care,.31849292
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We have more accessible and affordable health care and child care, stronger public schools, and more affordable higher education.",high,education,.6469506
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,It is more important than ever that you get your booster shot.,booster,shoot,.38809845
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Omicron is doing its best to stop us in our tracks and push us back.,do,good,.47402558
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we did it without asking customers to pay one penny more in fares for four straight years.,ask,customer,.30832437
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Today, it stands as a model of how to turn around a mass-transit system.",turn,system,.5206663
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And I urge the Legislature to once again take up the next phase of commonsense and comprehensive gun-safety reforms.,next,phase,.40582585
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We have achieved these accomplishments during the most difficult of times and against some of the darkest of backdrops.,achieve,accomplishment,.63620514
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,… And opportunity to make New Jersey the launchpad for the next great idea and the home of the next generation.,jersey,launchpad,.49155098
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"In fact, despite all the challenges, we continue to move New Jersey forward.",move,jersey,.47234383
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,This is what building an economy that works for every family looks like.,that,work,.54598427
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We will continue to focus on a broad-based economic recovery that works for everyone, not just a lucky few.",economic,recovery,.62133944
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And because of this, we are accomplishing both.",accomplish,both,.5340755
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,I do not begrudge anyone the realization of their American Dream.,begrudge,anyone,.38473898
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Science and reality tell us that what we once called “full” vaccination is no longer that.,full,vaccination,.46450806
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Not when there is still too much uncertainty in our lives and our communities, and too many challenges ahead.",much,uncertainty,.67096305
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"So, if you have not yet gotten your booster shot, here is what I ask of you – go get it.",get,shoot,.38153252
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Let’s work together in good faith and with common purpose.,good,faith,.69469881
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Lower costs will save families hundreds, if not thousands, of dollars a year.",save,family,.49536446
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And let me make one thing very clear.,thing,clear,.58899194
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And so do so many millions of your fellow New Jerseyans who have done the very same.,who,do,.43181345
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"While we are proud of the progress we are making, this critical work is far from done and will continue.",critical,work,.60082603
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"So, here’s what this means – more people have insurance and they’re paying less for it.",mean,what,.46055576
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Getting these things done will require hard work but is not insurmountable.,thing,do,.43177223
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We are a model that others now seek to emulate.,emulate,that,.52506095
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We’ve put a college education within reach with our tuition-free community college program.,put,education,.6335277
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This not only hurt our hardworking public employees, but it threatened our very financial health as a state.",threaten,health,.55010307
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Four years ago, NJ TRANSIT was a national model of how not to run a mass-transit system.",mass,transit,.36427262
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Many jobs await in the cannabis industry ready to take off.,job,await,.37415013
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We will not let it.,let,it,.48966208
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Lower costs will save families hundreds, if not thousands, of dollars a year.",save,hundred,.3369267
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Not when there is still too much uncertainty in our lives and our communities, and too many challenges ahead.",many,challenge,.60924751
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"A few weeks ago, I initiated a new program to help us in this effort.",new,program,.43483317
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We have also made in-state tuition payments and investments in college savings plans tax deductible.,plan,deductible,.41032356
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We continue to lose too many residents to the grip of opioid misuse.,many,resident,.39361018
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,This doesn’t mean we won’t or even can’t disagree.,this,mean,.47310984
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,New businesses and jobs are being created because we restored common sense and fairness to our system of tax incentives.,new,business,.49988803
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And every vaccine dose is a ray of light through the dark cloud that has hung over our families.,vaccine,dose,.24150845
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across the nine years before I took office, New Jersey’s economic growth ranked 47th among all states.",growth,rank,.72028434
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But the truth is the exact opposite.,exact,opposite,.49021059
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And it means that more of our fellow New Jerseyans are leaving us all too soon.,it,mean,.45486042
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We are a model that others now seek to emulate.,other,seek,.51416737
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Small businesses are the backbone of our economy, and we’re keeping that backbone strong.",keep,backbone,.57542139
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,This is the progress we can make together by putting our focus in the right places.,right,place,.48916143
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,You’ve proven our collective faith in science and facts and medicine – and in each other.,you,prove,.42380193
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,This is the progress we can make together by putting our focus in the right places.,put,focus,.6118505
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And here, too, we’ve made real progress.",make,progress,.66016638
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We have also made in-state tuition payments and investments in college savings plans tax deductible.,make,payment,.604442
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across New Jersey, nearly 90 percent of all eligible residents have received at least a first vaccine dose.",percent,receive,.48734847
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"The Census counts it in black-and-white – while some states in our region lost population, New Jersey grew.",lose,population,.60465294
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Our real estate market is strong.,real,estate,.51094973
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We expanded eligibility of older homeowners for the Senior Freeze program to protect you against any property tax increases.,protect,you,.4740442
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And so do so many millions of your fellow New Jerseyans who have done the very same.,many,million,.54402417
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Strong public schools make communities more attractive for families looking to move to New Jersey.,strong,school,.71710885
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And, I also say, “let’s keep it up.",keep,it,.46073642
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And 75 percent of you have completed your primary vaccination course.,complete,course,.47380471
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And here, too, we’ve made real progress.",real,progress,.50098413
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,May God bless you and your families with a healthy and prosperous new year.,healthy,year,.59567249
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"So, if you have not yet gotten your booster shot, here is what I ask of you – go get it.",get,it,.51094991
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we’ve done so much more.,do,more,.47821423
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But it should mean that “compromise” and “common sense” are not dirty words.,common,sense,.59077132
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We’ve put a college education within reach with our tuition-free community college program.,free,program,.44199428
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Many jobs await in the cannabis industry ready to take off.,cannabis,industry,.58332634
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The moving vans are driving into New Jersey.,van,drive,.52321845
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Let’s stop shouting down each other and get back to talking with each other.,shout,other,.46512368
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"I’ve noted our work to lower health care costs, particularly for those with children.",note,work,.49275291
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Getting these things done will require hard work but is not insurmountable.,require,work,.38809568
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across New Jersey, nearly 90 percent of all eligible residents have received at least a first vaccine dose.",eligible,resident,.31462574
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Hard work, even in the face of great challenge, does not deter us as New Jerseyans.",hard,work,.60448164
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Moreover, this is what you deserve.",you,deserve,.44000217
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But we are making high-quality health care both more affordable and more accessible.,high,quality,.6200887
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And this is the year where we will see one of our most innovative plans for economic growth take hold.,innovative,plan,.52351493
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And I am excited by the possibilities that lay ahead for our state.,that,lie,.48168558
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"It has, indeed, been an extraordinarily long two years.",long,year,.65872043
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,I’m once again addressing you from an empty theater.,empty,theater,.41709417
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We will never forget the loss that has hit so many of our neighbors.,forget,loss,.57325912
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,That is yet another way we are building opportunity for more New Jersey families.,more,family,.52643275
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This means that as our people get back to work, they are getting back to jobs that pay better.",this,mean,.47310984
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And I commit to you now that the state budget I propose in a few weeks won’t raise taxes.,few,week,.3996757
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We inherited a state that worked for too few and which was at a crossroads.,that,work,.54598427
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"… A response that keeps state, county, and local health authorities working together.",local,authority,.40398499
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,More new cases day-to-day than even at the pandemic’s start.,more,case,.4707292
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,In fact one helps the other.,one,help,.53416455
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We’ve seen some of this in New Jersey.,see,some,.47030631
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We have more accessible and affordable health care and child care, stronger public schools, and more affordable higher education.",strong,school,.71710885
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But we also know there are many who do not yet feel your place is secure in this progress.,who,feel,.38309124
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"… And a response that ensures we keep following science and fact, and not politics, so we can keep moving forward.",that,ensure,.55202138
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We’re all tired of it getting in the way of everything we do.,it,get,.51094991
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And so do so many millions of your fellow New Jerseyans who have done the very same.,do,same,.46239677
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we did it without asking customers to pay one penny more in fares for four straight years.,do,it,.46025267
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Four years ago, NJ TRANSIT was a national model of how not to run a mass-transit system.",national,model,.56894881
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We chose to move the state in a new direction.,move,state,.57892329
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"But, to be sure, it’s a small minority.",small,minority,.66672421
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,… And opportunity to make New Jersey the launchpad for the next great idea and the home of the next generation.,next,generation,.55040324
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And 75 percent of you have completed your primary vaccination course.,primary,course,.48259684
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"So, here’s what this means – more people have insurance and they’re paying less for it.",this,mean,.47310984
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And this is the year where we will see one of our most innovative plans for economic growth take hold.,take,hold,.45535812
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across the nation, we’ve seen some of the worst that crises can bring out in people.",see,some,.47030631
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And the size of state government itself is smaller today than it was when we took office.,take,office,.3904638
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And for 2022, enrollment in health insurance through our individual marketplace is up 25 percent over last year.",last,year,.50250727
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And this is the progress that results from restoring responsible leadership to our state’s finances.,restore,leadership,.62187082
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The people of New Jersey elected each of us in public office for a single purpose – to get things done.,people,elect,.45584109
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This means that as our people get back to work, they are getting back to jobs that pay better.",they,get,.48274079
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Thirty thousand new cases a day.,new,case,.43362591
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Today, it stands as a model of how to turn around a mass-transit system.",mass,transit,.36427262
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This not only hurt our hardworking public employees, but it threatened our very financial health as a state.",it,threaten,.51628518
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"I do not begrudge, for one second, anyone their success.",anyone,success,.36226729
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,New businesses and jobs are being created because we restored common sense and fairness to our system of tax incentives.,restore,sense,.72114718
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"A few weeks ago, I initiated a new program to help us in this effort.",initiate,program,.40879995
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We also reined-in the cost of public employee and retiree health benefits while preserving high-quality care.,public,employee,.30126962
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"When we began our work in January 2018, our state was stagnant and seemingly broken.",begin,work,.56017864
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Our economy is growing again.,economy,grow,.80586112
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We are doing this not just because our kids deserve it but because our property taxpayers do, too.",deserve,it,.60882199
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"But try as it may to knock us back and further divide us, one thing is certain.",it,may,.43283492
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Today, it stands as a model of how to turn around a mass-transit system.",it,stand,.4546482
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And no state represents both the glorious history and awesome future of the American Dream more than ours.,state,represent,.53144884
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,May God bless you and your families with a healthy and prosperous new year.,bless,you,.57595164
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Lower costs will save families hundreds, if not thousands, of dollars a year.",low,cost,.67420906
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across New Jersey, nearly 90 percent of all eligible residents have received at least a first vaccine dose.",first,vaccine,.46420598
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And this is the progress that results from restoring responsible leadership to our state’s finances.,that,result,.51018423
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,May God continue to bless the Great State of New Jersey and the United States of America.,god,continue,.63588715
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Hard work, especially in the face of great challenge, defines us.",work,define,.51594973
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,This is what you expect.,expect,what,.50635982
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Moreover, this is what you deserve.",deserve,what,.54460418
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,That is yet another way we are building opportunity for more New Jersey families.,build,opportunity,.35582644
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Today, New Jersey is working again for the many, not the few.",jersey,work,.49888891
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we don’t want that political stagnation to creep into our work here in Trenton.,stagnation,creep,.82478744
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"For years, we were fed a line that no one wanted to be part of our New Jersey family.",feed,line,.63408905
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The booster is proven to lessen the impact of illness to keep you out of the hospital.,keep,you,.4761906
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we’re making more progress against property taxes than any administration before us.,more,progress,.59603769
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,May God bless you and your families with a healthy and prosperous new year.,new,year,.4417429
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But we are making high-quality health care both more affordable and more accessible.,make,care,.58987713
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We are doing this not just because our kids deserve it but because our property taxpayers do, too.",taxpayer,do,.44663686
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"As I noted, we moved from 47th to fourth in the nation in economic growth.",economic,growth,.61906743
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But we will never let the virus conquer us.,virus,conquer,.26487741
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This not only hurt our hardworking public employees, but it threatened our very financial health as a state.",public,employee,.30126962
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We chose to move the state in a new direction.,new,direction,.5044924
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"… And a response that ensures we keep following science and fact, and not politics, so we can keep moving forward.",response,keep,.62914336
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And this is the year where we will see one of our most innovative plans for economic growth take hold.,see,one,.44413146
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"For so many of you, your home is your single greatest investment.",single,investment,.67823184
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"The Census counts it in black-and-white – while some states in our region lost population, New Jersey grew.",state,lose,.6487332
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,That’s real progress despite all we’ve been through and all we still face.,real,progress,.50098413
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We are doing this not just because our kids deserve it but because our property taxpayers do, too.",kid,deserve,.3677488
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Education is a critical piece of this puzzle.,critical,piece,.53126734
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we’ve saved tomorrow’s taxpayers billions of dollars by living up to our obligation today.,save,billion,.67252946
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across the nine years before I took office, New Jersey’s economic growth ranked 47th among all states.",economic,growth,.61906743
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Science and reality tell us that what we once called “full” vaccination is no longer that.,call,what,.52463877
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"… And a response that ensures we keep following science and fact, and not politics, so we can keep moving forward.",follow,science,.46444082
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Small businesses are the backbone of our economy, and we’re keeping that backbone strong.",small,business,.58363891
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across New Jersey, nearly 90 percent of all eligible residents have received at least a first vaccine dose.",least,vaccine,.29860213
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Let’s work together in good faith and with common purpose.,common,purpose,.41849771
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,… And to workplaces that are again fully safe and humming with the promise of a prosperous future.,prosperous,future,.73149842
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Few public investments will protect the value of your home more than strong and properly funded public schools.,few,investment,.5369947
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We will continue to focus on making New Jersey more affordable for everyone.,jersey,affordable,.68639135
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"A few weeks ago, I initiated a new program to help us in this effort.",few,week,.3996757
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"In your day-to-day lives, this step won’t bring any changes.",step,bring,.60606182
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"For so many of you, your home is your single greatest investment.",great,investment,.58685648
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And this is the year where we will see one of our most innovative plans for economic growth take hold.,economic,growth,.61906743
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Just as we thought we had finally gotten ahead of COVID, the Omicron variant came along.",variant,come,.40654385
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We have more accessible and affordable health care and child care, stronger public schools, and more affordable higher education.",public,school,.32463321
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Across the nine years before I took office, New Jersey’s economic growth ranked 47th among all states.",take,office,.3904638
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Many jobs await in the cannabis industry ready to take off.,many,job,.44975519
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We have shown you can make economic progress and social progress at the same time.,same,time,.42668441
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We set out to make a more affordable and more responsive New Jersey.,make,jersey,.51948172
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But tackling property taxes goes far beyond just properly funding our schools.,fund,school,.41024527
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Hard work, even in the face of great challenge, does not deter us as New Jerseyans.",great,challenge,.5450905
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Hard work, especially in the face of great challenge, defines us.",great,challenge,.5450905
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We may not have yet fully conquered the virus.,conquer,virus,.26487741
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"I’ve noted our work to lower health care costs, particularly for those with children.",lower,cost,.59034353
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Strong public schools make communities more attractive for families looking to move to New Jersey.,school,make,.617423
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This means that as our people get back to work, they are getting back to jobs that pay better.",that,pay,.46061727
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This means that as our people get back to work, they are getting back to jobs that pay better.",people,get,.37261495
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Strong public schools make communities more attractive for families looking to move to New Jersey.,public,school,.32463321
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we all take pride in that letter.,take,pride,.48860264
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,I do not begrudge anyone the realization of their American Dream.,begrudge,realization,.57453644
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We will continue to focus on a broad-based economic recovery that works for everyone, not just a lucky few.",that,work,.54598427
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And no state represents both the glorious history and awesome future of the American Dream more than ours.,awesome,future,.58578092
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We continue to lose too many residents to the grip of opioid misuse.,lose,resident,.52543491
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We are moving New Jersey forward.,move,jersey,.47234383
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we’re making more progress against property taxes than any administration before us.,make,progress,.66016638
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Our state is growing again.,state,grow,.70973432
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We continue to lose too many residents to the grip of opioid misuse.,opioid,misuse,.37341648
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,In fact one helps the other.,help,other,.53796011
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"And for 2022, enrollment in health insurance through our individual marketplace is up 25 percent over last year.",individual,marketplace,.50904417
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"From today forward, for all of us, the politicking ends and the governing begins.",governing,begin,.51816452
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The people of New Jersey elected each of us in public office for a single purpose – to get things done.,thing,do,.43177223
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We also reined-in the cost of public employee and retiree health benefits while preserving high-quality care.,high,quality,.6200887
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,It is more important than ever that you get your booster shot.,you,get,.46898529
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Moreover, we are seeing wages increasing across the state and are now trending higher than before the pandemic.",see,wage,.45898098
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But it should mean that “compromise” and “common sense” are not dirty words.,dirty,word,.57629895
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,You’ve proven our collective faith in science and facts and medicine – and in each other.,prove,faith,.67284304
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"Hard work, even in the face of great challenge, does not deter us as New Jerseyans.",work,deter,.50789851
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And I urge the Legislature to once again take up the next phase of commonsense and comprehensive gun-safety reforms.,comprehensive,reform,.37795275
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And every vaccine dose is a ray of light through the dark cloud that has hung over our families.,that,hang,.54288346
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,This is what building an economy that works for every family looks like.,what,build,.4563047
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And so do so many millions of your fellow New Jerseyans who have done the very same.,do,million,.48120603
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We will never forget the loss that has hit so many of our neighbors.,hit,many,.52207559
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And 75 percent of you have completed your primary vaccination course.,percent,complete,.42894456
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,The Innovation Evergreen Fund will be critical to making this goal our reality.,make,reality,.64006031
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Every dose gets us one step closer to regaining the life we knew prior to COVID.,regain,life,.76529342
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And we did it without asking customers to pay one penny more in fares for four straight years.,straight,year,.76035523
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,And let’s prove that our best days aren’t in our rear-view mirror.,rear,view,.53532434
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This not only hurt our hardworking public employees, but it threatened our very financial health as a state.",financial,health,.32130173
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We are the number one state in America to raise a family.,raise,family,.5719496
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We have shown you can make economic progress and social progress at the same time.,social,progress,.50088781
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But we are making high-quality health care both more affordable and more accessible.,affordable,care,.28269717
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Not in our very backyard.,very,backyard,.35660613
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We inherited a state that worked for too few and which was at a crossroads.,inherit,state,.64340734
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"So, if you have not yet gotten your booster shot, here is what I ask of you – go get it.",ask,what,.52389705
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,… To Main Street stores and restaurants where communities can once again come alive.,community,come,.51689506
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,But it should mean that “compromise” and “common sense” are not dirty words.,it,mean,.45486042
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"This not only hurt our hardworking public employees, but it threatened our very financial health as a state.",this,hurt,.56803083
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,We still have much work to do.,much,work,.52667046
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,Science and reality tell us that what we once called “full” vaccination is no longer that.,science,tell,.56534523
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"We’ve cut taxes for our middle-class and working families, and our seniors, fourteen times.",middle,class,.57398474
+NJ2022.txt,New Jersey,Murphy_Phil,65,0,"For years, we were fed a line that no one wanted to be part of our New Jersey family.",one,want,.48233509
