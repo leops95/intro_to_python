@@ -38,15 +38,12 @@ for elem in listname:
     new_list.append(elem)
 
 # example 2
-listname = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-new_list2 = []
-
-for elem in sorted(listname, reverse = True):
-    new_list2.append(elem)
+listname = range(0, 10)
+new_list2 = [9-x for x in listname]
 
 # best
-listname = range(0,10)
-new_list3 = [9-x for x in listname]
+listname = list(range(0, 10))
+new_list3 = listname.sort(reverse = True)
 
 
 ##############################################################################
@@ -68,9 +65,9 @@ def printValues(how):
     
     return l
 
-printValues(how = "odd")
-printValues(how = "even")
-printValues(how = "test")
+print(printValues(how = "odd"))
+print(printValues(how = "even"))
+print(printValues(how = "test"))
 
 
 ##############################################################################

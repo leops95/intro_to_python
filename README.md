@@ -1,4 +1,4 @@
-# Introduction to Python
+# Introduction to Python programming
 
 This repository consists of slides and a replication code for the course of Introduction to Python, given at the University of Basel every semester.
 
