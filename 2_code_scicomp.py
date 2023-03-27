@@ -120,7 +120,7 @@ df_merged = df.merge(df_party, on = "st_name", indicator = True,
 ##############################################################################
 
 # COLLAPSE
-
+df_merged = df_merged[df_merged["metaphor_score"] >= 0.7]
 df_merged["nb_metaphors"] = 1
 
 df_collapsed = df_merged.groupby("party",
