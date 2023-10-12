@@ -1,5 +1,5 @@
 # This Python script has been written for the course "Introduction to Python"
-# at the University of Basel, Spring semester 2023
+# at the University of Basel, Fall semester 2023
 # Questions or suggestions ? leo.picard@unibas.ch
 
 
@@ -43,7 +43,7 @@ new_list2 = [9-x for x in listname]
 
 # best
 listname = list(range(0, 10))
-new_list3 = listname.sort(reverse = True)
+listname.sort(reverse = True)
 
 
 ##############################################################################

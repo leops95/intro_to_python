@@ -1,5 +1,5 @@
 # This Python script has been written for the course "Introduction to Python"
-# at the University of Basel, Spring semester 2023
+# at the University of Basel, Fall semester 2023
 # Questions or suggestions ? leo.picard@unibas.ch
 
 
@@ -98,7 +98,7 @@ df = pd.DataFrame() # creates an empty dataframe
 
 for file in files:
     data = pd.read_csv(file)
-    df = df.append(data)
+    df = pd.concat([df, data])
 
 
 ##############################################################################
