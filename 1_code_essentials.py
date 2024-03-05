@@ -277,3 +277,17 @@ n = [2, 5, 10]
 n_squared = squared(n)
 
 print(n_squared)
+
+
+#############################################################################
+
+# LAMBDA EXPRESSIONS
+
+def simple_operation(x):
+    x_new = x**2-1
+    return x_new
+
+n_new = simple_operation(10)
+print(n_new)
+
+(lambda x: x**2-1)(10)
