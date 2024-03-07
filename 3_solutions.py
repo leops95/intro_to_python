@@ -1,5 +1,5 @@
 # This Python script has been written for the course "Introduction to Python"
-# at the University of Basel, Fall semester 2023
+# at the University of Basel, Spring semester 2024
 # Questions or suggestions ? leo.picard@unibas.ch
 
 
