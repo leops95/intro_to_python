@@ -1,6 +1,6 @@
 # This Python script has been written for the course "Introduction to Python"
-# at the University of Basel, Spring semester 2024
-# Questions or suggestions ? leo.picard@unibas.ch
+# at the University of Basel, Spring semester 2025
+# Questions or suggestions? leo.picard@unibas.ch
 
 
 ##############################################################################
@@ -62,7 +62,7 @@ def printValues(how):
                 l.append(i**2)
         else:
             return print("The odd/even parameter was misspelled")
-    
+
     return l
 
 print(printValues(how = "odd"))
@@ -77,7 +77,7 @@ import os
 import glob # to store many file names
 import pandas as pd
 
-os.chdir("/home/picard0001/Desktop/intro_to_python")
+os.chdir("/home/username/Desktop/intro_to_python")
 
 files = glob.glob("data_raw/*_2022.csv") # star = "any"
 
@@ -86,7 +86,7 @@ df = pd.DataFrame() # creates an empty dataframe
 for file in files:
     data = pd.read_csv(file)
     df = df.append(data)
-    
+
 # Drop the filename column
 df = df.drop(columns = ["filename"])
 

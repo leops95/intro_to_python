@@ -1,6 +1,6 @@
 # This Python script has been written for the course "Introduction to Python"
-# at the University of Basel, Spring semester 2024
-# Questions or suggestions ? leo.picard@unibas.ch
+# at the University of Basel, Spring semester 2025
+# Questions or suggestions? leo.picard@unibas.ch
 
 
 ##############################################################################
@@ -30,7 +30,7 @@ print(cos(pi)) # with "from" we can even omit "np." !
 import os # to navigate between paths
 import pandas as pd
 
-os.chdir("/home/picard0001/Desktop/intro_to_python")
+os.chdir("/home/username/Desktop/intro_to_python")
 df = pd.read_csv("data_raw/Alabama_2022.csv")
 
 
@@ -90,7 +90,7 @@ import os
 import glob # to store many file names
 import pandas as pd
 
-os.chdir("/home/picard0001/Desktop/intro_to_python")
+os.chdir("/home/username/Desktop/intro_to_python")
 
 files = glob.glob("data_raw/*_2022.csv") # star = "any"
 
@@ -128,7 +128,7 @@ df_collapsed = df_merged.groupby("party",
 
 print(df_collapsed)
 
-    
+
 ##############################################################################
 
 # RESHAPE
@@ -170,4 +170,3 @@ ax.legend(["Men", "Women"])
 
 plt.tight_layout(); plt.savefig("plot_example2.pdf")
 plt.show()
-

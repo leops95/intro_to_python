@@ -1,6 +1,6 @@
 # This Python script has been written for the course "Introduction to Python"
-# at the University of Basel, Spring semester 2024
-# Questions or suggestions ? leo.picard@unibas.ch
+# at the University of Basel, Spring semester 2025
+# Questions or suggestions? leo.picard@unibas.ch
 
 
 ##############################################################################
@@ -50,7 +50,7 @@ print(type(number_2))
 'He said, "I love my dog"'
 
 name, birth = "Léo", 1995
-sent = f"Hi ! My name is {name} and I'm {2023-birth} years old."
+sent = f"Hi ! My name is {name} and I'm {2025-birth} years old."
 
 print(sent)
 
@@ -100,9 +100,7 @@ colors = ["red", "green", "blue", "yellow"]
 
 print(colors[1:3]) # elements 1 and 2
 
-print(colors[1:]) # last three elements
-
-print(colors[-1:]) # first element
+print(colors[1:], colors[-1:]) # last 3 elements, last element
 
 
 ##############################################################################
@@ -177,11 +175,7 @@ print(5 <= 5)
 
 x = True; y = False
 
-print(x or y)
-
-print(x and y)
-
-print(not x)
+print(x or y, x and y, not x)
 
 
 ##############################################################################
@@ -222,7 +216,7 @@ print(listname)
 
 ##############################################################################
 
-# HOW MANY LOOPS ?
+# HOW MANY LOOPS?
 
 for i in range(1, 4):
 	print("Loop number", i)
@@ -255,7 +249,7 @@ while i < 10:
 # FUNCTIONS
 
 def fib(n):
-	"""Print a Fibonacci series up to n"""
+	# Print a Fibonacci series up to n
 	a, b = 0, 1
 	while a < n:
 		print(a, end = ' ')
@@ -264,9 +258,8 @@ def fib(n):
 fib(10)
 
 def squared(array):
-    """
-    find the square of each element in a vector
-    """
+    # Find the square of each element in a vector
+    
     output = []
     for elem in array:
         elem_squared = elem**2
