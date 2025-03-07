@@ -138,7 +138,7 @@ df_wide = df_collapsed.pivot(index = "statistic",
                              columns = "party",
                              values = "nb_metaphors")
 
-print(df_wide)
+print(df_wide) # if the pivot breaks simply re-run the whole code
 
 
 ##############################################################################
