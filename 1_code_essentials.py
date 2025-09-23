@@ -1,5 +1,5 @@
-# This Python script has been written for the course "Introduction to Python"
-# at the University of Basel, Spring semester 2025
+# This Python was created for the crash course "Introduction to Python"
+# at the University of Basel, Fall semester 2025
 # Questions or suggestions? leo.picard@unibas.ch
 
 
@@ -206,10 +206,10 @@ for number in numbers:
 
 listname = [1, 2, 3, 4, 5, 6]
 
-listname = [x*x for x in listname]
+listname = [x*x for x in listname] # this iterates over all elements
 print(listname)
 
-# we can even add conditions
+# we can add conditions to subset elements
 listname = [x for x in listname if x%2 == 0]
 print(listname)
 
@@ -259,7 +259,7 @@ fib(10)
 
 def squared(array):
     # Find the square of each element in a vector
-    
+
     output = []
     for elem in array:
         elem_squared = elem**2
@@ -267,9 +267,9 @@ def squared(array):
     return output
 
 n = [2, 5, 10]
-n_squared = squared(n)
+n_new = squared(n)
 
-print(n_squared)
+print(n_new)
 
 
 #############################################################################

@@ -1,5 +1,5 @@
-# This Python script has been written for the course "Introduction to Python"
-# at the University of Basel, Spring semester 2025
+# This Python was created for the crash course "Introduction to Python"
+# at the University of Basel, Fall semester 2025
 # Questions or suggestions? leo.picard@unibas.ch
 
 
@@ -30,8 +30,8 @@ print(cos(pi)) # with "from" we can even omit "np." !
 import os # to navigate between paths
 import pandas as pd
 
-os.chdir("/home/username/Desktop/intro_to_python")
-df = pd.read_csv("data_raw/Alabama_2022.csv")
+os.chdir("/home/username/Desktop/intro_to_python-master")
+df = pd.read_csv("data_raw/Idaho_2022.csv")
 
 
 ##############################################################################
@@ -67,7 +67,7 @@ df["metaphor"] = df["arg0"] + " " + df["arg1"]
 
 ##############################################################################
 
-# APPLY
+# APPLY AND MAP
 
 # Recode the gender variable from int to str
 def recode_party(gender):
@@ -78,9 +78,11 @@ def recode_party(gender):
         gender_str = "Man"
     return gender_str
 
-df["gender_str"] = df.apply(lambda x: recode_party(x["gender"]),
-                            axis = 1)
+df["gender_str"] = df.apply(lambda x: recode_party(x["gender"]), axis = 1)
 
+# Alternatively,
+gender_map = {0: "Man", 1: "Woman"}
+df["gender_str2"] = df["gender"].map(gender_map)
 
 ##############################################################################
 
@@ -90,7 +92,7 @@ import os
 import glob # to store many file names
 import pandas as pd
 
-os.chdir("/home/username/Desktop/intro_to_python")
+os.chdir("/home/username/Desktop/intro_to_python-master")
 
 files = glob.glob("data_raw/*_2022.csv") # star = "any"
 
@@ -120,8 +122,9 @@ df_merged = df.merge(df_party, on = "st_name", indicator = True,
 ##############################################################################
 
 # COLLAPSE
+
 df_merged = df_merged[df_merged["metaphor_score"] >= 0.7]
-df_merged["nb_metaphors"] = 1
+df_merged["nb_metaphors"] = 1 # each row is counted as one metaphor
 
 df_collapsed = df_merged.groupby("party",
                                  as_index = False)["nb_metaphors"].sum()
@@ -132,6 +135,7 @@ print(df_collapsed)
 ##############################################################################
 
 # RESHAPE
+
 df_collapsed["statistic"] = "metaphor frequency"
 
 df_wide = df_collapsed.pivot(index = "statistic",

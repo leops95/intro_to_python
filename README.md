@@ -1,6 +1,6 @@
 # Introduction to Python programming
 
-This repository consists of slides and a replication code for the course of Introduction to Python, given at the University of Basel every semester.
+This repository contains the slides and a replication code for the crash course "Introduction to Python", given at the University of Basel every semester.
 
 For more information on the date and location of the course, please refer to the following website:
 https://wwz.unibas.ch/en/faculty/people/maringer-dietmar-computational-economics-and-finance/teaching/vorkurs-arbeiten-mit-wissenschaftlicher-software/
@@ -8,7 +8,7 @@ https://wwz.unibas.ch/en/faculty/people/maringer-dietmar-computational-economics
 
 Folder/file | Definition
 -------|-----------
-intro_to_python_FS2025.pdf | Course slides (spring semester 2025)
+intro_to_python_HS2025.pdf | Course slides (Fall semester 2025)
 1_code_essentials.py | Code used in the first section
 2_code_scicomp.py | Code used in the second section
 3_solutions.py | Solutions to the exercises presented at the end of each section
