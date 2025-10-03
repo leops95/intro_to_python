@@ -46,6 +46,7 @@ df["metaphor_score"].max()
 df["metaphor_score"].describe()
 df["arg1"].value_counts()
 df["speaker"].describe()
+df["speaker"].unique()
 
 
 ##############################################################################
