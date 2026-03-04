@@ -1,5 +1,5 @@
 # This Python was created for the crash course "Introduction to Python"
-# at the University of Basel, Fall semester 2025
+# at the University of Basel, Spring semester 2026
 # Questions or suggestions? leo.picard@unibas.ch
 
 
@@ -50,7 +50,7 @@ print(type(number_2))
 'He said, "I love my dog"'
 
 name, birth = "Léo", 1995
-sent = f"Hi ! My name is {name} and I'm {2025-birth} years old."
+sent = f"Hi ! My name is {name} and I'm {2026-birth} years old."
 
 print(sent)
 
@@ -182,10 +182,10 @@ print(x or y, x and y, not x)
 
 # IF STATEMENTS
 
-x, y = 5, 10
+x, y = 5, 5
 
 if y < x:
-	print("y smaller than x")
+    print("y smaller than x")
 else:
 	print("y greater than x")
 

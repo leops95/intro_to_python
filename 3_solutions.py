@@ -1,5 +1,5 @@
 # This Python was created for the crash course "Introduction to Python"
-# at the University of Basel, Fall semester 2025
+# at the University of Basel, Spring semester 2026
 # Questions or suggestions? leo.picard@unibas.ch
 
 

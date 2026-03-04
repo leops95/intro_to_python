@@ -8,7 +8,7 @@ https://wwz.unibas.ch/en/faculty/people/maringer-dietmar-computational-economics
 
 Folder/file | Definition
 -------|-----------
-intro_to_python_HS2025.pdf | Course slides (Fall semester 2025)
+intro_to_python_FS2026.pdf | Course slides (Spring semester 2026)
 1_code_essentials.py | Code used in the first section
 2_code_scicomp.py | Code used in the second section
 3_solutions.py | Solutions to the exercises presented at the end of each section
