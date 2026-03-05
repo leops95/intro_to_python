@@ -182,7 +182,7 @@ print(x or y, x and y, not x)
 
 # IF STATEMENTS
 
-x, y = 5, 5
+x, y = 5, 10
 
 if y < x:
     print("y smaller than x")
