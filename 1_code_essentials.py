@@ -107,7 +107,7 @@ print(colors[1:], colors[-1:]) # last 3 elements, last element
 
 # DICTIONARIES
 
-dictname = {'BS': 'Basel Stadt', 'GE': 'Geneva', 'TI': 'Ticino'}
+dictname = {'BS': 'Basel Stadt', 'GE': 'Genève', 'TI': 'Ticino'}
 print(dictname['BS'])
 
 dictname['ZH'] = "Zurich"
@@ -162,10 +162,10 @@ print(6 > 10)
 # less than
 print(2 < 5)
 
-# greater or equal than
+# greater than or equal to
 print(8 >= 3)
 
-# less or equal than
+# less than or equal to
 print(5 <= 5)
 
 
